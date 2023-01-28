@@ -82,6 +82,28 @@ async function removeStay(req, res) {
   }
 }
 
+// async function addStayLike(req, res) {
+//   const { loggedinUser } = req
+//   try {
+//     const stayId = req.params.id
+//     const user = loggedinUser
+      
+      
+//     // const user = {
+      
+//     //   // ...req.body
+//     //   // name: req.body.name,
+//     //   // by: loggedinUser
+//     // }
+//     const savedMsg = await stayService.addStayMsg(stayId, user)
+//     res.json(savedMsg)
+//   } catch (err) {
+//     logger.error('Failed to update stay', err)
+//     res.status(500).send({ err: 'Failed to update stay' })
+
+//   }
+// }
+
 async function addStayMsg(req, res) {
   const { loggedinUser } = req
   try {
