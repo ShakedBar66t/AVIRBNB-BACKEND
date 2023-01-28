@@ -91,13 +91,15 @@ async function add(stay) {
 }
 
 async function update(stay) {
+    // console.log(' inside update ate stay.service', stay)
     try {
-        const stayToSave = {
-            name: stay.name,
-            price: stay.price
+        const likedByUsers = {
+            likedByUsers: stay.likedByUsers
         }
         const collection = await dbService.getCollection('stay')
-        await collection.updateOne({ _id: ObjectId(stay._id) }, { $set: stayToSave })
+        console.log(collection)
+        await collection.updateOne({ _id: ObjectId(stay._id) }, { $set: { likedByUsers } })
+        // await collection.updateOne({ _id: ObjectId(stay._id) }, { $set: { stayToSave } })
         return stay
     } catch (err) {
         logger.error(`cannot update stay ${stay._id}`, err)

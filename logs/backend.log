@@ -1173,3 +1173,204 @@
 28.1.2023, 18:13:01 - DEBUG - Getting orders 
 28.1.2023, 18:13:02 - INFO - Req was made 
 28.1.2023, 18:13:02 - DEBUG - Getting stays 
+28.1.2023, 19:22:26 - INFO - Server is running on port: 3030 
+28.1.2023, 19:24:19 - INFO - Req was made 
+28.1.2023, 19:24:19 - DEBUG - Getting stays 
+28.1.2023, 19:24:59 - INFO - Req was made 
+28.1.2023, 19:24:59 - DEBUG - Getting stays 
+28.1.2023, 19:25:11 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 19:25:11 - ERROR - Failed to Login Invalid username or password 
+28.1.2023, 19:25:18 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 19:25:18 - ERROR - Failed to Login Invalid username or password 
+28.1.2023, 19:25:21 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 19:25:21 - ERROR - Failed to Login Invalid username or password 
+28.1.2023, 19:25:48 - DEBUG - auth.service - signup with username: itai123@gmail.com, fullname: itai 
+28.1.2023, 19:25:49 - DEBUG - auth.route - new account created: {"username":"itai123@gmail.com","password":"$2b$10$mDc10mXPXAO63Doo5NVrI.9XNznu5vWtBFXqRL0MxobYIZzQ8OUBu","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d55a9dd278947d04b2acee"} 
+28.1.2023, 19:25:49 - DEBUG - auth.service - login with username: itai123@gmail.com 
+28.1.2023, 19:25:49 - INFO - User login:  | {"_id":"63d55a9dd278947d04b2acee","username":"itai123@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 19:25:50 - INFO - Req was made 
+28.1.2023, 19:25:50 - DEBUG - Getting stays 
+28.1.2023, 19:25:53 - INFO - Req was made 
+28.1.2023, 19:25:53 - DEBUG - Getting orders 
+28.1.2023, 19:26:08 - INFO - Req was made 
+28.1.2023, 19:26:08 - DEBUG - Getting orders 
+28.1.2023, 19:26:10 - DEBUG - Getting stays 
+28.1.2023, 19:26:10 - INFO - Req was made 
+28.1.2023, 19:26:21 - DEBUG - Getting stays 
+28.1.2023, 19:26:21 - INFO - Req was made 
+28.1.2023, 19:26:27 - INFO - Req was made 
+28.1.2023, 19:26:27 - DEBUG - Getting stays 
+28.1.2023, 19:26:30 - INFO - Req was made 
+28.1.2023, 19:26:30 - DEBUG - Getting stays 
+28.1.2023, 19:26:33 - INFO - Req was made 
+28.1.2023, 19:26:33 - DEBUG - Getting stays 
+28.1.2023, 19:26:51 - DEBUG - Getting stays 
+28.1.2023, 19:26:51 - INFO - Req was made 
+28.1.2023, 19:27:23 - INFO - Req was made 
+28.1.2023, 19:27:23 - DEBUG - Getting stays 
+28.1.2023, 19:27:32 - INFO - Req was made 
+28.1.2023, 19:27:32 - DEBUG - Getting stays 
+28.1.2023, 19:27:39 - INFO - Req was made 
+28.1.2023, 19:27:39 - DEBUG - Getting stays 
+28.1.2023, 19:28:30 - INFO - Req was made 
+28.1.2023, 19:28:30 - DEBUG - Getting stays 
+28.1.2023, 19:28:48 - DEBUG - auth.service - login with username: itai123@gmail.com 
+28.1.2023, 19:28:48 - INFO - User login:  | {"_id":"63d55a9dd278947d04b2acee","username":"itai123@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 19:28:49 - INFO - Req was made 
+28.1.2023, 19:28:49 - DEBUG - Getting stays 
+28.1.2023, 19:29:14 - DEBUG - auth.service - login with username: itai123@gmail.com 
+28.1.2023, 19:29:14 - ERROR - Failed to Login Invalid username or password 
+28.1.2023, 19:29:20 - DEBUG - auth.service - login with username: itai123@gmail.com 
+28.1.2023, 19:29:20 - INFO - User login:  | {"_id":"63d55a9dd278947d04b2acee","username":"itai123@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 19:29:21 - INFO - Req was made 
+28.1.2023, 19:29:21 - DEBUG - Getting stays 
+28.1.2023, 19:29:31 - DEBUG - Getting orders 
+28.1.2023, 19:29:31 - INFO - Req was made 
+28.1.2023, 19:31:13 - INFO - Req was made 
+28.1.2023, 19:31:13 - DEBUG - Getting orders 
+28.1.2023, 19:31:19 - INFO - Req was made 
+28.1.2023, 19:31:19 - DEBUG - Getting stays 
+28.1.2023, 19:31:39 - INFO - Req was made 
+28.1.2023, 19:31:39 - DEBUG - Getting stays 
+28.1.2023, 19:42:44 - INFO - Req was made 
+28.1.2023, 19:42:44 - DEBUG - Getting stays 
+28.1.2023, 19:44:36 - DEBUG - Getting stays 
+28.1.2023, 19:44:36 - INFO - Req was made 
+28.1.2023, 19:44:46 - INFO - Req was made 
+28.1.2023, 19:44:46 - DEBUG - Getting stays 
+28.1.2023, 19:45:08 - INFO - Req was made 
+28.1.2023, 19:45:08 - DEBUG - Getting stays 
+28.1.2023, 19:45:10 - INFO - Req was made 
+28.1.2023, 19:45:10 - DEBUG - Getting stays 
+28.1.2023, 19:45:14 - INFO - Req was made 
+28.1.2023, 19:45:14 - DEBUG - Getting stays 
+28.1.2023, 19:45:16 - INFO - Req was made 
+28.1.2023, 19:45:16 - DEBUG - Getting stays 
+28.1.2023, 19:45:27 - INFO - Req was made 
+28.1.2023, 19:45:27 - DEBUG - Getting stays 
+28.1.2023, 19:45:31 - INFO - Req was made 
+28.1.2023, 19:45:31 - DEBUG - Getting stays 
+28.1.2023, 19:45:36 - INFO - Req was made 
+28.1.2023, 19:45:36 - DEBUG - Getting stays 
+28.1.2023, 19:45:37 - INFO - Req was made 
+28.1.2023, 19:45:37 - DEBUG - Getting stays 
+28.1.2023, 19:45:45 - INFO - Req was made 
+28.1.2023, 19:45:45 - DEBUG - Getting stays 
+28.1.2023, 19:45:47 - INFO - Req was made 
+28.1.2023, 19:45:47 - DEBUG - Getting stays 
+28.1.2023, 19:45:53 - INFO - Req was made 
+28.1.2023, 19:45:53 - DEBUG - Getting stays 
+28.1.2023, 19:46:06 - INFO - Req was made 
+28.1.2023, 19:46:06 - DEBUG - Getting stays 
+28.1.2023, 19:46:12 - INFO - Req was made 
+28.1.2023, 19:46:12 - DEBUG - Getting stays 
+28.1.2023, 19:46:16 - INFO - Req was made 
+28.1.2023, 19:46:16 - DEBUG - Getting stays 
+28.1.2023, 19:46:18 - INFO - Req was made 
+28.1.2023, 19:46:18 - DEBUG - Getting stays 
+28.1.2023, 19:46:53 - INFO - Req was made 
+28.1.2023, 19:46:53 - DEBUG - Getting stays 
+28.1.2023, 19:49:15 - DEBUG - Getting stays 
+28.1.2023, 19:49:15 - INFO - Req was made 
+28.1.2023, 19:49:28 - INFO - Req was made 
+28.1.2023, 19:49:28 - DEBUG - Getting stays 
+28.1.2023, 19:49:36 - INFO - Req was made 
+28.1.2023, 19:49:36 - DEBUG - Getting stays 
+28.1.2023, 19:51:34 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+28.1.2023, 19:51:34 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$vPwMHi2TfdnClimESk.4QO6rba/tPeVK4w4CPN0.0YujDaNcfhu1a","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d560a6d278947d04b2acef"} 
+28.1.2023, 19:51:34 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 19:51:34 - INFO - User login:  | {"_id":"63d560a6d278947d04b2acef","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 19:51:36 - INFO - Req was made 
+28.1.2023, 19:51:36 - DEBUG - Getting stays 
+28.1.2023, 19:54:02 - INFO - Req was made 
+28.1.2023, 19:54:02 - DEBUG - Getting stays 
+28.1.2023, 19:54:31 - INFO - Req was made 
+28.1.2023, 19:54:31 - DEBUG - Getting stays 
+28.1.2023, 19:54:38 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 19:54:39 - INFO - User login:  | {"_id":"63d560a6d278947d04b2acef","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 19:54:40 - INFO - Req was made 
+28.1.2023, 19:54:40 - DEBUG - Getting stays 
+28.1.2023, 19:54:46 - WARN - itaiattempted to perform admin action 
+28.1.2023, 19:57:27 - INFO - Req was made 
+28.1.2023, 19:57:27 - DEBUG - Getting stays 
+28.1.2023, 19:57:33 - WARN - itaiattempted to perform admin action 
+28.1.2023, 19:58:07 - WARN - itaiattempted to perform admin action 
+28.1.2023, 19:58:39 - INFO - Req was made 
+28.1.2023, 19:58:39 - DEBUG - Getting stays 
+28.1.2023, 19:59:36 - WARN - itaiattempted to perform admin action 
+28.1.2023, 20:00:16 - INFO - Req was made 
+28.1.2023, 20:00:16 - DEBUG - Getting stays 
+28.1.2023, 20:06:04 - WARN - itaiattempted to perform admin action 
+28.1.2023, 20:06:08 - WARN - itaiattempted to perform admin action 
+28.1.2023, 20:06:12 - WARN - itaiattempted to perform admin action 
+28.1.2023, 20:07:02 - WARN - itaiattempted to perform admin action 
+28.1.2023, 20:07:33 - WARN - itaiattempted to perform admin action 
+28.1.2023, 20:08:36 - INFO - Req was made 
+28.1.2023, 20:08:36 - DEBUG - Getting stays 
+28.1.2023, 20:08:54 - INFO - Req was made 
+28.1.2023, 20:08:54 - DEBUG - Getting stays 
+28.1.2023, 20:09:38 - WARN - itaiattempted to perform admin action 
+28.1.2023, 20:11:38 - INFO - Req was made 
+28.1.2023, 20:11:38 - DEBUG - Getting stays 
+28.1.2023, 20:13:05 - INFO - Server is running on port: 3030 
+28.1.2023, 20:13:32 - INFO - Req was made 
+28.1.2023, 20:13:32 - DEBUG - Getting stays 
+28.1.2023, 20:13:45 - INFO - Req was made 
+28.1.2023, 20:13:45 - DEBUG - Getting stays 
+28.1.2023, 20:14:59 - INFO - Server is running on port: 3030 
+28.1.2023, 20:17:19 - INFO - Req was made 
+28.1.2023, 20:17:19 - DEBUG - Getting stays 
+28.1.2023, 20:19:39 - INFO - Req was made 
+28.1.2023, 20:19:39 - DEBUG - Getting stays 
+28.1.2023, 20:20:10 - INFO - Server is running on port: 3030 
+28.1.2023, 20:20:37 - INFO - Server is running on port: 3030 
+28.1.2023, 20:21:19 - INFO - Server is running on port: 3030 
+28.1.2023, 20:21:25 - ERROR - cannot update stay 622f337a75c7d36e498aaaf9 | ReferenceError: stayToSave is not defined 
+28.1.2023, 20:21:25 - ERROR - Failed to update stay | ReferenceError: stayToSave is not defined 
+28.1.2023, 20:21:29 - INFO - Server is running on port: 3030 
+28.1.2023, 20:21:34 - INFO - Req was made 
+28.1.2023, 20:21:34 - DEBUG - Getting stays 
+28.1.2023, 20:21:44 - ERROR - Failed to update stay | ReferenceError: likedByUsers is not defined 
+28.1.2023, 20:21:44 - ERROR - cannot update stay 622f337a75c7d36e498aaaf9 | ReferenceError: likedByUsers is not defined 
+28.1.2023, 20:21:59 - INFO - Server is running on port: 3030 
+28.1.2023, 20:25:00 - INFO - Server is running on port: 3030 
+28.1.2023, 20:25:07 - ERROR - cannot update stay 622f337a75c7d36e498aaaf8 | ReferenceError: Cannot access 'likedByUsers' before initialization 
+28.1.2023, 20:25:07 - ERROR - Failed to update stay | ReferenceError: Cannot access 'likedByUsers' before initialization 
+28.1.2023, 20:26:19 - INFO - Server is running on port: 3030 
+28.1.2023, 20:27:15 - INFO - Server is running on port: 3030 
+28.1.2023, 20:27:34 - INFO - Req was made 
+28.1.2023, 20:27:34 - DEBUG - Getting stays 
+28.1.2023, 20:27:38 - INFO - Req was made 
+28.1.2023, 20:27:38 - DEBUG - Getting stays 
+28.1.2023, 20:28:35 - INFO - Server is running on port: 3030 
+28.1.2023, 20:28:53 - INFO - Server is running on port: 3030 
+28.1.2023, 20:29:57 - INFO - Server is running on port: 3030 
+28.1.2023, 20:30:16 - INFO - Server is running on port: 3030 
+28.1.2023, 20:30:22 - INFO - Server is running on port: 3030 
+28.1.2023, 20:30:39 - INFO - Req was made 
+28.1.2023, 20:30:39 - DEBUG - Getting stays 
+28.1.2023, 20:31:17 - INFO - Req was made 
+28.1.2023, 20:31:17 - DEBUG - Getting stays 
+28.1.2023, 20:31:45 - INFO - Server is running on port: 3030 
+28.1.2023, 20:31:48 - INFO - Req was made 
+28.1.2023, 20:31:48 - DEBUG - Getting stays 
+28.1.2023, 20:32:10 - DEBUG - Getting stays 
+28.1.2023, 20:32:10 - INFO - Req was made 
+28.1.2023, 20:35:19 - INFO - Server is running on port: 3030 
+28.1.2023, 20:35:46 - INFO - Req was made 
+28.1.2023, 20:35:46 - DEBUG - Getting stays 
+28.1.2023, 20:35:54 - INFO - Req was made 
+28.1.2023, 20:35:54 - DEBUG - Getting stays 
+28.1.2023, 20:36:42 - INFO - Server is running on port: 3030 
+28.1.2023, 20:36:48 - INFO - Req was made 
+28.1.2023, 20:36:48 - DEBUG - Getting stays 
+28.1.2023, 20:36:54 - ERROR - cannot update stay 622f337a75c7d36e498aaaf8 | MongoInvalidArgumentError: Replacement document must not contain atomic operators 
+28.1.2023, 20:36:54 - ERROR - Failed to update stay | MongoInvalidArgumentError: Replacement document must not contain atomic operators 
+28.1.2023, 20:37:46 - INFO - Server is running on port: 3030 
+28.1.2023, 20:37:59 - INFO - Req was made 
+28.1.2023, 20:37:59 - DEBUG - Getting stays 
+28.1.2023, 20:38:21 - INFO - Server is running on port: 3030 
+28.1.2023, 20:43:09 - INFO - Server is running on port: 3030 
+28.1.2023, 20:43:20 - INFO - Req was made 
+28.1.2023, 20:43:20 - DEBUG - Getting stays 
+28.1.2023, 20:44:55 - INFO - Server is running on port: 3030 
