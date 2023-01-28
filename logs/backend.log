@@ -1173,3 +1173,90 @@
 28.1.2023, 18:13:01 - DEBUG - Getting orders 
 28.1.2023, 18:13:02 - INFO - Req was made 
 28.1.2023, 18:13:02 - DEBUG - Getting stays 
+28.1.2023, 19:39:15 - INFO - Server is running on port: 3030 
+28.1.2023, 19:39:18 - INFO - Req was made 
+28.1.2023, 19:39:18 - DEBUG - Getting stays 
+28.1.2023, 19:39:32 - INFO - Req was made 
+28.1.2023, 19:39:32 - DEBUG - Getting stays 
+28.1.2023, 19:40:07 - DEBUG - auth.service - signup with username: alive2154@gmail.com, fullname: Shaked Barsheshet 
+28.1.2023, 19:40:07 - DEBUG - auth.route - new account created: {"username":"alive2154@gmail.com","password":"$2b$10$LX1XIxC30KXTEBG.K8GcjOYCF0ddRzNwYE4R/BshKJhbS4Mdc8Dx.","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d55df79567a8073387d39f"} 
+28.1.2023, 19:40:07 - DEBUG - auth.service - login with username: alive2154@gmail.com 
+28.1.2023, 19:40:07 - INFO - User login:  | {"_id":"63d55df79567a8073387d39f","username":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 19:40:07 - INFO - Req was made 
+28.1.2023, 19:40:07 - DEBUG - Getting stays 
+28.1.2023, 19:40:14 - INFO - Req was made 
+28.1.2023, 19:40:14 - DEBUG - Getting stays 
+28.1.2023, 19:40:29 - INFO - Req was made 
+28.1.2023, 19:40:29 - DEBUG - Getting stays 
+28.1.2023, 19:41:07 - INFO - Req was made 
+28.1.2023, 19:41:07 - DEBUG - Getting stays 
+28.1.2023, 19:41:24 - INFO - Req was made 
+28.1.2023, 19:41:24 - DEBUG - Getting stays 
+28.1.2023, 19:41:26 - INFO - Req was made 
+28.1.2023, 19:41:26 - DEBUG - Getting stays 
+28.1.2023, 19:41:29 - INFO - Req was made 
+28.1.2023, 19:41:29 - DEBUG - Getting stays 
+28.1.2023, 19:41:33 - INFO - Req was made 
+28.1.2023, 19:41:33 - DEBUG - Getting stays 
+28.1.2023, 19:41:59 - INFO - Req was made 
+28.1.2023, 19:41:59 - DEBUG - Getting stays 
+28.1.2023, 19:42:45 - INFO - Req was made 
+28.1.2023, 19:42:45 - DEBUG - Getting stays 
+28.1.2023, 19:50:52 - DEBUG - auth.service - login with username: alive2154@gmail.com 
+28.1.2023, 19:50:52 - INFO - User login:  | {"_id":"63d55df79567a8073387d39f","username":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 19:50:52 - INFO - Req was made 
+28.1.2023, 19:50:52 - DEBUG - Getting stays 
+28.1.2023, 19:51:21 - INFO - Req was made 
+28.1.2023, 19:51:21 - DEBUG - Getting stays 
+28.1.2023, 19:51:35 - INFO - Req was made 
+28.1.2023, 19:51:35 - DEBUG - Getting stays 
+28.1.2023, 19:51:39 - INFO - Req was made 
+28.1.2023, 19:51:39 - DEBUG - Getting stays 
+28.1.2023, 19:51:45 - INFO - Req was made 
+28.1.2023, 19:51:45 - DEBUG - Getting stays 
+28.1.2023, 19:54:03 - INFO - Req was made 
+28.1.2023, 19:54:03 - DEBUG - Getting stays 
+28.1.2023, 19:54:12 - INFO - Req was made 
+28.1.2023, 19:54:12 - DEBUG - Getting stays 
+28.1.2023, 19:54:20 - DEBUG - auth.service - login with username: alive2154@gmail.com 
+28.1.2023, 19:54:20 - INFO - User login:  | {"_id":"63d55df79567a8073387d39f","username":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 19:54:20 - INFO - Req was made 
+28.1.2023, 19:54:20 - DEBUG - Getting stays 
+28.1.2023, 19:55:29 - INFO - Req was made 
+28.1.2023, 19:55:29 - DEBUG - Getting stays 
+28.1.2023, 20:12:02 - DEBUG - auth.service - login with username: alive2154@gmail.com 
+28.1.2023, 20:12:02 - INFO - User login:  | {"_id":"63d55df79567a8073387d39f","username":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 20:12:02 - INFO - Req was made 
+28.1.2023, 20:12:02 - DEBUG - Getting stays 
+28.1.2023, 20:12:41 - INFO - Req was made 
+28.1.2023, 20:12:41 - DEBUG - Getting stays 
+28.1.2023, 20:12:44 - INFO - Req was made 
+28.1.2023, 20:12:44 - DEBUG - Getting stays 
+28.1.2023, 20:17:42 - INFO - Req was made 
+28.1.2023, 20:17:42 - DEBUG - Getting stays 
+28.1.2023, 20:17:47 - INFO - Req was made 
+28.1.2023, 20:17:47 - DEBUG - Getting stays 
+28.1.2023, 20:18:38 - DEBUG - Getting stays 
+28.1.2023, 20:18:38 - INFO - Req was made 
+28.1.2023, 20:18:41 - INFO - Req was made 
+28.1.2023, 20:18:41 - DEBUG - Getting stays 
+28.1.2023, 20:18:43 - INFO - Req was made 
+28.1.2023, 20:18:43 - DEBUG - Getting stays 
+28.1.2023, 21:10:19 - INFO - Req was made 
+28.1.2023, 21:10:19 - DEBUG - Getting stays 
+28.1.2023, 21:10:29 - INFO - Req was made 
+28.1.2023, 21:10:29 - DEBUG - Getting stays 
+28.1.2023, 21:11:24 - INFO - Req was made 
+28.1.2023, 21:11:24 - DEBUG - Getting stays 
+28.1.2023, 21:11:54 - INFO - Req was made 
+28.1.2023, 21:11:54 - DEBUG - Getting stays 
+28.1.2023, 21:34:53 - DEBUG - Getting stays 
+28.1.2023, 21:34:53 - INFO - Req was made 
+28.1.2023, 22:41:54 - INFO - Req was made 
+28.1.2023, 22:41:54 - DEBUG - Getting stays 
+28.1.2023, 23:15:05 - INFO - Req was made 
+28.1.2023, 23:15:05 - DEBUG - Getting stays 
+28.1.2023, 23:46:52 - INFO - Req was made 
+28.1.2023, 23:46:52 - DEBUG - Getting stays 
+29.1.2023, 0:02:41 - INFO - Req was made 
+29.1.2023, 0:02:41 - DEBUG - Getting stays 
