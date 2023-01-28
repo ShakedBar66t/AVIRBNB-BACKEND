@@ -1173,6 +1173,172 @@
 28.1.2023, 18:13:01 - DEBUG - Getting orders 
 28.1.2023, 18:13:02 - INFO - Req was made 
 28.1.2023, 18:13:02 - DEBUG - Getting stays 
+28.1.2023, 19:40:55 - INFO - Server is running on port: 3030 
+28.1.2023, 19:41:41 - INFO - Req was made 
+28.1.2023, 19:41:41 - DEBUG - Getting stays 
+28.1.2023, 19:42:17 - INFO - Req was made 
+28.1.2023, 19:42:17 - DEBUG - Getting stays 
+28.1.2023, 19:42:19 - INFO - Req was made 
+28.1.2023, 19:42:19 - DEBUG - Getting stays 
+28.1.2023, 19:42:22 - DEBUG - Getting stays 
+28.1.2023, 19:42:22 - INFO - Req was made 
+28.1.2023, 19:42:23 - INFO - Req was made 
+28.1.2023, 19:42:23 - DEBUG - Getting stays 
+28.1.2023, 19:42:25 - INFO - Req was made 
+28.1.2023, 19:42:25 - DEBUG - Getting stays 
+28.1.2023, 19:42:27 - INFO - Req was made 
+28.1.2023, 19:42:27 - DEBUG - Getting stays 
+28.1.2023, 19:42:29 - INFO - Req was made 
+28.1.2023, 19:42:29 - DEBUG - Getting stays 
+28.1.2023, 19:42:31 - INFO - Req was made 
+28.1.2023, 19:42:31 - DEBUG - Getting stays 
+28.1.2023, 19:42:35 - INFO - Req was made 
+28.1.2023, 19:42:35 - DEBUG - Getting stays 
+28.1.2023, 19:42:36 - INFO - Req was made 
+28.1.2023, 19:42:36 - DEBUG - Getting stays 
+28.1.2023, 19:42:56 - INFO - Req was made 
+28.1.2023, 19:42:56 - DEBUG - Getting stays 
+28.1.2023, 19:43:02 - INFO - Req was made 
+28.1.2023, 19:43:02 - DEBUG - Getting stays 
+28.1.2023, 19:43:12 - INFO - Req was made 
+28.1.2023, 19:43:12 - DEBUG - Getting stays 
+28.1.2023, 19:43:14 - INFO - Req was made 
+28.1.2023, 19:43:14 - DEBUG - Getting stays 
+28.1.2023, 19:43:15 - INFO - Req was made 
+28.1.2023, 19:43:15 - DEBUG - Getting stays 
+28.1.2023, 19:43:18 - INFO - Req was made 
+28.1.2023, 19:43:18 - DEBUG - Getting stays 
+28.1.2023, 19:43:19 - DEBUG - Getting stays 
+28.1.2023, 19:43:19 - INFO - Req was made 
+28.1.2023, 19:43:23 - INFO - Req was made 
+28.1.2023, 19:43:23 - DEBUG - Getting stays 
+28.1.2023, 19:43:31 - INFO - Req was made 
+28.1.2023, 19:43:31 - DEBUG - Getting stays 
+28.1.2023, 19:43:52 - INFO - Req was made 
+28.1.2023, 19:43:52 - DEBUG - Getting stays 
+28.1.2023, 19:43:54 - INFO - Req was made 
+28.1.2023, 19:43:54 - DEBUG - Getting stays 
+28.1.2023, 19:43:57 - DEBUG - Getting stays 
+28.1.2023, 19:43:57 - INFO - Req was made 
+28.1.2023, 19:43:59 - INFO - Req was made 
+28.1.2023, 19:43:59 - DEBUG - Getting stays 
+28.1.2023, 19:44:03 - INFO - Req was made 
+28.1.2023, 19:44:03 - DEBUG - Getting stays 
+28.1.2023, 19:44:08 - DEBUG - Getting stays 
+28.1.2023, 19:44:08 - INFO - Req was made 
+28.1.2023, 19:44:12 - DEBUG - Getting stays 
+28.1.2023, 19:44:12 - INFO - Req was made 
+28.1.2023, 19:44:18 - INFO - Req was made 
+28.1.2023, 19:44:18 - DEBUG - Getting stays 
+28.1.2023, 19:44:19 - INFO - Req was made 
+28.1.2023, 19:44:19 - DEBUG - Getting stays 
+28.1.2023, 19:44:25 - INFO - Req was made 
+28.1.2023, 19:44:25 - DEBUG - Getting stays 
+28.1.2023, 19:44:31 - INFO - Req was made 
+28.1.2023, 19:44:31 - DEBUG - Getting stays 
+28.1.2023, 19:44:38 - INFO - Req was made 
+28.1.2023, 19:44:38 - DEBUG - Getting stays 
+28.1.2023, 19:44:41 - INFO - Req was made 
+28.1.2023, 19:44:41 - DEBUG - Getting stays 
+28.1.2023, 19:44:45 - INFO - Req was made 
+28.1.2023, 19:44:45 - DEBUG - Getting stays 
+28.1.2023, 19:44:55 - INFO - Req was made 
+28.1.2023, 19:44:55 - DEBUG - Getting stays 
+28.1.2023, 19:44:56 - INFO - Req was made 
+28.1.2023, 19:44:56 - DEBUG - Getting stays 
+28.1.2023, 19:44:58 - INFO - Req was made 
+28.1.2023, 19:44:58 - DEBUG - Getting stays 
+28.1.2023, 19:44:59 - INFO - Req was made 
+28.1.2023, 19:44:59 - DEBUG - Getting stays 
+28.1.2023, 19:45:02 - INFO - Req was made 
+28.1.2023, 19:45:02 - DEBUG - Getting stays 
+28.1.2023, 19:45:03 - INFO - Req was made 
+28.1.2023, 19:45:03 - DEBUG - Getting stays 
+28.1.2023, 19:45:08 - INFO - Req was made 
+28.1.2023, 19:45:08 - DEBUG - Getting stays 
+28.1.2023, 19:45:12 - DEBUG - Getting stays 
+28.1.2023, 19:45:12 - INFO - Req was made 
+28.1.2023, 19:45:15 - INFO - Req was made 
+28.1.2023, 19:45:15 - DEBUG - Getting stays 
+28.1.2023, 19:45:16 - INFO - Req was made 
+28.1.2023, 19:45:16 - DEBUG - Getting stays 
+28.1.2023, 19:45:54 - INFO - Req was made 
+28.1.2023, 19:45:54 - DEBUG - Getting stays 
+28.1.2023, 19:45:56 - DEBUG - Getting stays 
+28.1.2023, 19:45:56 - INFO - Req was made 
+28.1.2023, 19:46:04 - INFO - Req was made 
+28.1.2023, 19:46:04 - DEBUG - Getting stays 
+28.1.2023, 19:46:05 - INFO - Req was made 
+28.1.2023, 19:46:05 - DEBUG - Getting stays 
+28.1.2023, 19:46:10 - DEBUG - Getting stays 
+28.1.2023, 19:46:10 - INFO - Req was made 
+28.1.2023, 19:46:11 - INFO - Req was made 
+28.1.2023, 19:46:11 - DEBUG - Getting stays 
+28.1.2023, 19:46:16 - INFO - Req was made 
+28.1.2023, 19:46:16 - DEBUG - Getting stays 
+28.1.2023, 19:46:19 - INFO - Req was made 
+28.1.2023, 19:46:19 - DEBUG - Getting stays 
+28.1.2023, 19:46:20 - INFO - Req was made 
+28.1.2023, 19:46:20 - DEBUG - Getting stays 
+28.1.2023, 19:46:26 - INFO - Req was made 
+28.1.2023, 19:46:26 - DEBUG - Getting stays 
+28.1.2023, 19:46:29 - INFO - Req was made 
+28.1.2023, 19:46:29 - DEBUG - Getting stays 
+28.1.2023, 19:46:30 - DEBUG - Getting stays 
+28.1.2023, 19:46:30 - INFO - Req was made 
+28.1.2023, 19:46:32 - INFO - Req was made 
+28.1.2023, 19:46:32 - DEBUG - Getting stays 
+28.1.2023, 19:46:38 - INFO - Req was made 
+28.1.2023, 19:46:38 - DEBUG - Getting stays 
+28.1.2023, 19:46:39 - DEBUG - Getting stays 
+28.1.2023, 19:46:39 - INFO - Req was made 
+28.1.2023, 19:49:17 - INFO - Req was made 
+28.1.2023, 19:49:17 - DEBUG - Getting stays 
+28.1.2023, 19:49:18 - INFO - Req was made 
+28.1.2023, 19:49:18 - DEBUG - Getting stays 
+28.1.2023, 19:49:21 - INFO - Req was made 
+28.1.2023, 19:49:21 - DEBUG - Getting stays 
+28.1.2023, 19:49:22 - INFO - Req was made 
+28.1.2023, 19:49:22 - DEBUG - Getting stays 
+28.1.2023, 19:49:57 - INFO - Req was made 
+28.1.2023, 19:49:57 - DEBUG - Getting stays 
+28.1.2023, 19:50:14 - DEBUG - auth.service - signup with username: luba12@bezeqint.net, fullname: yonatan finerman 
+28.1.2023, 19:50:14 - DEBUG - auth.service - login with username: luba12@bezeqint.net 
+28.1.2023, 19:50:14 - DEBUG - auth.route - new account created: {"username":"luba12@bezeqint.net","password":"$2b$10$S9/ULJ5ii2HFzNEl7PC.HOFGhEsWXf50Mg4sv2QZrvmg8txWOmafW","fullname":"yonatan finerman","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d56056013bc7c3d0ccbe2a"} 
+28.1.2023, 19:50:14 - INFO - User login:  | {"_id":"63d56056013bc7c3d0ccbe2a","username":"luba12@bezeqint.net","fullname":"yonatan finerman","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 19:50:15 - INFO - Req was made 
+28.1.2023, 19:50:15 - DEBUG - Getting stays 
+28.1.2023, 19:56:17 - INFO - Req was made 
+28.1.2023, 19:56:17 - DEBUG - Getting stays 
+28.1.2023, 19:56:27 - INFO - Req was made 
+28.1.2023, 19:56:27 - DEBUG - Getting stays 
+28.1.2023, 19:56:29 - INFO - Req was made 
+28.1.2023, 19:56:29 - DEBUG - Getting stays 
+28.1.2023, 19:56:31 - INFO - Req was made 
+28.1.2023, 19:56:31 - DEBUG - Getting stays 
+28.1.2023, 19:56:37 - INFO - Req was made 
+28.1.2023, 19:56:37 - DEBUG - Getting orders 
+28.1.2023, 19:56:40 - INFO - Req was made 
+28.1.2023, 19:56:40 - DEBUG - Getting stays 
+28.1.2023, 19:57:01 - INFO - Req was made 
+28.1.2023, 19:57:01 - DEBUG - Getting stays 
+28.1.2023, 20:31:12 - INFO - Req was made 
+28.1.2023, 20:31:13 - DEBUG - Getting stays 
+28.1.2023, 20:51:31 - DEBUG - Getting stays 
+28.1.2023, 20:51:31 - INFO - Req was made 
+28.1.2023, 21:05:56 - DEBUG - Getting stays 
+28.1.2023, 21:05:56 - INFO - Req was made 
+28.1.2023, 21:06:12 - DEBUG - auth.service - login with username: luba12@bezeqint.net 
+28.1.2023, 21:06:12 - INFO - User login:  | {"_id":"63d56056013bc7c3d0ccbe2a","username":"luba12@bezeqint.net","fullname":"yonatan finerman","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:06:13 - INFO - Req was made 
+28.1.2023, 21:06:13 - DEBUG - Getting stays 
+28.1.2023, 21:06:42 - INFO - Req was made 
+28.1.2023, 21:06:42 - DEBUG - Getting stays 
+28.1.2023, 21:06:45 - WARN - yonatan finermanattempted to perform admin action 
+28.1.2023, 21:06:45 - WARN - yonatan finermanattempted to perform admin action 
+28.1.2023, 21:06:46 - WARN - yonatan finermanattempted to perform admin action 
+28.1.2023, 21:06:46 - WARN - yonatan finermanattempted to perform admin action 
+28.1.2023, 21:06:47 - WARN - yonatan finermanattempted to perform admin action 
 28.1.2023, 19:22:26 - INFO - Server is running on port: 3030 
 28.1.2023, 19:24:19 - INFO - Req was made 
 28.1.2023, 19:24:19 - DEBUG - Getting stays 
@@ -1374,6 +1540,7 @@
 28.1.2023, 20:43:20 - INFO - Req was made 
 28.1.2023, 20:43:20 - DEBUG - Getting stays 
 28.1.2023, 20:44:55 - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
 28.1.2023, 21:07:48 - INFO - Req was made 
 28.1.2023, 21:07:48 - DEBUG - Getting stays 
 28.1.2023, 21:10:35 - INFO - Req was made 
@@ -1617,3 +1784,6 @@
 28.1.2023, 23:30:48 - ERROR - Failed to Login Invalid email or password 
 28.1.2023, 23:30:55 - DEBUG - auth.service - login with email: luba12@bezeqint.net 
 28.1.2023, 23:30:55 - ERROR - Failed to Login Invalid email or password 
+=======
+28.1.2023, 21:08:41 - INFO - Server is running on port: 3030 
+>>>>>>> 38da1fd5ac048311865f239f7ea8e36fafffa45b
