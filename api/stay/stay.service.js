@@ -58,7 +58,7 @@ async function getById(stayId) {
     try {
         // console.log(stayId, ' STAY SERVICE')
         const collection = await dbService.getCollection('stay')
-        const stay = collection.findOne({ _id: stayId })
+        const stay = collection.findOne({ _id: ObjectId(stayId) })
         console.log(stay)
         return stay
     } catch (err) {
@@ -71,7 +71,7 @@ async function remove(stayId) {
     try {
         console.log(stayId, ' from backend')
         const collection = await dbService.getCollection('stay')
-        await collection.deleteOne({ _id: stayId })
+        await collection.deleteOne({ _id: ObjectId(stayId) })
         return stayId
     } catch (err) {
         logger.error(`cannot remove stay ${stayId}`, err)
@@ -91,15 +91,11 @@ async function add(stay) {
 }
 
 async function update(stay) {
-    // console.log(' inside update ate stay.service', stay)
+    console.log(stay._id, 'from stay.service')
     try {
-        const likedByUsers = {
-            likedByUsers: stay.likedByUsers
-        }
+        const stayToSave = { ...stay, _id: ObjectId(stay._id) }
         const collection = await dbService.getCollection('stay')
-        console.log(collection)
-        await collection.updateOne({ _id: ObjectId(stay._id) }, { $set: { likedByUsers } })
-        // await collection.updateOne({ _id: ObjectId(stay._id) }, { $set: { stayToSave } })
+        await collection.updateOne({ _id: ObjectId(stay._id) }, { $set: stayToSave })
         return stay
     } catch (err) {
         logger.error(`cannot update stay ${stay._id}`, err)

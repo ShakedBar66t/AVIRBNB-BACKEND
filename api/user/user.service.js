@@ -6,7 +6,7 @@ const ObjectId = require('mongodb').ObjectId
 module.exports = {
     query,
     getById,
-    getByUsername,
+    getByEmail,
     remove,
     update,
     add
@@ -43,13 +43,13 @@ async function getById(userId) {
         throw err
     }
 }
-async function getByUsername(username) {
+async function getByEmail(email) {
     try {
         const collection = await dbService.getCollection('user')
-        const user = await collection.findOne({ username })
+        const user = await collection.findOne({ email })
         return user
     } catch (err) {
-        logger.error(`while finding user ${username}`, err)
+        logger.error(`while finding user ${email}`, err)
         throw err
     }
 }
@@ -65,13 +65,14 @@ async function remove(userId) {
 }
 
 async function update(user) {
+    // console.log(user, ' at update user ')
     try {
         // peek only updatable fields!
         const userToSave = {
             _id: ObjectId(user._id),
-            username: user.username,
+            email: user.email,
             fullname: user.fullname,
-            profilePic: userDefaultImg
+            imgUrl: user.imgUrl
         }
         const collection = await dbService.getCollection('user')
         await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
@@ -86,10 +87,10 @@ async function add(user) {
     try {
         // peek only updatable fields!
         const userToAdd = {
-            username: user.username,
+            email: user.email,
             password: user.password,
             fullname: user.fullname,
-            imgUrl: user.userDefaultImg
+            imgUrl: user.imgUrl
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)
@@ -106,15 +107,12 @@ function _buildCriteria(filterBy) {
         const nameCriteria = { $regex: filterBy.name, $options: 'i' }
         criteria.$or = [
             {
-                username: nameCriteria
+                email: nameCriteria
             },
             {
                 fullname: nameCriteria
             }
         ]
-    }
-    if (filterBy.maxPrice) {
-        criteria.balance = { $gte: filterBy.maxPrice }
     }
     return criteria
 }

@@ -79,7 +79,7 @@ async function getById(orderId) {
     try {
         console.log(orderId, ' Order SERVICE')
         const collection = await dbService.getCollection('order')
-        const order = collection.findOne({ _id: orderId })
+        const order = collection.findOne({ _id: ObjectId(orderId) })
         console.log(order)
         return order
     } catch (err) {
@@ -92,7 +92,7 @@ async function remove(orderId) {
     try {
         console.log(orderId, ' from backend')
         const collection = await dbService.getCollection('order')
-        await collection.deleteOne({ _id: orderId })
+        await collection.deleteOne({ _id: ObjectId(orderId) })
         return orderId
     } catch (err) {
         logger.error(`cannot remove order ${orderId}`, err)

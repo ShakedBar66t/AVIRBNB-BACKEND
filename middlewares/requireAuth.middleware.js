@@ -3,7 +3,7 @@ const authService = require('../api/auth/auth.service')
 const config = require('../config')
 
 async function requireAuth(req, res, next) {
-  console.log(req.body, 'from middleware')
+  // console.log(req.body, 'from middleware')
   if (config.isGuestMode && !req?.cookies?.loginToken) {
     req.loggedinUser = { _id: '', fullname: 'Guest' }
     return next()
