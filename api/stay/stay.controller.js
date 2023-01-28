@@ -59,6 +59,7 @@ async function addStay(req, res) {
 
 
 async function updateStay(req, res) {
+  // console.log('inside controller', req.body)
   try {
     const stay = req.body
     const updatedStay = await stayService.update(stay)
