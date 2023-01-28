@@ -58,7 +58,7 @@ async function getById(stayId) {
     try {
         // console.log(stayId, ' STAY SERVICE')
         const collection = await dbService.getCollection('stay')
-        const stay = collection.findOne({ _id: stayId })
+        const stay = collection.findOne({ _id: ObjectId(stayId) })
         console.log(stay)
         return stay
     } catch (err) {
@@ -71,7 +71,7 @@ async function remove(stayId) {
     try {
         console.log(stayId, ' from backend')
         const collection = await dbService.getCollection('stay')
-        await collection.deleteOne({ _id: stayId })
+        await collection.deleteOne({ _id: ObjectId(stayId) })
         return stayId
     } catch (err) {
         logger.error(`cannot remove stay ${stayId}`, err)
@@ -90,12 +90,11 @@ async function add(stay) {
     }
 }
 
+
 async function update(stay) {
+    console.log(stay._id, 'from stay.service')
     try {
-        const stayToSave = {
-            name: stay.name,
-            price: stay.price
-        }
+        const stayToSave = { ...stay, _id: ObjectId(stay._id) }
         const collection = await dbService.getCollection('stay')
         await collection.updateOne({ _id: ObjectId(stay._id) }, { $set: stayToSave })
         return stay
@@ -105,6 +104,34 @@ async function update(stay) {
     }
 }
 
+
+
+// async function update(toy) {
+//     try {
+//         const toyToSave = {
+//             vendor: toy.vendor,
+//             price: toy.price
+//         }
+//         const collection = await dbService.getCollection('toy')
+//         await collection.updateOne({ _id: ObjectId(toy._id) }, { $set: toyToSave })
+//         return toy
+//     } catch (err) {
+//         logger.error(`cannot update toy ${toyId}`, err)
+//         throw err
+//     }
+// }
+
+async function addLiketoStay(stayId, user) {
+    try {
+        // msg.id = utilService.makeId()
+        const collection = await dbService.getCollection('stay')
+        await collection.updateOne({ _id: ObjectId(stayId) }, { $push: { likedByUsers: user } })
+        return msg
+    } catch (err) {
+        logger.error(`cannot add stay like ${stayId}`, err)
+        throw err
+    }
+}
 async function addStayMsg(stayId, msg) {
     try {
         msg.id = utilService.makeId()
@@ -136,5 +163,6 @@ module.exports = {
     add,
     update,
     addStayMsg,
-    removeStayMsg
+    removeStayMsg,
+    addLiketoStay,
 }

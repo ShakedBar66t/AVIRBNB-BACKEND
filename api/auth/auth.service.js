@@ -6,31 +6,31 @@ const logger = require('../../services/logger.service')
 
 const cryptr = new Cryptr(process.env.SECRET1 || 'Secret-Puk-1234')
 
-async function login(username, password) {
+async function login(email, password) {
     console.log('on login', password)
-    logger.debug(`auth.service - login with username: ${username}`)
+    logger.debug(`auth.service - login with email: ${email}`)
 
-    const user = await userService.getByUsername(username)
-    if (!user) return Promise.reject('Invalid username or password')
+    const user = await userService.getByEmail(email)
+    if (!user) return Promise.reject('Invalid email or password')
     // TODO: un-comment for real login
     const match = await bcrypt.compare(password, user.password)
     console.log(password)
-    console.log(user.password)
+    // console.log(user.password)
 
 
-    if (!match) return Promise.reject('Invalid username or password')
+    if (!match) return Promise.reject('Invalid email or password')
 
     delete user.password
     return user
 }
 
-async function signup(username, password, fullname, userDefaultImg) {
+async function signup(email, password, fullname, imgUrl) {
     const saltRounds = 10
-    logger.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
-    if (!username || !password || !fullname) return Promise.reject('fullname, username and password are required!')
+    logger.debug(`auth.service - signup with email: ${email}, fullname: ${fullname}`)
+    if (!email || !password || !fullname) return Promise.reject('fullname, email and password are required!')
 
     const hash = await bcrypt.hash(password, saltRounds)
-    return userService.add({ username, password: hash, fullname, userDefaultImg })
+    return userService.add({ email, password: hash, fullname, imgUrl })
 }
 
 function getLoginToken(user) {

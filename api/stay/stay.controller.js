@@ -59,8 +59,10 @@ async function addStay(req, res) {
 
 
 async function updateStay(req, res) {
+  // console.log('inside controller', req.body)
   try {
     const stay = req.body
+    // console.log(stay, ' from update stay')
     const updatedStay = await stayService.update(stay)
     res.json(updatedStay)
   } catch (err) {
@@ -80,6 +82,28 @@ async function removeStay(req, res) {
     res.status(500).send({ err: 'Failed to remove stay' })
   }
 }
+
+// async function addStayLike(req, res) {
+//   const { loggedinUser } = req
+//   try {
+//     const stayId = req.params.id
+//     const user = loggedinUser
+      
+      
+//     // const user = {
+      
+//     //   // ...req.body
+//     //   // name: req.body.name,
+//     //   // by: loggedinUser
+//     // }
+//     const savedMsg = await stayService.addStayMsg(stayId, user)
+//     res.json(savedMsg)
+//   } catch (err) {
+//     logger.error('Failed to update stay', err)
+//     res.status(500).send({ err: 'Failed to update stay' })
+
+//   }
+// }
 
 async function addStayMsg(req, res) {
   const { loggedinUser } = req
