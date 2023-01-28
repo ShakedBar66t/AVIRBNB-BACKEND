@@ -1540,115 +1540,249 @@
 28.1.2023, 20:43:20 - INFO - Req was made 
 28.1.2023, 20:43:20 - DEBUG - Getting stays 
 28.1.2023, 20:44:55 - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
+28.1.2023, 21:07:48 - INFO - Req was made 
+28.1.2023, 21:07:48 - DEBUG - Getting stays 
+28.1.2023, 21:10:35 - INFO - Req was made 
+28.1.2023, 21:10:35 - DEBUG - Getting stays 
+28.1.2023, 21:13:42 - INFO - Req was made 
+28.1.2023, 21:13:42 - DEBUG - Getting orders 
+28.1.2023, 21:13:46 - INFO - Req was made 
+28.1.2023, 21:13:46 - DEBUG - Getting orders 
+28.1.2023, 21:13:50 - INFO - Req was made 
+28.1.2023, 21:13:50 - DEBUG - Getting stays 
+28.1.2023, 21:14:31 - ERROR - cannot update user 63d560a6d278947d04b2acef | ReferenceError: userDefaultImg is not defined 
+28.1.2023, 21:14:31 - ERROR - Failed to update user | ReferenceError: userDefaultImg is not defined 
+28.1.2023, 21:14:58 - INFO - Req was made 
+28.1.2023, 21:14:58 - DEBUG - Getting stays 
+28.1.2023, 21:15:20 - DEBUG - auth.service - signup with username: i@.com, fullname: itai 
+28.1.2023, 21:15:20 - DEBUG - auth.route - new account created: {"username":"i@.com","password":"$2b$10$VF.HXDuTPuTz5sWtq8rwkeb436AA06UH/yPHEfLhoWhs476lRMMcy","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d574482846258510cd2efc"} 
+28.1.2023, 21:15:20 - DEBUG - auth.service - login with username: i@.com 
+28.1.2023, 21:15:20 - INFO - User login:  | {"_id":"63d574482846258510cd2efc","username":"i@.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:15:22 - INFO - Req was made 
+28.1.2023, 21:15:22 - DEBUG - Getting stays 
+28.1.2023, 21:15:35 - DEBUG - auth.service - login with username: i@.com 
+28.1.2023, 21:15:35 - INFO - User login:  | {"_id":"63d574482846258510cd2efc","username":"i@.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:15:36 - INFO - Req was made 
+28.1.2023, 21:15:36 - DEBUG - Getting stays 
+28.1.2023, 21:15:49 - ERROR - cannot update user 63d574482846258510cd2efc | ReferenceError: userDefaultImg is not defined 
+28.1.2023, 21:15:49 - ERROR - Failed to update user | ReferenceError: userDefaultImg is not defined 
+28.1.2023, 21:18:29 - INFO - Server is running on port: 3030 
+28.1.2023, 21:18:33 - INFO - Server is running on port: 3030 
+28.1.2023, 21:18:37 - INFO - Server is running on port: 3030 
+28.1.2023, 21:18:59 - INFO - Req was made 
+28.1.2023, 21:18:59 - DEBUG - Getting stays 
+28.1.2023, 21:19:29 - DEBUG - auth.service - signup with username: itai@2904.com, fullname: itai 
+28.1.2023, 21:19:29 - DEBUG - auth.route - new account created: {"username":"itai@2904.com","password":"$2b$10$zTAQ0b43RWA6D6j5zX0FY.btU.v0uE.TcAUGmgNbcKJOYZe0bgmva","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d575415087bb2ebdcb8f4f"} 
+28.1.2023, 21:19:29 - DEBUG - auth.service - login with username: itai@2904.com 
+28.1.2023, 21:19:30 - INFO - User login:  | {"_id":"63d575415087bb2ebdcb8f4f","username":"itai@2904.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:19:30 - DEBUG - Getting stays 
+28.1.2023, 21:19:30 - INFO - Req was made 
+28.1.2023, 21:22:06 - INFO - Req was made 
+28.1.2023, 21:22:06 - DEBUG - Getting stays 
+28.1.2023, 21:22:59 - DEBUG - auth.service - login with username: i@.com 
+28.1.2023, 21:22:59 - INFO - User login:  | {"_id":"63d574482846258510cd2efc","username":"i@.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:23:00 - INFO - Req was made 
+28.1.2023, 21:23:00 - DEBUG - Getting stays 
+28.1.2023, 21:24:02 - INFO - Req was made 
+28.1.2023, 21:24:02 - DEBUG - Getting stays 
+28.1.2023, 21:24:12 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+28.1.2023, 21:24:12 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 21:24:12 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$gbzgkRcMdv/23B4nJ0aZUua769aaWXhepcJmOHa.qTBN4usZOFdzy","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d5765c5087bb2ebdcb8f50"} 
+28.1.2023, 21:24:12 - INFO - User login:  | {"_id":"63d5765c5087bb2ebdcb8f50","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:24:13 - INFO - Req was made 
+28.1.2023, 21:24:13 - DEBUG - Getting stays 
+28.1.2023, 21:25:35 - INFO - Req was made 
+28.1.2023, 21:25:35 - DEBUG - Getting stays 
+28.1.2023, 21:25:44 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 21:25:44 - INFO - User login:  | {"_id":"63d5765c5087bb2ebdcb8f50","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:25:45 - INFO - Req was made 
+28.1.2023, 21:25:45 - DEBUG - Getting stays 
+28.1.2023, 21:29:18 - DEBUG - Getting stays 
+28.1.2023, 21:29:18 - INFO - Req was made 
+28.1.2023, 21:29:27 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 21:29:27 - INFO - User login:  | {"_id":"63d5765c5087bb2ebdcb8f50","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:29:28 - INFO - Req was made 
+28.1.2023, 21:29:28 - DEBUG - Getting stays 
+28.1.2023, 21:32:15 - ERROR - Failed to update user | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:32:15 - ERROR - cannot update user 63d5765c5087bb2ebdcb8f50 | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:32:25 - ERROR - cannot update user 63d5765c5087bb2ebdcb8f50 | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:32:25 - ERROR - Failed to update user | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:33:50 - INFO - Server is running on port: 3030 
+28.1.2023, 21:33:51 - ERROR - cannot update user 63d5765c5087bb2ebdcb8f50 | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:33:51 - ERROR - Failed to update user | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:36:11 - INFO - Server is running on port: 3030 
+28.1.2023, 21:36:17 - ERROR - cannot update user 63d5765c5087bb2ebdcb8f50 | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:36:17 - ERROR - Failed to update user | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:36:40 - ERROR - cannot update user 63d5765c5087bb2ebdcb8f50 | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:36:40 - ERROR - Failed to update user | ReferenceError: imgUrl is not defined 
+28.1.2023, 21:38:05 - INFO - Server is running on port: 3030 
+28.1.2023, 21:38:54 - INFO - Server is running on port: 3030 
+28.1.2023, 21:39:05 - INFO - Req was made 
+28.1.2023, 21:39:05 - DEBUG - Getting stays 
+28.1.2023, 21:39:28 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 21:39:28 - ERROR - Failed to Login Invalid username or password 
+28.1.2023, 21:40:55 - INFO - Server is running on port: 3030 
+28.1.2023, 21:42:26 - INFO - Server is running on port: 3030 
+28.1.2023, 21:42:37 - INFO - Server is running on port: 3030 
+28.1.2023, 21:43:37 - INFO - Server is running on port: 3030 
+28.1.2023, 21:44:01 - DEBUG - auth.service - signup with email: itaibe2904@gmail.com, fullname: itai 
+28.1.2023, 21:44:03 - DEBUG - auth.route - new account created: {"email":"itaibe2904@gmail.com","password":"$2b$10$1NM2rABHs9HtdwcO8nMlj.O967u6Ji2Zv74ar1qBx47yTIXabgV7.","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d57b03f5d81f6a43b8352f"} 
+28.1.2023, 21:44:03 - DEBUG - auth.service - login with email: itaibe2904@gmail.com 
+28.1.2023, 21:44:03 - INFO - User login:  | {"_id":"63d57b03f5d81f6a43b8352f","email":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:44:04 - INFO - Req was made 
+28.1.2023, 21:44:04 - DEBUG - Getting stays 
+28.1.2023, 21:44:10 - INFO - Req was made 
+28.1.2023, 21:44:10 - DEBUG - Getting stays 
+28.1.2023, 21:44:29 - INFO - Req was made 
+28.1.2023, 21:44:29 - DEBUG - Getting stays 
+28.1.2023, 21:44:37 - DEBUG - auth.service - login with email: itaibe2904@gmail.com 
+28.1.2023, 21:44:37 - INFO - User login:  | {"_id":"63d57b03f5d81f6a43b8352f","email":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 21:44:37 - INFO - Req was made 
+28.1.2023, 21:44:37 - DEBUG - Getting stays 
+28.1.2023, 21:45:39 - INFO - Req was made 
+28.1.2023, 21:45:39 - DEBUG - Getting stays 
+28.1.2023, 21:45:49 - DEBUG - Getting stays 
+28.1.2023, 21:45:49 - INFO - Req was made 
+28.1.2023, 21:48:19 - INFO - Server is running on port: 3030 
+28.1.2023, 21:49:27 - INFO - Server is running on port: 3030 
+28.1.2023, 21:50:49 - INFO - Server is running on port: 3030 
+28.1.2023, 21:51:36 - INFO - Server is running on port: 3030 
+28.1.2023, 21:51:36 - INFO - Req was made 
+28.1.2023, 21:51:36 - DEBUG - Getting stays 
+28.1.2023, 21:55:16 - INFO - Server is running on port: 3030 
+28.1.2023, 21:55:28 - INFO - Server is running on port: 3030 
+28.1.2023, 21:55:31 - INFO - Server is running on port: 3030 
+28.1.2023, 21:58:12 - INFO - Server is running on port: 3030 
+28.1.2023, 21:58:27 - INFO - Server is running on port: 3030 
+28.1.2023, 21:58:34 - DEBUG - Getting stays 
+28.1.2023, 21:58:34 - INFO - Req was made 
+28.1.2023, 21:58:40 - ERROR - cannot update stay 622f337a75c7d36e498aaaf8 | MongoInvalidArgumentError: Update document requires atomic operators 
+28.1.2023, 21:58:40 - ERROR - Failed to update stay | MongoInvalidArgumentError: Update document requires atomic operators 
+28.1.2023, 21:59:17 - INFO - Req was made 
+28.1.2023, 21:59:17 - DEBUG - Getting stays 
+28.1.2023, 21:59:43 - INFO - Server is running on port: 3030 
+28.1.2023, 22:00:43 - INFO - Server is running on port: 3030 
+28.1.2023, 22:00:54 - INFO - Server is running on port: 3030 
+28.1.2023, 22:01:30 - INFO - Req was made 
+28.1.2023, 22:01:30 - DEBUG - Getting stays 
+28.1.2023, 22:02:41 - INFO - Server is running on port: 3030 
+28.1.2023, 22:02:43 - INFO - Req was made 
+28.1.2023, 22:02:43 - DEBUG - Getting stays 
+28.1.2023, 22:04:04 - INFO - Server is running on port: 3030 
+28.1.2023, 22:04:35 - INFO - Req was made 
+28.1.2023, 22:04:35 - DEBUG - Getting stays 
+28.1.2023, 22:05:02 - DEBUG - auth.service - signup with email: itai@.com, fullname: itai 
+28.1.2023, 22:05:05 - DEBUG - auth.route - new account created: {"email":"itai@.com","password":"$2b$10$/LEFE0cajtOXFZ9MK8ePNOI.nAIn8iLAWaE/1KOzJEpkYLvqpsimu","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d57fef039c3ce283bacc04"} 
+28.1.2023, 22:05:05 - DEBUG - auth.service - login with email: itai@.com 
+28.1.2023, 22:05:06 - INFO - User login:  | {"_id":"63d57fef039c3ce283bacc04","email":"itai@.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 22:05:08 - INFO - Req was made 
+28.1.2023, 22:05:08 - DEBUG - Getting stays 
+28.1.2023, 22:06:13 - INFO - Server is running on port: 3030 
+28.1.2023, 22:06:18 - INFO - Req was made 
+28.1.2023, 22:06:18 - DEBUG - Getting stays 
+28.1.2023, 22:06:31 - DEBUG - auth.service - login with email: itai@.com 
+28.1.2023, 22:06:32 - INFO - User login:  | {"_id":"63d57fef039c3ce283bacc04","email":"itai@.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 22:06:33 - INFO - Req was made 
+28.1.2023, 22:06:33 - DEBUG - Getting stays 
+28.1.2023, 22:08:11 - INFO - Server is running on port: 3030 
+28.1.2023, 22:08:51 - INFO - Req was made 
+28.1.2023, 22:08:51 - DEBUG - Getting stays 
+28.1.2023, 22:09:46 - INFO - Server is running on port: 3030 
+28.1.2023, 22:13:53 - INFO - Server is running on port: 3030 
+28.1.2023, 22:14:06 - INFO - Server is running on port: 3030 
+28.1.2023, 22:14:21 - INFO - Server is running on port: 3030 
+28.1.2023, 22:14:26 - INFO - Req was made 
+28.1.2023, 22:14:26 - DEBUG - Getting stays 
+28.1.2023, 22:14:43 - INFO - Req was made 
+28.1.2023, 22:14:43 - DEBUG - Getting stays 
+28.1.2023, 22:15:37 - INFO - Server is running on port: 3030 
+28.1.2023, 22:15:58 - INFO - Req was made 
+28.1.2023, 22:15:58 - DEBUG - Getting stays 
+28.1.2023, 22:18:18 - INFO - Server is running on port: 3030 
+28.1.2023, 22:18:29 - DEBUG - Getting stays 
+28.1.2023, 22:18:29 - INFO - Req was made 
+28.1.2023, 22:18:42 - INFO - Req was made 
+28.1.2023, 22:18:42 - DEBUG - Getting stays 
+28.1.2023, 22:21:43 - INFO - Server is running on port: 3030 
+28.1.2023, 22:21:55 - INFO - Req was made 
+28.1.2023, 22:21:55 - DEBUG - Getting stays 
+28.1.2023, 22:51:44 - DEBUG - Getting stays 
+28.1.2023, 22:51:44 - INFO - Req was made 
+28.1.2023, 22:52:07 - INFO - Req was made 
+28.1.2023, 22:52:07 - DEBUG - Getting stays 
+28.1.2023, 22:53:38 - INFO - Server is running on port: 3030 
+28.1.2023, 22:53:41 - ERROR - cannot update stay._ undefined | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 22:53:41 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 22:54:47 - INFO - Server is running on port: 3030 
+28.1.2023, 22:54:52 - ERROR - cannot update stay 63d589d7af13899a6302710b | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 22:54:52 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 22:56:17 - INFO - Server is running on port: 3030 
+28.1.2023, 22:56:20 - ERROR - cannot update stay 63d589d7af13899a6302710d | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 22:56:20 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:00:06 - INFO - Server is running on port: 3030 
+28.1.2023, 23:00:09 - ERROR - cannot update stay 63d589d7af13899a6302710b | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:00:09 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:00:13 - INFO - Req was made 
+28.1.2023, 23:00:13 - DEBUG - Getting stays 
+28.1.2023, 23:00:27 - DEBUG - Getting stays 
+28.1.2023, 23:00:27 - INFO - Req was made 
+28.1.2023, 23:00:32 - INFO - Req was made 
+28.1.2023, 23:00:32 - DEBUG - Getting stays 
+28.1.2023, 23:01:23 - INFO - Req was made 
+28.1.2023, 23:01:23 - DEBUG - Getting stays 
+28.1.2023, 23:01:35 - INFO - Req was made 
+28.1.2023, 23:01:35 - DEBUG - Getting stays 
+28.1.2023, 23:01:51 - INFO - Req was made 
+28.1.2023, 23:01:51 - DEBUG - Getting stays 
+28.1.2023, 23:02:10 - INFO - Req was made 
+28.1.2023, 23:02:10 - DEBUG - Getting orders 
+28.1.2023, 23:02:15 - INFO - Req was made 
+28.1.2023, 23:02:15 - DEBUG - Getting stays 
+28.1.2023, 23:03:51 - INFO - Req was made 
+28.1.2023, 23:03:51 - DEBUG - Getting stays 
+28.1.2023, 23:04:47 - INFO - Req was made 
+28.1.2023, 23:04:47 - DEBUG - Getting stays 
+28.1.2023, 23:09:02 - INFO - Server is running on port: 3030 
+28.1.2023, 23:10:44 - INFO - Server is running on port: 3030 
+28.1.2023, 23:11:43 - ERROR - cannot update stay 63d589d7af13899a6302710b | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:11:43 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:11:51 - DEBUG - Getting stays 
+28.1.2023, 23:11:51 - INFO - Req was made 
+28.1.2023, 23:12:03 - ERROR - cannot update stay 63d589d7af13899a6302710b | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:12:03 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:13:04 - INFO - Req was made 
+28.1.2023, 23:13:04 - DEBUG - Getting stays 
+28.1.2023, 23:13:36 - INFO - Server is running on port: 3030 
+28.1.2023, 23:13:45 - ERROR - cannot update stay 63d589d7af13899a6302710b | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:13:45 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:14:44 - INFO - Server is running on port: 3030 
+28.1.2023, 23:14:58 - INFO - Server is running on port: 3030 
+28.1.2023, 23:15:04 - INFO - Server is running on port: 3030 
+28.1.2023, 23:15:09 - ERROR - cannot update stay 63d589d7af13899a6302710c | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:15:09 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:16:34 - INFO - Server is running on port: 3030 
+28.1.2023, 23:16:42 - ERROR - cannot update stay 63d589d7af13899a6302710d | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:16:42 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.1.2023, 23:17:22 - INFO - Server is running on port: 3030 
+28.1.2023, 23:17:32 - INFO - Req was made 
+28.1.2023, 23:17:32 - DEBUG - Getting stays 
+28.1.2023, 23:19:27 - INFO - Server is running on port: 3030 
+28.1.2023, 23:20:23 - INFO - Server is running on port: 3030 
+28.1.2023, 23:20:27 - DEBUG - Getting stays 
+28.1.2023, 23:20:27 - INFO - Req was made 
+28.1.2023, 23:21:16 - INFO - Server is running on port: 3030 
+28.1.2023, 23:27:58 - INFO - Req was made 
+28.1.2023, 23:27:58 - DEBUG - Getting orders 
+28.1.2023, 23:28:27 - INFO - Req was made 
+28.1.2023, 23:28:27 - DEBUG - Getting stays 
+28.1.2023, 23:30:13 - DEBUG - auth.service - login with email: luba12@bezeqint.net 
+28.1.2023, 23:30:13 - ERROR - Failed to Login Invalid email or password 
+28.1.2023, 23:30:20 - DEBUG - auth.service - login with email: luba12@bezeqint.net 
+28.1.2023, 23:30:20 - ERROR - Failed to Login Invalid email or password 
+28.1.2023, 23:30:48 - DEBUG - auth.service - login with email: luba12@bezeqint.net 
+28.1.2023, 23:30:48 - ERROR - Failed to Login Invalid email or password 
+28.1.2023, 23:30:55 - DEBUG - auth.service - login with email: luba12@bezeqint.net 
+28.1.2023, 23:30:55 - ERROR - Failed to Login Invalid email or password 
+=======
 28.1.2023, 21:08:41 - INFO - Server is running on port: 3030 
-28.1.2023, 21:11:00 - INFO - Server is running on port: 3030 
-28.1.2023, 21:11:49 - INFO - Server is running on port: 3030 
-28.1.2023, 21:12:15 - INFO - Server is running on port: 3030 
-28.1.2023, 21:12:47 - INFO - Server is running on port: 3030 
-28.1.2023, 21:12:52 - INFO - Server is running on port: 3030 
-28.1.2023, 21:13:10 - INFO - Server is running on port: 3030 
-28.1.2023, 21:13:36 - INFO - Req was made 
-28.1.2023, 21:13:36 - DEBUG - Getting stays 
-28.1.2023, 21:15:22 - INFO - Server is running on port: 3030 
-28.1.2023, 21:18:12 - INFO - Server is running on port: 3030 
-28.1.2023, 21:20:39 - INFO - Server is running on port: 3030 
-28.1.2023, 21:20:53 - INFO - Server is running on port: 3030 
-28.1.2023, 21:21:11 - INFO - Server is running on port: 3030 
-28.1.2023, 21:21:42 - INFO - Server is running on port: 3030 
-28.1.2023, 21:22:07 - INFO - Server is running on port: 3030 
-28.1.2023, 21:22:13 - INFO - Server is running on port: 3030 
-28.1.2023, 21:22:44 - INFO - Server is running on port: 3030 
-28.1.2023, 21:23:30 - INFO - Server is running on port: 3030 
-28.1.2023, 21:24:26 - INFO - Server is running on port: 3030 
-28.1.2023, 21:25:27 - INFO - Server is running on port: 3030 
-28.1.2023, 21:25:28 - INFO - Server is running on port: 3030 
-28.1.2023, 21:30:51 - INFO - Server is running on port: 3030 
-28.1.2023, 21:36:43 - INFO - Server is running on port: 3030 
-28.1.2023, 21:37:03 - INFO - Server is running on port: 3030 
-28.1.2023, 21:39:04 - INFO - Server is running on port: 3030 
-28.1.2023, 23:10:35 - INFO - Req was made 
-28.1.2023, 23:10:35 - DEBUG - Getting stays 
-28.1.2023, 23:10:37 - INFO - Req was made 
-28.1.2023, 23:10:37 - DEBUG - Getting stays 
-28.1.2023, 23:10:40 - DEBUG - Getting stays 
-28.1.2023, 23:10:40 - INFO - Req was made 
-28.1.2023, 23:10:41 - INFO - Req was made 
-28.1.2023, 23:10:41 - DEBUG - Getting stays 
-28.1.2023, 23:10:46 - INFO - Req was made 
-28.1.2023, 23:10:46 - DEBUG - Getting stays 
-28.1.2023, 23:11:40 - INFO - Req was made 
-28.1.2023, 23:11:40 - DEBUG - Getting stays 
-28.1.2023, 23:11:42 - INFO - Req was made 
-28.1.2023, 23:11:42 - DEBUG - Getting stays 
-28.1.2023, 23:11:48 - INFO - Req was made 
-28.1.2023, 23:11:48 - DEBUG - Getting stays 
-28.1.2023, 23:11:50 - INFO - Req was made 
-28.1.2023, 23:11:50 - DEBUG - Getting stays 
-28.1.2023, 23:11:57 - ERROR - cannot update stay 63d589d7af13899a6302710d | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
-28.1.2023, 23:11:57 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
-28.1.2023, 23:11:58 - ERROR - cannot update stay 63d589d7af13899a6302710d | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
-28.1.2023, 23:11:58 - ERROR - Failed to update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
-28.1.2023, 23:15:18 - INFO - Req was made 
-28.1.2023, 23:15:18 - DEBUG - Getting stays 
-28.1.2023, 23:31:33 - DEBUG - auth.service - login with username: luba12@bezeqint.net 
-28.1.2023, 23:31:33 - DEBUG - auth.service - login with username: luba12@bezeqint.net 
-28.1.2023, 23:31:33 - INFO - User login:  | {"_id":"63d56056013bc7c3d0ccbe2a","username":"luba12@bezeqint.net","fullname":"yonatan finerman","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
-28.1.2023, 23:31:33 - INFO - User login:  | {"_id":"63d56056013bc7c3d0ccbe2a","username":"luba12@bezeqint.net","fullname":"yonatan finerman","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
-28.1.2023, 23:31:37 - INFO - Req was made 
-28.1.2023, 23:31:37 - DEBUG - Getting stays 
-28.1.2023, 23:31:54 - INFO - Req was made 
-28.1.2023, 23:31:54 - DEBUG - Getting stays 
-28.1.2023, 23:31:58 - INFO - Req was made 
-28.1.2023, 23:31:58 - DEBUG - Getting orders 
-28.1.2023, 23:32:04 - DEBUG - Getting stays 
-28.1.2023, 23:32:04 - INFO - Req was made 
-28.1.2023, 23:32:08 - DEBUG - Getting orders 
-28.1.2023, 23:32:08 - INFO - Req was made 
-28.1.2023, 23:34:04 - DEBUG - Getting stays 
-28.1.2023, 23:34:04 - INFO - Req was made 
-28.1.2023, 23:34:10 - INFO - Req was made 
-28.1.2023, 23:34:10 - DEBUG - Getting orders 
-28.1.2023, 23:34:13 - DEBUG - Getting stays 
-28.1.2023, 23:34:13 - INFO - Req was made 
-28.1.2023, 23:34:35 - INFO - Req was made 
-28.1.2023, 23:34:35 - DEBUG - Getting orders 
-28.1.2023, 23:34:42 - INFO - Req was made 
-28.1.2023, 23:34:42 - DEBUG - Getting stays 
-28.1.2023, 23:34:53 - INFO - Req was made 
-28.1.2023, 23:34:53 - DEBUG - Getting stays 
-28.1.2023, 23:34:53 - INFO - Req was made 
-28.1.2023, 23:34:53 - DEBUG - Getting stays 
-28.1.2023, 23:34:56 - INFO - Req was made 
-28.1.2023, 23:34:56 - DEBUG - Getting stays 
-28.1.2023, 23:34:59 - DEBUG - Getting stays 
-28.1.2023, 23:34:59 - INFO - Req was made 
-28.1.2023, 23:35:00 - INFO - Req was made 
-28.1.2023, 23:35:00 - DEBUG - Getting stays 
-28.1.2023, 23:35:03 - INFO - Req was made 
-28.1.2023, 23:35:03 - DEBUG - Getting stays 
-28.1.2023, 23:35:03 - INFO - Req was made 
-28.1.2023, 23:35:03 - DEBUG - Getting stays 
-28.1.2023, 23:35:09 - DEBUG - Getting stays 
-28.1.2023, 23:35:09 - INFO - Req was made 
-28.1.2023, 23:35:10 - INFO - Req was made 
-28.1.2023, 23:35:10 - DEBUG - Getting stays 
-28.1.2023, 23:35:10 - INFO - Req was made 
-28.1.2023, 23:35:10 - DEBUG - Getting stays 
-28.1.2023, 23:35:30 - INFO - Req was made 
-28.1.2023, 23:35:30 - DEBUG - Getting stays 
-28.1.2023, 23:35:32 - INFO - Req was made 
-28.1.2023, 23:35:32 - DEBUG - Getting stays 
-28.1.2023, 23:35:35 - INFO - Req was made 
-28.1.2023, 23:35:35 - DEBUG - Getting stays 
-28.1.2023, 23:35:37 - INFO - Req was made 
-28.1.2023, 23:35:37 - DEBUG - Getting stays 
-28.1.2023, 23:35:45 - INFO - Req was made 
-28.1.2023, 23:35:45 - DEBUG - Getting stays 
-28.1.2023, 23:35:50 - DEBUG - Getting stays 
-28.1.2023, 23:35:50 - INFO - Req was made 
-28.1.2023, 23:35:54 - INFO - Req was made 
-28.1.2023, 23:35:54 - DEBUG - Getting stays 
-28.1.2023, 23:35:59 - INFO - Req was made 
-28.1.2023, 23:35:59 - DEBUG - Getting stays 
-28.1.2023, 23:36:31 - INFO - Req was made 
-28.1.2023, 23:36:31 - DEBUG - Getting stays 

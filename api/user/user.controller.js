@@ -15,7 +15,7 @@ async function getUser(req, res) {
 async function getUsers(req, res) {
     try {
         const filterBy = {
-            username: req.query?.username || '',
+            email: req.query?.email || '',
             minBalance: +req.query?.minBalance || 0
         }
         const users = await userService.query(filterBy)
@@ -37,6 +37,7 @@ async function deleteUser(req, res) {
 }
 
 async function updateUser(req, res) {
+    // console.log(req.body)
     try {
         const user = req.body
         const savedUser = await userService.update(user)
