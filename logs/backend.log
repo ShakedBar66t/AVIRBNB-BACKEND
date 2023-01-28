@@ -1,0 +1,1175 @@
+27.1.2023, 11:57:38 - INFO - Req was made 
+27.1.2023, 11:57:38 - DEBUG - Getting stays 
+27.1.2023, 11:59:03 - INFO - Server is running on port: 3030 
+27.1.2023, 11:59:47 - INFO - Server is running on port: 3030 
+27.1.2023, 11:59:49 - INFO - Req was made 
+27.1.2023, 11:59:49 - DEBUG - Getting stays 
+27.1.2023, 12:00:49 - INFO - Server is running on port: 3030 
+27.1.2023, 12:00:54 - INFO - Req was made 
+27.1.2023, 12:00:54 - DEBUG - Getting stays 
+27.1.2023, 12:06:30 - INFO - Server is running on port: 3030 
+27.1.2023, 12:07:18 - INFO - Server is running on port: 3030 
+27.1.2023, 12:10:58 - INFO - Req was made 
+27.1.2023, 12:10:58 - DEBUG - Getting stays 
+27.1.2023, 12:11:03 - INFO - Req was made 
+27.1.2023, 12:11:03 - DEBUG - Getting stays 
+27.1.2023, 12:34:36 - INFO - Req was made 
+27.1.2023, 12:34:36 - DEBUG - Getting stays 
+27.1.2023, 12:35:47 - INFO - Server is running on port: 3030 
+27.1.2023, 12:36:25 - INFO - Server is running on port: 3030 
+27.1.2023, 12:36:44 - INFO - Server is running on port: 3030 
+27.1.2023, 12:37:14 - INFO - Server is running on port: 3030 
+27.1.2023, 12:41:00 - INFO - Req was made 
+27.1.2023, 12:41:00 - DEBUG - Getting stays 
+27.1.2023, 12:44:42 - INFO - Server is running on port: 3030 
+27.1.2023, 12:44:59 - INFO - Req was made 
+27.1.2023, 12:44:59 - DEBUG - Getting stays 
+27.1.2023, 12:48:42 - INFO - Server is running on port: 3030 
+27.1.2023, 13:08:03 - INFO - Server is running on port: 3030 
+27.1.2023, 13:09:04 - INFO - Req was made 
+27.1.2023, 13:09:04 - DEBUG - Getting stays 
+27.1.2023, 13:42:12 - INFO - Req was made 
+27.1.2023, 13:42:12 - DEBUG - Getting stays 
+27.1.2023, 14:26:06 - DEBUG - Getting stays 
+27.1.2023, 14:26:06 - INFO - Req was made 
+27.1.2023, 14:27:18 - INFO - Req was made 
+27.1.2023, 14:27:18 - DEBUG - Getting stays 
+27.1.2023, 14:28:43 - DEBUG - auth.service - signup with username: null, fullname: itai 
+27.1.2023, 14:28:43 - ERROR - Failed to signup fullname, username and password are required! 
+27.1.2023, 14:29:31 - INFO - Req was made 
+27.1.2023, 14:29:31 - DEBUG - Getting stays 
+27.1.2023, 14:32:13 - INFO - Req was made 
+27.1.2023, 14:32:13 - DEBUG - Getting stays 
+27.1.2023, 14:33:05 - INFO - Req was made 
+27.1.2023, 14:33:05 - DEBUG - Getting stays 
+27.1.2023, 14:33:44 - INFO - Req was made 
+27.1.2023, 14:33:44 - DEBUG - Getting stays 
+27.1.2023, 14:36:27 - INFO - Server is running on port: 3030 
+27.1.2023, 14:40:37 - INFO - Req was made 
+27.1.2023, 14:40:37 - DEBUG - Getting stays 
+27.1.2023, 14:40:46 - DEBUG - auth.service - signup with username: null, fullname: itai 
+27.1.2023, 14:40:46 - ERROR - Failed to signup fullname, username and password are required! 
+27.1.2023, 14:41:51 - DEBUG - auth.service - signup with username: itai, fullname: itai 
+27.1.2023, 14:41:51 - DEBUG - auth.route - new account created: {"username":"itai","password":"$2b$10$4aZEOnjHc3h.MthpvCrXSejEqtEh.3dJz1ZqwcO3Qe/74pDH0hOAy","fullname":"itai","score":0,"_id":"63d3c68fc552cc113e7a50f9"} 
+27.1.2023, 14:41:51 - DEBUG - auth.service - login with username: itai 
+27.1.2023, 14:41:51 - INFO - User login:  | {"_id":"63d3c68fc552cc113e7a50f9","username":"itai","fullname":"itai","score":0} 
+27.1.2023, 14:41:52 - INFO - Req was made 
+27.1.2023, 14:41:52 - DEBUG - Getting stays 
+27.1.2023, 14:41:56 - DEBUG - auth.service - signup with username: itai, fullname: itai 
+27.1.2023, 14:41:56 - DEBUG - auth.route - new account created: {"username":"itai","password":"$2b$10$/YLneFXP5/gaxMvOcK3kdO1zBIrjYsCRhTUZ4YCgIn1QYTctNthZG","fullname":"itai","score":0,"_id":"63d3c694c552cc113e7a50fa"} 
+27.1.2023, 14:41:56 - DEBUG - auth.service - login with username: itai 
+27.1.2023, 14:41:56 - INFO - User login:  | {"_id":"63d3c68fc552cc113e7a50f9","username":"itai","fullname":"itai","score":0} 
+27.1.2023, 14:41:56 - INFO - Req was made 
+27.1.2023, 14:41:56 - DEBUG - Getting stays 
+27.1.2023, 14:42:25 - INFO - Req was made 
+27.1.2023, 14:42:25 - DEBUG - Getting stays 
+27.1.2023, 14:50:38 - INFO - Req was made 
+27.1.2023, 14:50:38 - DEBUG - Getting stays 
+27.1.2023, 14:50:49 - DEBUG - auth.service - login with username: itai 
+27.1.2023, 14:50:50 - INFO - User login:  | {"_id":"63d3c68fc552cc113e7a50f9","username":"itai","fullname":"itai","score":0} 
+27.1.2023, 14:50:51 - INFO - Req was made 
+27.1.2023, 14:50:51 - DEBUG - Getting stays 
+27.1.2023, 14:51:17 - DEBUG - auth.service - login with username: itai 
+27.1.2023, 14:51:18 - INFO - User login:  | {"_id":"63d3c68fc552cc113e7a50f9","username":"itai","fullname":"itai","score":0} 
+27.1.2023, 14:51:18 - INFO - Req was made 
+27.1.2023, 14:51:18 - DEBUG - Getting stays 
+27.1.2023, 14:56:50 - DEBUG - Getting stays 
+27.1.2023, 14:56:50 - INFO - Req was made 
+27.1.2023, 14:57:51 - INFO - Req was made 
+27.1.2023, 14:57:51 - DEBUG - Getting stays 
+27.1.2023, 14:59:50 - INFO - Req was made 
+27.1.2023, 14:59:50 - DEBUG - Getting stays 
+27.1.2023, 15:00:07 - INFO - Req was made 
+27.1.2023, 15:00:07 - DEBUG - Getting stays 
+27.1.2023, 15:01:14 - DEBUG - Getting stays 
+27.1.2023, 15:01:14 - INFO - Req was made 
+27.1.2023, 15:11:33 - INFO - Req was made 
+27.1.2023, 15:11:33 - DEBUG - Getting stays 
+27.1.2023, 15:12:03 - INFO - Req was made 
+27.1.2023, 15:12:03 - DEBUG - Getting stays 
+27.1.2023, 15:14:31 - INFO - Req was made 
+27.1.2023, 15:14:31 - DEBUG - Getting stays 
+27.1.2023, 15:15:52 - DEBUG - Getting stays 
+27.1.2023, 15:15:52 - INFO - Req was made 
+27.1.2023, 15:16:26 - INFO - Req was made 
+27.1.2023, 15:16:26 - DEBUG - Getting stays 
+27.1.2023, 15:18:20 - INFO - Req was made 
+27.1.2023, 15:18:20 - DEBUG - Getting stays 
+27.1.2023, 15:45:18 - INFO - Req was made 
+27.1.2023, 15:45:18 - DEBUG - Getting stays 
+27.1.2023, 15:45:40 - DEBUG - auth.service - login with username: itai 
+27.1.2023, 15:45:40 - INFO - User login:  | {"_id":"63d3c68fc552cc113e7a50f9","username":"itai","fullname":"itai","score":0} 
+27.1.2023, 15:45:41 - INFO - Req was made 
+27.1.2023, 15:45:41 - DEBUG - Getting stays 
+27.1.2023, 15:47:25 - INFO - Req was made 
+27.1.2023, 15:47:25 - DEBUG - Getting stays 
+27.1.2023, 15:50:50 - INFO - Req was made 
+27.1.2023, 15:50:50 - DEBUG - Getting stays 
+27.1.2023, 16:15:16 - INFO - Req was made 
+27.1.2023, 16:15:16 - DEBUG - Getting stays 
+27.1.2023, 16:16:30 - INFO - Req was made 
+27.1.2023, 16:16:30 - DEBUG - Getting stays 
+27.1.2023, 16:16:56 - INFO - Req was made 
+27.1.2023, 16:16:56 - DEBUG - Getting stays 
+27.1.2023, 16:18:15 - INFO - Req was made 
+27.1.2023, 16:18:15 - DEBUG - Getting stays 
+27.1.2023, 16:46:43 - INFO - Server is running on port: 3030 
+27.1.2023, 16:46:55 - INFO - Server is running on port: 3030 
+27.1.2023, 16:47:16 - INFO - Server is running on port: 3030 
+27.1.2023, 16:47:25 - INFO - Server is running on port: 3030 
+27.1.2023, 16:47:31 - INFO - Server is running on port: 3030 
+27.1.2023, 16:47:36 - INFO - Server is running on port: 3030 
+27.1.2023, 17:00:34 - INFO - Server is running on port: 3030 
+27.1.2023, 17:03:43 - INFO - Req was made 
+27.1.2023, 17:03:43 - DEBUG - Getting stays 
+27.1.2023, 17:15:01 - DEBUG - auth.service - login with username: itai 
+27.1.2023, 17:15:01 - INFO - User login:  | {"_id":"63d3c694c552cc113e7a50fa","username":"itai","fullname":"itai","score":0} 
+27.1.2023, 17:15:01 - INFO - Req was made 
+27.1.2023, 17:15:01 - DEBUG - Getting stays 
+27.1.2023, 17:15:28 - INFO - Req was made 
+27.1.2023, 17:15:28 - DEBUG - Getting stays 
+27.1.2023, 17:15:39 - INFO - Req was made 
+27.1.2023, 17:15:39 - DEBUG - Getting stays 
+27.1.2023, 17:16:40 - INFO - Req was made 
+27.1.2023, 17:16:40 - DEBUG - Getting stays 
+27.1.2023, 17:17:20 - INFO - Req was made 
+27.1.2023, 17:17:20 - DEBUG - Getting orders 
+27.1.2023, 17:17:36 - INFO - Req was made 
+27.1.2023, 17:17:36 - DEBUG - Getting stays 
+27.1.2023, 17:23:40 - INFO - Req was made 
+27.1.2023, 17:23:40 - DEBUG - Getting stays 
+27.1.2023, 19:45:41 - INFO - Server is running on port: 3030 
+27.1.2023, 19:46:10 - INFO - Req was made 
+27.1.2023, 19:46:10 - DEBUG - Getting stays 
+27.1.2023, 19:47:00 - INFO - Server is running on port: 3030 
+27.1.2023, 19:47:24 - INFO - Server is running on port: 3030 
+27.1.2023, 19:48:25 - DEBUG - Getting stays 
+27.1.2023, 19:48:25 - INFO - Req was made 
+27.1.2023, 19:52:25 - INFO - Req was made 
+27.1.2023, 19:52:25 - DEBUG - Getting stays 
+27.1.2023, 19:56:25 - ERROR - Failed to signup fullname, username and password are required! 
+27.1.2023, 19:56:25 - DEBUG - auth.service - signup with username: undefined, fullname: itai belo 
+27.1.2023, 19:57:25 - INFO - Server is running on port: 3030 
+27.1.2023, 19:57:28 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai belo 
+27.1.2023, 19:57:28 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$Cs1/DRXPu0y4JWBLyW/AiuO.fOvodb5s7qlm1sKyeSGXDRfnZqEAy","fullname":"itai belo","score":0,"_id":"63d410884374d76a93821119"} 
+27.1.2023, 19:57:28 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 19:57:29 - INFO - User login:  | {"_id":"63d410884374d76a93821119","username":"itaibe2904@gmail.com","fullname":"itai belo","score":0} 
+27.1.2023, 19:57:30 - INFO - Req was made 
+27.1.2023, 19:57:30 - DEBUG - Getting stays 
+27.1.2023, 19:59:26 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 19:59:26 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 19:59:32 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 19:59:32 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 19:59:37 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 19:59:37 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 20:00:12 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+27.1.2023, 20:00:12 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$QQSGNeC7J.FwrhlzqMlK7eKrCLTRJIsAQVRUlTmBtzhLjp/DFzUBe","fullname":"itai","score":0,"_id":"63d4112c4374d76a9382111a"} 
+27.1.2023, 20:00:12 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 20:00:13 - INFO - User login:  | {"_id":"63d4112c4374d76a9382111a","username":"itaibe2904@gmail.com","fullname":"itai","score":0} 
+27.1.2023, 20:00:13 - INFO - Req was made 
+27.1.2023, 20:00:13 - DEBUG - Getting stays 
+27.1.2023, 20:03:40 - INFO - Server is running on port: 3030 
+27.1.2023, 20:04:03 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+27.1.2023, 20:04:03 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$KPQiO9xBAdZTC08CtUDVaef/PK3mod46POYYaN5cOzgyL6pRDBZI.","fullname":"itai","score":0,"_id":"63d412137f6da74c9f0041c2"} 
+27.1.2023, 20:04:03 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 20:04:03 - INFO - User login:  | {"_id":"63d412137f6da74c9f0041c2","username":"itaibe2904@gmail.com","fullname":"itai","score":0} 
+27.1.2023, 20:04:04 - INFO - Req was made 
+27.1.2023, 20:04:04 - DEBUG - Getting stays 
+27.1.2023, 20:04:36 - INFO - Server is running on port: 3030 
+27.1.2023, 20:04:54 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+27.1.2023, 20:04:54 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$28UCFM/KM7fQl5CfBJwwF.GsgSFMK6HwuqZmetS9/UI/SisoX9N6e","fullname":"itai","score":0,"_id":"63d4124688c430bf4da78059"} 
+27.1.2023, 20:04:54 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 20:04:54 - INFO - User login:  | {"_id":"63d4124688c430bf4da78059","username":"itaibe2904@gmail.com","fullname":"itai","score":0} 
+27.1.2023, 20:04:55 - INFO - Req was made 
+27.1.2023, 20:04:55 - DEBUG - Getting stays 
+27.1.2023, 20:06:32 - INFO - Server is running on port: 3030 
+27.1.2023, 20:06:56 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+27.1.2023, 20:06:56 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$.5apiwJQoBQ5eWyf06Lla.RiHxaH6jIpGxov5O0/bOqquttOlFpyS","fullname":"itai","score":0,"_id":"63d412c068a6bd9378e548c6"} 
+27.1.2023, 20:06:56 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 20:06:57 - INFO - User login:  | {"_id":"63d412c068a6bd9378e548c6","username":"itaibe2904@gmail.com","fullname":"itai","score":0} 
+27.1.2023, 20:06:57 - INFO - Req was made 
+27.1.2023, 20:06:57 - DEBUG - Getting stays 
+27.1.2023, 20:08:59 - INFO - Req was made 
+27.1.2023, 20:08:59 - DEBUG - Getting stays 
+27.1.2023, 20:09:11 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+27.1.2023, 20:09:11 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$9.pZG3KUm8/6Ps.GHS6VhOxHwNfXrZFCziWdRG9cdCgTZV0Xc8NyO","fullname":"itai","score":0,"_id":"63d4134768a6bd9378e548c7"} 
+27.1.2023, 20:09:11 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 20:09:11 - INFO - User login:  | {"_id":"63d412c068a6bd9378e548c6","username":"itaibe2904@gmail.com","fullname":"itai","score":0} 
+27.1.2023, 20:09:11 - INFO - Req was made 
+27.1.2023, 20:09:11 - DEBUG - Getting stays 
+27.1.2023, 20:10:00 - DEBUG - Getting stays 
+27.1.2023, 20:10:00 - INFO - Req was made 
+27.1.2023, 20:12:10 - INFO - Server is running on port: 3030 
+27.1.2023, 20:12:56 - INFO - Server is running on port: 3030 
+27.1.2023, 20:13:19 - INFO - Server is running on port: 3030 
+27.1.2023, 20:14:46 - INFO - Server is running on port: 3030 
+27.1.2023, 20:15:11 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai2904 
+27.1.2023, 20:15:11 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$0wKMZcEZC01ZT5kT6/NZNOmaWKlDsFvJ.bUjTwk50psHGzMuPhp9C","fullname":"itai2904","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d414af0cc9bf86798fea84"} 
+27.1.2023, 20:15:11 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 20:15:12 - INFO - User login:  | {"_id":"63d414af0cc9bf86798fea84","username":"itaibe2904@gmail.com","fullname":"itai2904","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+27.1.2023, 20:15:13 - DEBUG - Getting stays 
+27.1.2023, 20:15:13 - INFO - Req was made 
+27.1.2023, 20:15:30 - INFO - Server is running on port: 3030 
+27.1.2023, 20:15:35 - INFO - Server is running on port: 3030 
+27.1.2023, 20:16:14 - INFO - Req was made 
+27.1.2023, 20:16:14 - DEBUG - Getting stays 
+27.1.2023, 20:16:34 - INFO - Server is running on port: 3030 
+27.1.2023, 20:16:50 - INFO - Server is running on port: 3030 
+27.1.2023, 20:40:18 - INFO - Req was made 
+27.1.2023, 20:40:19 - DEBUG - Getting stays 
+27.1.2023, 20:45:50 - INFO - Req was made 
+27.1.2023, 20:45:50 - DEBUG - Getting stays 
+27.1.2023, 20:49:07 - INFO - Req was made 
+27.1.2023, 20:49:07 - DEBUG - Getting stays 
+27.1.2023, 20:50:37 - INFO - Req was made 
+27.1.2023, 20:50:37 - DEBUG - Getting stays 
+27.1.2023, 20:55:37 - INFO - Req was made 
+27.1.2023, 20:55:37 - DEBUG - Getting stays 
+27.1.2023, 20:58:33 - INFO - Req was made 
+27.1.2023, 20:58:33 - DEBUG - Getting stays 
+27.1.2023, 21:05:04 - INFO - Req was made 
+27.1.2023, 21:05:04 - DEBUG - Getting stays 
+27.1.2023, 21:05:39 - INFO - Req was made 
+27.1.2023, 21:05:39 - DEBUG - Getting stays 
+27.1.2023, 21:06:14 - INFO - Req was made 
+27.1.2023, 21:06:14 - DEBUG - Getting stays 
+27.1.2023, 21:06:37 - DEBUG - Getting stays 
+27.1.2023, 21:06:37 - INFO - Req was made 
+27.1.2023, 21:06:44 - DEBUG - Getting stays 
+27.1.2023, 21:06:44 - INFO - Req was made 
+27.1.2023, 21:06:55 - INFO - Req was made 
+27.1.2023, 21:06:55 - DEBUG - Getting stays 
+27.1.2023, 21:07:09 - INFO - Req was made 
+27.1.2023, 21:07:09 - DEBUG - Getting stays 
+27.1.2023, 21:08:57 - INFO - Req was made 
+27.1.2023, 21:08:57 - DEBUG - Getting stays 
+27.1.2023, 21:09:08 - INFO - Req was made 
+27.1.2023, 21:09:08 - DEBUG - Getting stays 
+27.1.2023, 21:09:40 - INFO - Req was made 
+27.1.2023, 21:09:40 - DEBUG - Getting stays 
+27.1.2023, 21:09:44 - INFO - Req was made 
+27.1.2023, 21:09:44 - DEBUG - Getting stays 
+27.1.2023, 21:11:10 - INFO - Req was made 
+27.1.2023, 21:11:10 - DEBUG - Getting stays 
+27.1.2023, 21:11:21 - INFO - Req was made 
+27.1.2023, 21:11:21 - DEBUG - Getting stays 
+27.1.2023, 21:11:49 - INFO - Req was made 
+27.1.2023, 21:11:49 - DEBUG - Getting stays 
+27.1.2023, 21:11:53 - INFO - Req was made 
+27.1.2023, 21:11:53 - DEBUG - Getting stays 
+27.1.2023, 21:12:37 - INFO - Req was made 
+27.1.2023, 21:12:37 - DEBUG - Getting stays 
+27.1.2023, 21:14:04 - INFO - Req was made 
+27.1.2023, 21:14:04 - DEBUG - Getting stays 
+27.1.2023, 21:14:08 - INFO - Req was made 
+27.1.2023, 21:14:08 - DEBUG - Getting stays 
+27.1.2023, 21:14:15 - INFO - Req was made 
+27.1.2023, 21:14:15 - DEBUG - Getting stays 
+27.1.2023, 21:22:04 - INFO - Req was made 
+27.1.2023, 21:22:04 - DEBUG - Getting stays 
+27.1.2023, 21:22:33 - INFO - Req was made 
+27.1.2023, 21:22:33 - DEBUG - Getting stays 
+27.1.2023, 21:23:46 - INFO - Req was made 
+27.1.2023, 21:23:46 - DEBUG - Getting stays 
+27.1.2023, 21:27:35 - INFO - Req was made 
+27.1.2023, 21:27:35 - DEBUG - Getting stays 
+27.1.2023, 21:35:56 - INFO - Req was made 
+27.1.2023, 21:35:56 - DEBUG - Getting stays 
+27.1.2023, 21:36:06 - INFO - Req was made 
+27.1.2023, 21:36:06 - DEBUG - Getting stays 
+27.1.2023, 21:36:12 - INFO - Req was made 
+27.1.2023, 21:36:12 - DEBUG - Getting stays 
+27.1.2023, 21:36:43 - INFO - Req was made 
+27.1.2023, 21:36:43 - DEBUG - Getting stays 
+27.1.2023, 21:36:50 - INFO - Req was made 
+27.1.2023, 21:36:50 - DEBUG - Getting stays 
+27.1.2023, 21:37:15 - INFO - Req was made 
+27.1.2023, 21:37:15 - DEBUG - Getting stays 
+27.1.2023, 21:37:22 - DEBUG - Getting stays 
+27.1.2023, 21:37:22 - INFO - Req was made 
+27.1.2023, 21:37:59 - INFO - Req was made 
+27.1.2023, 21:37:59 - DEBUG - Getting stays 
+27.1.2023, 21:40:42 - INFO - Req was made 
+27.1.2023, 21:40:42 - DEBUG - Getting stays 
+27.1.2023, 21:41:14 - INFO - Server is running on port: 3030 
+27.1.2023, 21:42:04 - INFO - Req was made 
+27.1.2023, 21:42:04 - DEBUG - Getting stays 
+27.1.2023, 21:42:57 - INFO - Req was made 
+27.1.2023, 21:42:57 - DEBUG - Getting stays 
+27.1.2023, 21:45:32 - INFO - Req was made 
+27.1.2023, 21:45:32 - DEBUG - Getting stays 
+27.1.2023, 21:48:53 - INFO - Server is running on port: 3030 
+27.1.2023, 21:56:49 - INFO - Server is running on port: 3030 
+27.1.2023, 21:59:04 - INFO - Req was made 
+27.1.2023, 21:59:04 - DEBUG - Getting stays 
+27.1.2023, 21:59:48 - INFO - Server is running on port: 3030 
+27.1.2023, 22:00:04 - DEBUG - Getting stays 
+27.1.2023, 22:00:04 - INFO - Req was made 
+27.1.2023, 22:00:27 - INFO - Req was made 
+27.1.2023, 22:00:27 - DEBUG - Getting stays 
+27.1.2023, 22:01:19 - INFO - Server is running on port: 3030 
+27.1.2023, 22:01:27 - INFO - Req was made 
+27.1.2023, 22:01:27 - DEBUG - Getting stays 
+27.1.2023, 22:05:40 - INFO - Server is running on port: 3030 
+27.1.2023, 22:13:03 - INFO - Server is running on port: 3030 
+27.1.2023, 22:13:12 - INFO - Server is running on port: 3030 
+27.1.2023, 22:13:41 - INFO - Req was made 
+27.1.2023, 22:13:41 - DEBUG - Getting stays 
+27.1.2023, 22:14:09 - DEBUG - Getting stays 
+27.1.2023, 22:14:09 - INFO - Req was made 
+27.1.2023, 22:14:56 - INFO - Server is running on port: 3030 
+27.1.2023, 22:15:37 - INFO - Req was made 
+27.1.2023, 22:15:37 - DEBUG - Getting stays 
+27.1.2023, 22:16:11 - INFO - Server is running on port: 3030 
+27.1.2023, 22:16:16 - DEBUG - Getting stays 
+27.1.2023, 22:16:16 - INFO - Req was made 
+27.1.2023, 22:17:58 - INFO - Req was made 
+27.1.2023, 22:17:58 - DEBUG - Getting stays 
+27.1.2023, 22:17:59 - INFO - Req was made 
+27.1.2023, 22:17:59 - DEBUG - Getting stays 
+27.1.2023, 22:18:09 - INFO - Req was made 
+27.1.2023, 22:18:09 - DEBUG - Getting stays 
+27.1.2023, 22:18:14 - INFO - Req was made 
+27.1.2023, 22:18:14 - DEBUG - Getting stays 
+27.1.2023, 22:18:16 - INFO - Req was made 
+27.1.2023, 22:18:16 - DEBUG - Getting stays 
+27.1.2023, 22:18:19 - INFO - Req was made 
+27.1.2023, 22:18:19 - DEBUG - Getting stays 
+27.1.2023, 22:18:29 - INFO - Req was made 
+27.1.2023, 22:18:29 - DEBUG - Getting orders 
+27.1.2023, 22:18:39 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 22:18:39 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 22:18:45 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 22:18:45 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 22:19:05 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+27.1.2023, 22:19:05 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$BEw7lt/8i4O37JrEdUi8TOHxybomNGmOnk6CstCfogl04GdD1pNsy","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d431b9d6b5bcf461bf4e6c"} 
+27.1.2023, 22:19:05 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 22:19:05 - INFO - User login:  | {"_id":"63d414af0cc9bf86798fea84","username":"itaibe2904@gmail.com","fullname":"itai2904","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+27.1.2023, 22:19:06 - INFO - Req was made 
+27.1.2023, 22:19:06 - DEBUG - Getting stays 
+27.1.2023, 22:19:16 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 22:19:16 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 22:19:50 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 22:19:50 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 22:19:56 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+27.1.2023, 22:19:56 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$tcDZFIeizVwl3eWtAbfSWe51OfPdqD1H8TebHP.baVJSfLeFQvYXu","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d431ecd6b5bcf461bf4e6d"} 
+27.1.2023, 22:19:56 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 22:19:56 - INFO - User login:  | {"_id":"63d431ecd6b5bcf461bf4e6d","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+27.1.2023, 22:19:56 - INFO - Req was made 
+27.1.2023, 22:19:56 - DEBUG - Getting stays 
+27.1.2023, 22:20:19 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 22:20:19 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 22:21:15 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 22:21:15 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 22:21:20 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 22:21:20 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 22:24:47 - INFO - Server is running on port: 3030 
+27.1.2023, 22:25:00 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 22:25:00 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 22:27:31 - INFO - Req was made 
+27.1.2023, 22:27:31 - DEBUG - Getting stays 
+27.1.2023, 22:27:39 - DEBUG - auth.service - login with username: undefined 
+27.1.2023, 22:27:39 - ERROR - Failed to Login Invalid username or password 
+27.1.2023, 22:29:23 - INFO - Server is running on port: 3030 
+27.1.2023, 22:29:25 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 22:29:26 - INFO - User login:  | {"_id":"63d431ecd6b5bcf461bf4e6d","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+27.1.2023, 22:29:27 - INFO - Req was made 
+27.1.2023, 22:29:27 - DEBUG - Getting stays 
+27.1.2023, 22:30:19 - INFO - Req was made 
+27.1.2023, 22:30:19 - DEBUG - Getting stays 
+27.1.2023, 22:31:20 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 22:31:20 - INFO - User login:  | {"_id":"63d431ecd6b5bcf461bf4e6d","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+27.1.2023, 22:31:21 - INFO - Req was made 
+27.1.2023, 22:31:21 - DEBUG - Getting stays 
+27.1.2023, 22:31:29 - DEBUG - Getting stays 
+27.1.2023, 22:31:29 - INFO - Req was made 
+27.1.2023, 22:31:43 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 22:31:43 - INFO - User login:  | {"_id":"63d431ecd6b5bcf461bf4e6d","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+27.1.2023, 22:31:44 - INFO - Req was made 
+27.1.2023, 22:31:44 - DEBUG - Getting stays 
+27.1.2023, 22:32:20 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 22:32:20 - INFO - User login:  | {"_id":"63d431ecd6b5bcf461bf4e6d","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+27.1.2023, 22:32:21 - INFO - Req was made 
+27.1.2023, 22:32:21 - DEBUG - Getting stays 
+27.1.2023, 22:32:32 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 22:32:32 - INFO - User login:  | {"_id":"63d431ecd6b5bcf461bf4e6d","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+27.1.2023, 22:32:33 - INFO - Req was made 
+27.1.2023, 22:32:33 - DEBUG - Getting stays 
+27.1.2023, 22:33:00 - INFO - Req was made 
+27.1.2023, 22:33:00 - DEBUG - Getting stays 
+27.1.2023, 22:33:40 - DEBUG - Getting stays 
+27.1.2023, 22:33:40 - INFO - Req was made 
+27.1.2023, 22:34:11 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+27.1.2023, 22:34:12 - INFO - User login:  | {"_id":"63d431ecd6b5bcf461bf4e6d","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+27.1.2023, 22:34:12 - INFO - Req was made 
+27.1.2023, 22:34:12 - DEBUG - Getting stays 
+27.1.2023, 22:34:28 - INFO - Req was made 
+27.1.2023, 22:34:28 - DEBUG - Getting stays 
+27.1.2023, 22:35:28 - INFO - Req was made 
+27.1.2023, 22:35:28 - DEBUG - Getting orders 
+27.1.2023, 22:35:29 - INFO - Req was made 
+27.1.2023, 22:35:29 - DEBUG - Getting stays 
+27.1.2023, 22:52:22 - INFO - Req was made 
+27.1.2023, 22:52:22 - DEBUG - Getting stays 
+27.1.2023, 22:55:39 - INFO - Req was made 
+27.1.2023, 22:55:39 - DEBUG - Getting stays 
+27.1.2023, 22:55:54 - INFO - Req was made 
+27.1.2023, 22:55:54 - DEBUG - Getting stays 
+27.1.2023, 22:56:24 - INFO - Req was made 
+27.1.2023, 22:56:24 - DEBUG - Getting stays 
+27.1.2023, 22:56:25 - INFO - Req was made 
+27.1.2023, 22:56:25 - DEBUG - Getting stays 
+27.1.2023, 22:56:28 - INFO - Req was made 
+27.1.2023, 22:56:28 - DEBUG - Getting stays 
+27.1.2023, 22:56:37 - INFO - Req was made 
+27.1.2023, 22:56:37 - DEBUG - Getting stays 
+27.1.2023, 22:57:27 - INFO - Req was made 
+27.1.2023, 22:57:27 - DEBUG - Getting stays 
+27.1.2023, 22:57:30 - INFO - Req was made 
+27.1.2023, 22:57:30 - DEBUG - Getting stays 
+27.1.2023, 22:57:42 - DEBUG - Getting stays 
+27.1.2023, 22:57:42 - INFO - Req was made 
+27.1.2023, 22:57:59 - INFO - Req was made 
+27.1.2023, 22:57:59 - DEBUG - Getting stays 
+27.1.2023, 22:58:02 - INFO - Req was made 
+27.1.2023, 22:58:02 - DEBUG - Getting stays 
+27.1.2023, 22:58:11 - INFO - Req was made 
+27.1.2023, 22:58:11 - DEBUG - Getting stays 
+27.1.2023, 22:59:39 - INFO - Req was made 
+27.1.2023, 22:59:39 - DEBUG - Getting stays 
+27.1.2023, 23:04:22 - INFO - Req was made 
+27.1.2023, 23:04:22 - DEBUG - Getting stays 
+27.1.2023, 23:04:32 - INFO - Req was made 
+27.1.2023, 23:04:32 - DEBUG - Getting stays 
+27.1.2023, 23:04:35 - INFO - Req was made 
+27.1.2023, 23:04:35 - DEBUG - Getting stays 
+27.1.2023, 23:16:12 - INFO - Req was made 
+27.1.2023, 23:16:12 - DEBUG - Getting stays 
+27.1.2023, 23:16:19 - INFO - Req was made 
+27.1.2023, 23:16:19 - DEBUG - Getting stays 
+27.1.2023, 23:16:25 - INFO - Req was made 
+27.1.2023, 23:16:25 - DEBUG - Getting stays 
+27.1.2023, 23:16:31 - INFO - Req was made 
+27.1.2023, 23:16:31 - DEBUG - Getting stays 
+27.1.2023, 23:16:35 - INFO - Req was made 
+27.1.2023, 23:16:35 - DEBUG - Getting stays 
+27.1.2023, 23:17:26 - INFO - Req was made 
+27.1.2023, 23:17:26 - DEBUG - Getting stays 
+27.1.2023, 23:17:33 - INFO - Req was made 
+27.1.2023, 23:17:33 - DEBUG - Getting stays 
+27.1.2023, 23:17:49 - DEBUG - Getting stays 
+27.1.2023, 23:17:49 - INFO - Req was made 
+27.1.2023, 23:20:18 - INFO - Req was made 
+27.1.2023, 23:20:18 - DEBUG - Getting stays 
+27.1.2023, 23:20:21 - INFO - Req was made 
+27.1.2023, 23:20:21 - DEBUG - Getting stays 
+27.1.2023, 23:20:23 - INFO - Req was made 
+27.1.2023, 23:20:23 - DEBUG - Getting stays 
+27.1.2023, 23:20:27 - INFO - Req was made 
+27.1.2023, 23:20:27 - DEBUG - Getting stays 
+27.1.2023, 23:20:29 - INFO - Req was made 
+27.1.2023, 23:20:29 - DEBUG - Getting stays 
+27.1.2023, 23:22:22 - INFO - Req was made 
+27.1.2023, 23:22:22 - DEBUG - Getting stays 
+27.1.2023, 23:22:29 - INFO - Req was made 
+27.1.2023, 23:22:29 - DEBUG - Getting stays 
+27.1.2023, 23:25:43 - INFO - Server is running on port: 3030 
+27.1.2023, 23:25:43 - INFO - Req was made 
+27.1.2023, 23:25:43 - DEBUG - Getting stays 
+27.1.2023, 23:25:43 - ERROR - cannot find stays | MongoServerError: $regex has to be a string 
+27.1.2023, 23:25:43 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string 
+27.1.2023, 23:27:29 - INFO - Server is running on port: 3030 
+27.1.2023, 23:27:39 - INFO - Req was made 
+27.1.2023, 23:27:39 - DEBUG - Getting stays 
+27.1.2023, 23:27:39 - ERROR - cannot find stays | MongoServerError: $regex has to be a string 
+27.1.2023, 23:27:39 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string 
+27.1.2023, 23:27:45 - INFO - Req was made 
+27.1.2023, 23:27:45 - DEBUG - Getting stays 
+27.1.2023, 23:27:56 - INFO - Req was made 
+27.1.2023, 23:27:56 - DEBUG - Getting stays 
+27.1.2023, 23:27:56 - ERROR - cannot find stays | MongoServerError: $regex has to be a string 
+27.1.2023, 23:27:56 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string 
+27.1.2023, 23:28:00 - INFO - Req was made 
+27.1.2023, 23:28:00 - DEBUG - Getting stays 
+27.1.2023, 23:36:42 - INFO - Server is running on port: 3030 
+27.1.2023, 23:36:43 - INFO - Server is running on port: 3030 
+27.1.2023, 23:36:48 - INFO - Req was made 
+27.1.2023, 23:36:48 - DEBUG - Getting stays 
+27.1.2023, 23:36:48 - ERROR - cannot find stays | MongoServerError: $all needs an array 
+27.1.2023, 23:36:48 - ERROR - Failed to get stays | MongoServerError: $all needs an array 
+27.1.2023, 23:37:12 - INFO - Req was made 
+27.1.2023, 23:37:12 - DEBUG - Getting stays 
+27.1.2023, 23:37:12 - ERROR - cannot find stays | MongoServerError: $all needs an array 
+27.1.2023, 23:37:12 - ERROR - Failed to get stays | MongoServerError: $all needs an array 
+27.1.2023, 23:37:21 - INFO - Req was made 
+27.1.2023, 23:37:21 - DEBUG - Getting stays 
+27.1.2023, 23:37:21 - ERROR - Failed to get stays | MongoServerError: $all needs an array 
+27.1.2023, 23:37:21 - ERROR - cannot find stays | MongoServerError: $all needs an array 
+27.1.2023, 23:37:34 - DEBUG - Getting stays 
+27.1.2023, 23:37:34 - INFO - Req was made 
+27.1.2023, 23:37:34 - ERROR - Failed to get stays | MongoServerError: $all needs an array 
+27.1.2023, 23:37:34 - ERROR - cannot find stays | MongoServerError: $all needs an array 
+27.1.2023, 23:37:46 - INFO - Server is running on port: 3030 
+27.1.2023, 23:38:11 - INFO - Req was made 
+27.1.2023, 23:38:11 - DEBUG - Getting stays 
+27.1.2023, 23:38:11 - ERROR - cannot find stays | MongoServerError: $in needs an array 
+27.1.2023, 23:38:11 - ERROR - Failed to get stays | MongoServerError: $in needs an array 
+27.1.2023, 23:38:26 - INFO - Server is running on port: 3030 
+27.1.2023, 23:38:29 - INFO - Req was made 
+27.1.2023, 23:38:29 - DEBUG - Getting stays 
+27.1.2023, 23:39:00 - INFO - Req was made 
+27.1.2023, 23:39:00 - DEBUG - Getting stays 
+27.1.2023, 23:42:49 - INFO - Req was made 
+27.1.2023, 23:42:49 - DEBUG - Getting stays 
+27.1.2023, 23:43:26 - INFO - Server is running on port: 3030 
+27.1.2023, 23:43:32 - INFO - Req was made 
+27.1.2023, 23:43:32 - DEBUG - Getting stays 
+27.1.2023, 23:43:33 - ERROR - cannot find stays | MongoServerError: $in needs an array 
+27.1.2023, 23:43:33 - ERROR - Failed to get stays | MongoServerError: $in needs an array 
+27.1.2023, 23:45:44 - INFO - Server is running on port: 3030 
+27.1.2023, 23:45:54 - INFO - Req was made 
+27.1.2023, 23:45:54 - DEBUG - Getting stays 
+27.1.2023, 23:46:28 - INFO - Server is running on port: 3030 
+27.1.2023, 23:46:36 - INFO - Req was made 
+27.1.2023, 23:46:36 - DEBUG - Getting stays 
+27.1.2023, 23:46:53 - INFO - Server is running on port: 3030 
+27.1.2023, 23:46:58 - INFO - Req was made 
+27.1.2023, 23:46:58 - DEBUG - Getting stays 
+27.1.2023, 23:47:11 - INFO - Server is running on port: 3030 
+27.1.2023, 23:47:15 - INFO - Req was made 
+27.1.2023, 23:47:15 - DEBUG - Getting stays 
+27.1.2023, 23:47:22 - INFO - Req was made 
+27.1.2023, 23:47:22 - DEBUG - Getting stays 
+27.1.2023, 23:47:33 - INFO - Server is running on port: 3030 
+27.1.2023, 23:47:42 - INFO - Req was made 
+27.1.2023, 23:47:42 - DEBUG - Getting stays 
+27.1.2023, 23:47:52 - INFO - Req was made 
+27.1.2023, 23:47:52 - DEBUG - Getting stays 
+27.1.2023, 23:50:42 - INFO - Server is running on port: 3030 
+27.1.2023, 23:50:49 - INFO - Req was made 
+27.1.2023, 23:50:49 - DEBUG - Getting stays 
+27.1.2023, 23:51:03 - INFO - Req was made 
+27.1.2023, 23:51:03 - DEBUG - Getting stays 
+27.1.2023, 23:53:27 - INFO - Server is running on port: 3030 
+27.1.2023, 23:53:32 - INFO - Req was made 
+27.1.2023, 23:53:32 - DEBUG - Getting stays 
+27.1.2023, 23:54:28 - INFO - Server is running on port: 3030 
+27.1.2023, 23:54:33 - INFO - Req was made 
+27.1.2023, 23:54:33 - DEBUG - Getting stays 
+27.1.2023, 23:54:39 - INFO - Req was made 
+27.1.2023, 23:54:39 - DEBUG - Getting stays 
+27.1.2023, 23:54:50 - INFO - Server is running on port: 3030 
+27.1.2023, 23:54:56 - INFO - Req was made 
+27.1.2023, 23:54:56 - DEBUG - Getting stays 
+27.1.2023, 23:54:59 - INFO - Req was made 
+27.1.2023, 23:54:59 - DEBUG - Getting stays 
+27.1.2023, 23:55:01 - DEBUG - Getting stays 
+27.1.2023, 23:55:01 - INFO - Req was made 
+27.1.2023, 23:55:15 - INFO - Server is running on port: 3030 
+27.1.2023, 23:55:20 - INFO - Req was made 
+27.1.2023, 23:55:20 - DEBUG - Getting stays 
+27.1.2023, 23:55:33 - INFO - Server is running on port: 3030 
+27.1.2023, 23:55:36 - INFO - Req was made 
+27.1.2023, 23:55:36 - DEBUG - Getting stays 
+27.1.2023, 23:56:42 - INFO - Req was made 
+27.1.2023, 23:56:42 - DEBUG - Getting stays 
+27.1.2023, 23:56:47 - INFO - Req was made 
+27.1.2023, 23:56:47 - DEBUG - Getting stays 
+28.1.2023, 0:00:49 - INFO - Req was made 
+28.1.2023, 0:00:49 - DEBUG - Getting stays 
+28.1.2023, 0:04:06 - INFO - Req was made 
+28.1.2023, 0:04:06 - DEBUG - Getting stays 
+28.1.2023, 0:04:18 - INFO - Req was made 
+28.1.2023, 0:04:18 - DEBUG - Getting stays 
+28.1.2023, 0:05:48 - INFO - Server is running on port: 3030 
+28.1.2023, 0:05:59 - INFO - Server is running on port: 3030 
+28.1.2023, 0:06:01 - INFO - Server is running on port: 3030 
+28.1.2023, 0:06:10 - INFO - Server is running on port: 3030 
+28.1.2023, 0:06:14 - INFO - Req was made 
+28.1.2023, 0:06:14 - DEBUG - Getting stays 
+28.1.2023, 0:06:22 - INFO - Req was made 
+28.1.2023, 0:06:22 - DEBUG - Getting stays 
+28.1.2023, 0:06:32 - INFO - Req was made 
+28.1.2023, 0:06:32 - DEBUG - Getting stays 
+28.1.2023, 0:06:37 - INFO - Req was made 
+28.1.2023, 0:06:37 - DEBUG - Getting stays 
+28.1.2023, 0:06:59 - DEBUG - Getting stays 
+28.1.2023, 0:06:59 - INFO - Req was made 
+28.1.2023, 0:07:16 - INFO - Req was made 
+28.1.2023, 0:07:16 - DEBUG - Getting stays 
+28.1.2023, 0:07:23 - INFO - Req was made 
+28.1.2023, 0:07:23 - DEBUG - Getting stays 
+28.1.2023, 0:07:38 - INFO - Req was made 
+28.1.2023, 0:07:38 - DEBUG - Getting stays 
+28.1.2023, 0:08:02 - INFO - Req was made 
+28.1.2023, 0:08:02 - DEBUG - Getting stays 
+28.1.2023, 0:09:01 - INFO - Server is running on port: 3030 
+28.1.2023, 0:09:07 - INFO - Req was made 
+28.1.2023, 0:09:07 - DEBUG - Getting stays 
+28.1.2023, 0:09:34 - INFO - Req was made 
+28.1.2023, 0:09:34 - DEBUG - Getting stays 
+28.1.2023, 0:09:45 - INFO - Server is running on port: 3030 
+28.1.2023, 0:09:49 - INFO - Req was made 
+28.1.2023, 0:09:49 - DEBUG - Getting stays 
+28.1.2023, 0:10:03 - INFO - Req was made 
+28.1.2023, 0:10:03 - DEBUG - Getting stays 
+28.1.2023, 0:10:16 - INFO - Req was made 
+28.1.2023, 0:10:16 - DEBUG - Getting stays 
+28.1.2023, 0:10:28 - INFO - Req was made 
+28.1.2023, 0:10:28 - DEBUG - Getting stays 
+28.1.2023, 0:10:33 - INFO - Req was made 
+28.1.2023, 0:10:33 - DEBUG - Getting stays 
+28.1.2023, 0:10:37 - INFO - Req was made 
+28.1.2023, 0:10:37 - DEBUG - Getting stays 
+28.1.2023, 0:10:52 - INFO - Server is running on port: 3030 
+28.1.2023, 0:10:58 - INFO - Req was made 
+28.1.2023, 0:10:58 - DEBUG - Getting stays 
+28.1.2023, 0:11:02 - INFO - Req was made 
+28.1.2023, 0:11:02 - DEBUG - Getting stays 
+28.1.2023, 0:11:19 - INFO - Req was made 
+28.1.2023, 0:11:19 - DEBUG - Getting stays 
+28.1.2023, 0:13:21 - INFO - Server is running on port: 3030 
+28.1.2023, 0:13:30 - INFO - Req was made 
+28.1.2023, 0:13:30 - DEBUG - Getting stays 
+28.1.2023, 0:13:57 - INFO - Server is running on port: 3030 
+28.1.2023, 0:14:19 - INFO - Server is running on port: 3030 
+28.1.2023, 0:14:23 - INFO - Req was made 
+28.1.2023, 0:14:23 - DEBUG - Getting stays 
+28.1.2023, 0:14:23 - ERROR - cannot find stays | MongoServerError: text index required for $text query 
+28.1.2023, 0:14:23 - ERROR - Failed to get stays | MongoServerError: text index required for $text query 
+28.1.2023, 0:14:26 - DEBUG - Getting stays 
+28.1.2023, 0:14:26 - INFO - Req was made 
+28.1.2023, 0:14:35 - INFO - Req was made 
+28.1.2023, 0:14:35 - DEBUG - Getting stays 
+28.1.2023, 0:14:35 - ERROR - cannot find stays | MongoServerError: text index required for $text query 
+28.1.2023, 0:14:35 - ERROR - Failed to get stays | MongoServerError: text index required for $text query 
+28.1.2023, 0:14:50 - INFO - Server is running on port: 3030 
+28.1.2023, 0:15:11 - DEBUG - Getting stays 
+28.1.2023, 0:15:11 - INFO - Req was made 
+28.1.2023, 0:15:11 - ERROR - cannot find stays | MongoServerError: unknown operator: $or 
+28.1.2023, 0:15:11 - ERROR - Failed to get stays | MongoServerError: unknown operator: $or 
+28.1.2023, 0:15:25 - INFO - Server is running on port: 3030 
+28.1.2023, 0:15:28 - INFO - Req was made 
+28.1.2023, 0:15:28 - DEBUG - Getting stays 
+28.1.2023, 0:15:35 - INFO - Req was made 
+28.1.2023, 0:15:35 - DEBUG - Getting stays 
+28.1.2023, 0:17:51 - INFO - Server is running on port: 3030 
+28.1.2023, 0:17:56 - INFO - Req was made 
+28.1.2023, 0:17:56 - DEBUG - Getting stays 
+28.1.2023, 0:18:19 - INFO - Req was made 
+28.1.2023, 0:18:19 - DEBUG - Getting stays 
+28.1.2023, 0:18:42 - INFO - Server is running on port: 3030 
+28.1.2023, 0:18:57 - INFO - Req was made 
+28.1.2023, 0:18:57 - DEBUG - Getting stays 
+28.1.2023, 0:18:57 - ERROR - cannot find stays | MongoServerError: $regex has to be a string 
+28.1.2023, 0:18:57 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string 
+28.1.2023, 0:19:05 - INFO - Req was made 
+28.1.2023, 0:19:05 - DEBUG - Getting stays 
+28.1.2023, 0:19:05 - ERROR - cannot find stays | MongoServerError: $regex has to be a string 
+28.1.2023, 0:19:05 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string 
+28.1.2023, 0:19:14 - INFO - Server is running on port: 3030 
+28.1.2023, 0:21:37 - INFO - Server is running on port: 3030 
+28.1.2023, 0:21:41 - INFO - Req was made 
+28.1.2023, 0:21:41 - DEBUG - Getting stays 
+28.1.2023, 0:21:51 - INFO - Req was made 
+28.1.2023, 0:21:51 - DEBUG - Getting stays 
+28.1.2023, 0:22:58 - INFO - Server is running on port: 3030 
+28.1.2023, 0:23:23 - INFO - Server is running on port: 3030 
+28.1.2023, 0:23:30 - INFO - Req was made 
+28.1.2023, 0:23:30 - DEBUG - Getting stays 
+28.1.2023, 0:25:14 - INFO - Server is running on port: 3030 
+28.1.2023, 0:25:54 - INFO - Req was made 
+28.1.2023, 0:25:54 - DEBUG - Getting stays 
+28.1.2023, 0:26:10 - INFO - Req was made 
+28.1.2023, 0:26:10 - DEBUG - Getting stays 
+28.1.2023, 0:27:56 - DEBUG - Getting stays 
+28.1.2023, 0:27:56 - INFO - Req was made 
+28.1.2023, 0:28:03 - DEBUG - Getting stays 
+28.1.2023, 0:28:03 - INFO - Req was made 
+28.1.2023, 0:28:16 - INFO - Req was made 
+28.1.2023, 0:28:16 - DEBUG - Getting stays 
+28.1.2023, 0:28:30 - INFO - Req was made 
+28.1.2023, 0:28:30 - DEBUG - Getting stays 
+28.1.2023, 0:28:42 - INFO - Server is running on port: 3030 
+28.1.2023, 0:28:47 - INFO - Req was made 
+28.1.2023, 0:28:47 - DEBUG - Getting stays 
+28.1.2023, 0:32:22 - INFO - Server is running on port: 3030 
+28.1.2023, 0:32:36 - INFO - Req was made 
+28.1.2023, 0:32:36 - DEBUG - Getting stays 
+28.1.2023, 0:32:45 - INFO - Req was made 
+28.1.2023, 0:32:45 - DEBUG - Getting stays 
+28.1.2023, 0:33:09 - INFO - Server is running on port: 3030 
+28.1.2023, 0:33:12 - INFO - Req was made 
+28.1.2023, 0:33:12 - DEBUG - Getting stays 
+28.1.2023, 0:33:22 - INFO - Server is running on port: 3030 
+28.1.2023, 0:33:24 - DEBUG - Getting stays 
+28.1.2023, 0:33:24 - INFO - Req was made 
+28.1.2023, 0:33:47 - INFO - Req was made 
+28.1.2023, 0:33:47 - DEBUG - Getting stays 
+28.1.2023, 0:34:18 - INFO - Req was made 
+28.1.2023, 0:34:18 - DEBUG - Getting stays 
+28.1.2023, 0:34:22 - INFO - Req was made 
+28.1.2023, 0:34:22 - DEBUG - Getting stays 
+28.1.2023, 0:34:25 - INFO - Req was made 
+28.1.2023, 0:34:25 - DEBUG - Getting stays 
+28.1.2023, 0:34:28 - INFO - Req was made 
+28.1.2023, 0:34:28 - DEBUG - Getting stays 
+28.1.2023, 0:34:30 - INFO - Req was made 
+28.1.2023, 0:34:30 - DEBUG - Getting stays 
+28.1.2023, 10:07:01 - INFO - Server is running on port: 3030 
+28.1.2023, 10:08:10 - DEBUG - Getting stays 
+28.1.2023, 10:08:10 - INFO - Req was made 
+28.1.2023, 10:12:13 - DEBUG - Getting stays 
+28.1.2023, 10:12:13 - INFO - Req was made 
+28.1.2023, 10:12:25 - INFO - Req was made 
+28.1.2023, 10:12:25 - DEBUG - Getting stays 
+28.1.2023, 10:12:46 - INFO - Server is running on port: 3030 
+28.1.2023, 10:12:52 - INFO - Req was made 
+28.1.2023, 10:12:52 - DEBUG - Getting stays 
+28.1.2023, 10:12:59 - INFO - Req was made 
+28.1.2023, 10:12:59 - DEBUG - Getting stays 
+28.1.2023, 10:12:59 - ERROR - cannot find stays | ReferenceError: criteria is not defined 
+28.1.2023, 10:12:59 - ERROR - Failed to get stays | ReferenceError: criteria is not defined 
+28.1.2023, 10:13:07 - INFO - Server is running on port: 3030 
+28.1.2023, 10:13:14 - INFO - Req was made 
+28.1.2023, 10:13:14 - DEBUG - Getting stays 
+28.1.2023, 10:13:20 - DEBUG - Getting stays 
+28.1.2023, 10:13:20 - INFO - Req was made 
+28.1.2023, 10:13:29 - INFO - Server is running on port: 3030 
+28.1.2023, 10:13:33 - INFO - Req was made 
+28.1.2023, 10:13:33 - DEBUG - Getting stays 
+28.1.2023, 10:13:37 - INFO - Req was made 
+28.1.2023, 10:13:37 - DEBUG - Getting stays 
+28.1.2023, 10:13:50 - INFO - Server is running on port: 3030 
+28.1.2023, 10:13:56 - INFO - Req was made 
+28.1.2023, 10:13:56 - DEBUG - Getting stays 
+28.1.2023, 10:14:02 - DEBUG - Getting stays 
+28.1.2023, 10:14:02 - INFO - Req was made 
+28.1.2023, 10:14:04 - INFO - Req was made 
+28.1.2023, 10:14:04 - DEBUG - Getting stays 
+28.1.2023, 10:14:07 - INFO - Req was made 
+28.1.2023, 10:14:07 - DEBUG - Getting stays 
+28.1.2023, 10:14:10 - INFO - Req was made 
+28.1.2023, 10:14:10 - DEBUG - Getting stays 
+28.1.2023, 10:14:18 - INFO - Server is running on port: 3030 
+28.1.2023, 10:14:22 - INFO - Req was made 
+28.1.2023, 10:14:22 - DEBUG - Getting stays 
+28.1.2023, 10:14:24 - INFO - Req was made 
+28.1.2023, 10:14:24 - DEBUG - Getting stays 
+28.1.2023, 10:14:33 - INFO - Req was made 
+28.1.2023, 10:14:33 - DEBUG - Getting stays 
+28.1.2023, 10:36:08 - INFO - Req was made 
+28.1.2023, 10:36:08 - DEBUG - Getting stays 
+28.1.2023, 10:36:32 - INFO - Req was made 
+28.1.2023, 10:36:32 - DEBUG - Getting stays 
+28.1.2023, 10:36:47 - INFO - Server is running on port: 3030 
+28.1.2023, 10:36:51 - INFO - Req was made 
+28.1.2023, 10:36:51 - DEBUG - Getting stays 
+28.1.2023, 10:36:56 - DEBUG - Getting stays 
+28.1.2023, 10:36:56 - INFO - Req was made 
+28.1.2023, 10:37:00 - INFO - Req was made 
+28.1.2023, 10:37:00 - DEBUG - Getting stays 
+28.1.2023, 10:37:13 - INFO - Server is running on port: 3030 
+28.1.2023, 10:37:15 - INFO - Server is running on port: 3030 
+28.1.2023, 10:37:27 - INFO - Server is running on port: 3030 
+28.1.2023, 10:37:29 - INFO - Req was made 
+28.1.2023, 10:37:29 - DEBUG - Getting stays 
+28.1.2023, 10:37:37 - INFO - Req was made 
+28.1.2023, 10:37:37 - DEBUG - Getting stays 
+28.1.2023, 10:37:44 - DEBUG - Getting stays 
+28.1.2023, 10:37:44 - INFO - Req was made 
+28.1.2023, 10:38:07 - INFO - Server is running on port: 3030 
+28.1.2023, 10:38:13 - INFO - Req was made 
+28.1.2023, 10:38:13 - DEBUG - Getting stays 
+28.1.2023, 10:38:27 - INFO - Req was made 
+28.1.2023, 10:38:27 - DEBUG - Getting stays 
+28.1.2023, 10:38:35 - DEBUG - Getting stays 
+28.1.2023, 10:38:35 - INFO - Req was made 
+28.1.2023, 10:38:46 - INFO - Server is running on port: 3030 
+28.1.2023, 10:38:54 - INFO - Req was made 
+28.1.2023, 10:38:54 - DEBUG - Getting stays 
+28.1.2023, 10:39:09 - INFO - Server is running on port: 3030 
+28.1.2023, 10:39:16 - INFO - Server is running on port: 3030 
+28.1.2023, 10:39:19 - INFO - Req was made 
+28.1.2023, 10:39:19 - DEBUG - Getting stays 
+28.1.2023, 10:39:25 - INFO - Req was made 
+28.1.2023, 10:39:25 - DEBUG - Getting stays 
+28.1.2023, 10:39:36 - INFO - Server is running on port: 3030 
+28.1.2023, 10:40:01 - INFO - Server is running on port: 3030 
+28.1.2023, 10:40:06 - INFO - Req was made 
+28.1.2023, 10:40:06 - DEBUG - Getting stays 
+28.1.2023, 10:40:12 - INFO - Req was made 
+28.1.2023, 10:40:12 - DEBUG - Getting stays 
+28.1.2023, 10:40:20 - INFO - Req was made 
+28.1.2023, 10:40:20 - DEBUG - Getting stays 
+28.1.2023, 10:40:25 - INFO - Req was made 
+28.1.2023, 10:40:25 - DEBUG - Getting stays 
+28.1.2023, 10:40:33 - DEBUG - Getting stays 
+28.1.2023, 10:40:33 - INFO - Req was made 
+28.1.2023, 10:40:40 - INFO - Req was made 
+28.1.2023, 10:40:40 - DEBUG - Getting stays 
+28.1.2023, 10:40:47 - INFO - Req was made 
+28.1.2023, 10:40:47 - DEBUG - Getting stays 
+28.1.2023, 10:40:54 - DEBUG - Getting stays 
+28.1.2023, 10:40:54 - INFO - Req was made 
+28.1.2023, 10:41:15 - INFO - Req was made 
+28.1.2023, 10:41:15 - DEBUG - Getting stays 
+28.1.2023, 10:41:21 - INFO - Req was made 
+28.1.2023, 10:41:21 - DEBUG - Getting stays 
+28.1.2023, 10:41:31 - INFO - Req was made 
+28.1.2023, 10:41:31 - DEBUG - Getting stays 
+28.1.2023, 10:41:43 - INFO - Req was made 
+28.1.2023, 10:41:43 - DEBUG - Getting stays 
+28.1.2023, 10:41:49 - INFO - Server is running on port: 3030 
+28.1.2023, 10:41:55 - INFO - Req was made 
+28.1.2023, 10:41:55 - DEBUG - Getting stays 
+28.1.2023, 10:42:04 - INFO - Req was made 
+28.1.2023, 10:42:04 - DEBUG - Getting stays 
+28.1.2023, 10:42:20 - INFO - Req was made 
+28.1.2023, 10:42:20 - DEBUG - Getting stays 
+28.1.2023, 10:42:24 - DEBUG - Getting stays 
+28.1.2023, 10:42:24 - INFO - Req was made 
+28.1.2023, 10:43:56 - INFO - Req was made 
+28.1.2023, 10:43:56 - DEBUG - Getting stays 
+28.1.2023, 10:44:09 - INFO - Server is running on port: 3030 
+28.1.2023, 10:44:47 - INFO - Server is running on port: 3030 
+28.1.2023, 10:44:48 - INFO - Req was made 
+28.1.2023, 10:44:48 - DEBUG - Getting stays 
+28.1.2023, 10:44:55 - INFO - Req was made 
+28.1.2023, 10:44:55 - DEBUG - Getting stays 
+28.1.2023, 10:45:01 - INFO - Server is running on port: 3030 
+28.1.2023, 10:45:03 - INFO - Req was made 
+28.1.2023, 10:45:03 - DEBUG - Getting stays 
+28.1.2023, 10:45:20 - INFO - Server is running on port: 3030 
+28.1.2023, 10:45:22 - INFO - Req was made 
+28.1.2023, 10:45:22 - DEBUG - Getting stays 
+28.1.2023, 10:45:26 - DEBUG - Getting stays 
+28.1.2023, 10:45:26 - INFO - Req was made 
+28.1.2023, 10:45:40 - INFO - Server is running on port: 3030 
+28.1.2023, 10:45:44 - INFO - Req was made 
+28.1.2023, 10:45:44 - DEBUG - Getting stays 
+28.1.2023, 10:45:59 - INFO - Req was made 
+28.1.2023, 10:45:59 - DEBUG - Getting stays 
+28.1.2023, 10:46:13 - INFO - Server is running on port: 3030 
+28.1.2023, 10:46:17 - DEBUG - Getting stays 
+28.1.2023, 10:46:17 - INFO - Req was made 
+28.1.2023, 10:46:27 - INFO - Req was made 
+28.1.2023, 10:46:27 - DEBUG - Getting stays 
+28.1.2023, 10:46:34 - INFO - Req was made 
+28.1.2023, 10:46:34 - DEBUG - Getting stays 
+28.1.2023, 10:46:41 - INFO - Req was made 
+28.1.2023, 10:46:41 - DEBUG - Getting stays 
+28.1.2023, 10:46:51 - INFO - Server is running on port: 3030 
+28.1.2023, 10:46:54 - INFO - Req was made 
+28.1.2023, 10:46:54 - DEBUG - Getting stays 
+28.1.2023, 10:47:15 - INFO - Req was made 
+28.1.2023, 10:47:15 - DEBUG - Getting stays 
+28.1.2023, 10:48:20 - INFO - Server is running on port: 3030 
+28.1.2023, 10:48:30 - INFO - Req was made 
+28.1.2023, 10:48:30 - DEBUG - Getting stays 
+28.1.2023, 10:48:34 - INFO - Server is running on port: 3030 
+28.1.2023, 10:48:36 - INFO - Req was made 
+28.1.2023, 10:48:36 - DEBUG - Getting stays 
+28.1.2023, 10:48:46 - INFO - Req was made 
+28.1.2023, 10:48:46 - DEBUG - Getting stays 
+28.1.2023, 10:48:52 - INFO - Req was made 
+28.1.2023, 10:48:52 - DEBUG - Getting stays 
+28.1.2023, 10:48:54 - INFO - Req was made 
+28.1.2023, 10:48:54 - DEBUG - Getting stays 
+28.1.2023, 10:49:01 - INFO - Req was made 
+28.1.2023, 10:49:01 - DEBUG - Getting stays 
+28.1.2023, 10:49:04 - DEBUG - Getting stays 
+28.1.2023, 10:49:04 - INFO - Req was made 
+28.1.2023, 10:49:17 - INFO - Req was made 
+28.1.2023, 10:49:17 - DEBUG - Getting stays 
+28.1.2023, 10:49:30 - INFO - Req was made 
+28.1.2023, 10:49:30 - DEBUG - Getting stays 
+28.1.2023, 10:49:36 - INFO - Req was made 
+28.1.2023, 10:49:36 - DEBUG - Getting stays 
+28.1.2023, 10:49:38 - DEBUG - Getting stays 
+28.1.2023, 10:49:38 - INFO - Req was made 
+28.1.2023, 10:49:54 - INFO - Req was made 
+28.1.2023, 10:49:54 - DEBUG - Getting stays 
+28.1.2023, 10:51:40 - INFO - Server is running on port: 3030 
+28.1.2023, 10:51:44 - DEBUG - Getting stays 
+28.1.2023, 10:51:44 - INFO - Req was made 
+28.1.2023, 10:53:25 - INFO - Req was made 
+28.1.2023, 10:53:25 - DEBUG - Getting stays 
+28.1.2023, 10:53:31 - INFO - Req was made 
+28.1.2023, 10:53:31 - DEBUG - Getting stays 
+28.1.2023, 10:53:38 - INFO - Req was made 
+28.1.2023, 10:53:38 - DEBUG - Getting stays 
+28.1.2023, 10:53:47 - INFO - Req was made 
+28.1.2023, 10:53:47 - DEBUG - Getting stays 
+28.1.2023, 10:53:49 - DEBUG - Getting stays 
+28.1.2023, 10:53:49 - INFO - Req was made 
+28.1.2023, 10:53:52 - INFO - Req was made 
+28.1.2023, 10:53:52 - DEBUG - Getting stays 
+28.1.2023, 10:53:56 - INFO - Req was made 
+28.1.2023, 10:53:56 - DEBUG - Getting stays 
+28.1.2023, 10:53:58 - INFO - Req was made 
+28.1.2023, 10:53:58 - DEBUG - Getting stays 
+28.1.2023, 10:54:01 - DEBUG - Getting stays 
+28.1.2023, 10:54:01 - INFO - Req was made 
+28.1.2023, 10:54:15 - INFO - Req was made 
+28.1.2023, 10:54:15 - DEBUG - Getting stays 
+28.1.2023, 10:54:51 - INFO - Req was made 
+28.1.2023, 10:54:51 - DEBUG - Getting stays 
+28.1.2023, 10:55:08 - INFO - Req was made 
+28.1.2023, 10:55:08 - DEBUG - Getting stays 
+28.1.2023, 10:55:33 - INFO - Req was made 
+28.1.2023, 10:55:33 - DEBUG - Getting stays 
+28.1.2023, 10:56:06 - INFO - Server is running on port: 3030 
+28.1.2023, 10:56:07 - INFO - Req was made 
+28.1.2023, 10:56:07 - DEBUG - Getting stays 
+28.1.2023, 10:56:10 - INFO - Req was made 
+28.1.2023, 10:56:10 - DEBUG - Getting stays 
+28.1.2023, 10:56:12 - INFO - Req was made 
+28.1.2023, 10:56:12 - DEBUG - Getting stays 
+28.1.2023, 10:56:15 - INFO - Req was made 
+28.1.2023, 10:56:15 - DEBUG - Getting stays 
+28.1.2023, 10:56:18 - INFO - Req was made 
+28.1.2023, 10:56:18 - DEBUG - Getting stays 
+28.1.2023, 10:56:19 - DEBUG - Getting stays 
+28.1.2023, 10:56:19 - INFO - Req was made 
+28.1.2023, 10:56:19 - INFO - Req was made 
+28.1.2023, 10:56:19 - DEBUG - Getting stays 
+28.1.2023, 10:56:57 - INFO - Server is running on port: 3030 
+28.1.2023, 10:57:01 - INFO - Req was made 
+28.1.2023, 10:57:01 - DEBUG - Getting stays 
+28.1.2023, 10:57:11 - INFO - Req was made 
+28.1.2023, 10:57:11 - DEBUG - Getting stays 
+28.1.2023, 10:57:36 - INFO - Server is running on port: 3030 
+28.1.2023, 10:57:40 - INFO - Req was made 
+28.1.2023, 10:57:40 - DEBUG - Getting stays 
+28.1.2023, 10:59:32 - INFO - Req was made 
+28.1.2023, 10:59:32 - DEBUG - Getting stays 
+28.1.2023, 11:00:46 - INFO - Req was made 
+28.1.2023, 11:00:46 - DEBUG - Getting stays 
+28.1.2023, 11:01:03 - INFO - Req was made 
+28.1.2023, 11:01:03 - DEBUG - Getting stays 
+28.1.2023, 11:01:04 - INFO - Req was made 
+28.1.2023, 11:01:04 - DEBUG - Getting stays 
+28.1.2023, 11:01:06 - INFO - Req was made 
+28.1.2023, 11:01:06 - DEBUG - Getting stays 
+28.1.2023, 11:01:13 - INFO - Req was made 
+28.1.2023, 11:01:13 - DEBUG - Getting stays 
+28.1.2023, 11:01:49 - INFO - Server is running on port: 3030 
+28.1.2023, 11:01:56 - INFO - Req was made 
+28.1.2023, 11:01:56 - DEBUG - Getting stays 
+28.1.2023, 11:02:05 - INFO - Req was made 
+28.1.2023, 11:02:05 - DEBUG - Getting stays 
+28.1.2023, 11:02:30 - INFO - Req was made 
+28.1.2023, 11:02:30 - DEBUG - Getting stays 
+28.1.2023, 11:02:40 - INFO - Server is running on port: 3030 
+28.1.2023, 11:02:46 - INFO - Req was made 
+28.1.2023, 11:02:46 - DEBUG - Getting stays 
+28.1.2023, 11:02:59 - INFO - Req was made 
+28.1.2023, 11:02:59 - DEBUG - Getting stays 
+28.1.2023, 11:03:07 - INFO - Server is running on port: 3030 
+28.1.2023, 11:03:10 - INFO - Req was made 
+28.1.2023, 11:03:10 - DEBUG - Getting stays 
+28.1.2023, 11:03:29 - INFO - Req was made 
+28.1.2023, 11:03:29 - DEBUG - Getting stays 
+28.1.2023, 11:03:32 - INFO - Req was made 
+28.1.2023, 11:03:32 - DEBUG - Getting stays 
+28.1.2023, 11:03:36 - INFO - Req was made 
+28.1.2023, 11:03:36 - DEBUG - Getting stays 
+28.1.2023, 11:03:37 - INFO - Req was made 
+28.1.2023, 11:03:37 - DEBUG - Getting stays 
+28.1.2023, 11:03:39 - INFO - Req was made 
+28.1.2023, 11:03:39 - DEBUG - Getting stays 
+28.1.2023, 11:03:58 - INFO - Server is running on port: 3030 
+28.1.2023, 11:31:42 - INFO - Server is running on port: 3030 
+28.1.2023, 11:33:39 - INFO - Req was made 
+28.1.2023, 11:33:39 - DEBUG - Getting stays 
+28.1.2023, 11:33:40 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:33:40 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:33:44 - INFO - Req was made 
+28.1.2023, 11:33:44 - DEBUG - Getting stays 
+28.1.2023, 11:33:45 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:33:45 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:33:55 - INFO - Req was made 
+28.1.2023, 11:33:55 - DEBUG - Getting stays 
+28.1.2023, 11:33:56 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:33:56 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:34:45 - INFO - Server is running on port: 3030 
+28.1.2023, 11:34:53 - INFO - Req was made 
+28.1.2023, 11:34:53 - DEBUG - Getting stays 
+28.1.2023, 11:35:11 - INFO - Server is running on port: 3030 
+28.1.2023, 11:35:14 - INFO - Req was made 
+28.1.2023, 11:35:14 - DEBUG - Getting stays 
+28.1.2023, 11:35:15 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:35:15 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:37:14 - INFO - Req was made 
+28.1.2023, 11:37:14 - DEBUG - Getting stays 
+28.1.2023, 11:37:15 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:37:15 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:38:14 - DEBUG - Getting stays 
+28.1.2023, 11:38:14 - INFO - Req was made 
+28.1.2023, 11:38:15 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:38:15 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:39:51 - INFO - Server is running on port: 3030 
+28.1.2023, 11:40:59 - INFO - Req was made 
+28.1.2023, 11:40:59 - DEBUG - Getting stays 
+28.1.2023, 11:41:00 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:41:14 - INFO - Req was made 
+28.1.2023, 11:41:14 - DEBUG - Getting stays 
+28.1.2023, 11:41:15 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:41:39 - INFO - Req was made 
+28.1.2023, 11:42:12 - INFO - Server is running on port: 3030 
+28.1.2023, 11:42:27 - INFO - Server is running on port: 3030 
+28.1.2023, 11:42:31 - INFO - Server is running on port: 3030 
+28.1.2023, 11:42:44 - INFO - Server is running on port: 3030 
+28.1.2023, 11:42:54 - INFO - Server is running on port: 3030 
+28.1.2023, 11:43:34 - INFO - Server is running on port: 3030 
+28.1.2023, 11:43:54 - INFO - Server is running on port: 3030 
+28.1.2023, 11:44:03 - INFO - Server is running on port: 3030 
+28.1.2023, 11:44:10 - INFO - Server is running on port: 3030 
+28.1.2023, 11:44:24 - INFO - Req was made 
+28.1.2023, 11:44:24 - DEBUG - Getting stays 
+28.1.2023, 11:44:25 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:44:25 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:45:52 - INFO - Server is running on port: 3030 
+28.1.2023, 11:45:54 - INFO - Req was made 
+28.1.2023, 11:45:54 - DEBUG - Getting stays 
+28.1.2023, 11:45:55 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:45:55 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:46:02 - INFO - Server is running on port: 3030 
+28.1.2023, 11:47:04 - INFO - Server is running on port: 3030 
+28.1.2023, 11:47:07 - INFO - Req was made 
+28.1.2023, 11:47:07 - DEBUG - Getting stays 
+28.1.2023, 11:47:18 - INFO - Server is running on port: 3030 
+28.1.2023, 11:47:20 - INFO - Req was made 
+28.1.2023, 11:47:20 - DEBUG - Getting stays 
+28.1.2023, 11:47:20 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:47:20 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:47:24 - INFO - Server is running on port: 3030 
+28.1.2023, 11:47:34 - INFO - Req was made 
+28.1.2023, 11:47:34 - DEBUG - Getting stays 
+28.1.2023, 11:48:03 - INFO - Server is running on port: 3030 
+28.1.2023, 11:48:05 - INFO - Req was made 
+28.1.2023, 11:48:05 - DEBUG - Getting stays 
+28.1.2023, 11:48:14 - INFO - Server is running on port: 3030 
+28.1.2023, 11:48:17 - INFO - Req was made 
+28.1.2023, 11:48:17 - DEBUG - Getting stays 
+28.1.2023, 11:48:27 - INFO - Server is running on port: 3030 
+28.1.2023, 11:48:30 - INFO - Req was made 
+28.1.2023, 11:48:30 - ERROR - cannot find stays | ReferenceError: logger is not defined 
+28.1.2023, 11:48:30 - DEBUG - Getting stays 
+28.1.2023, 11:48:30 - ERROR - Failed to get stays | ReferenceError: logger is not defined 
+28.1.2023, 11:48:35 - INFO - Server is running on port: 3030 
+28.1.2023, 11:48:40 - INFO - Req was made 
+28.1.2023, 11:48:40 - DEBUG - Getting stays 
+28.1.2023, 11:49:09 - DEBUG - auth.service - signup with username: itaibe2904@gmail.com, fullname: itai 
+28.1.2023, 11:49:09 - DEBUG - auth.route - new account created: {"username":"itaibe2904@gmail.com","password":"$2b$10$At8yGfiYGxeaVviqM8w9NOg3UdUNbVbR09cbTqU1GHh9s7r4ShDEC","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d4ef95cc824025f26dcda0"} 
+28.1.2023, 11:49:09 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 11:49:09 - INFO - User login:  | {"_id":"63d4ef95cc824025f26dcda0","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 11:49:10 - DEBUG - Getting stays 
+28.1.2023, 11:49:10 - INFO - Req was made 
+28.1.2023, 11:49:44 - DEBUG - auth.service - login with username: itaibe2904@gmail.com 
+28.1.2023, 11:49:45 - INFO - User login:  | {"_id":"63d4ef95cc824025f26dcda0","username":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+28.1.2023, 11:49:45 - INFO - Req was made 
+28.1.2023, 11:49:45 - DEBUG - Getting stays 
+28.1.2023, 11:50:01 - INFO - Req was made 
+28.1.2023, 11:50:01 - DEBUG - Getting stays 
+28.1.2023, 11:50:17 - INFO - Req was made 
+28.1.2023, 11:50:17 - DEBUG - Getting stays 
+28.1.2023, 11:50:29 - INFO - Server is running on port: 3030 
+28.1.2023, 11:50:35 - INFO - Req was made 
+28.1.2023, 11:50:35 - DEBUG - Getting stays 
+28.1.2023, 11:50:40 - INFO - Req was made 
+28.1.2023, 11:50:40 - DEBUG - Getting stays 
+28.1.2023, 11:50:44 - INFO - Req was made 
+28.1.2023, 11:50:44 - DEBUG - Getting stays 
+28.1.2023, 12:18:15 - INFO - Server is running on port: 3030 
+28.1.2023, 12:21:32 - INFO - Server is running on port: 3030 
+28.1.2023, 12:21:38 - INFO - Req was made 
+28.1.2023, 12:21:38 - DEBUG - Getting stays 
+28.1.2023, 12:21:57 - INFO - Server is running on port: 3030 
+28.1.2023, 12:22:00 - INFO - Req was made 
+28.1.2023, 12:22:00 - DEBUG - Getting stays 
+28.1.2023, 12:22:07 - INFO - Server is running on port: 3030 
+28.1.2023, 12:22:21 - INFO - Server is running on port: 3030 
+28.1.2023, 12:22:23 - INFO - Req was made 
+28.1.2023, 12:22:23 - DEBUG - Getting stays 
+28.1.2023, 12:22:39 - INFO - Server is running on port: 3030 
+28.1.2023, 12:22:41 - INFO - Req was made 
+28.1.2023, 12:22:41 - DEBUG - Getting stays 
+28.1.2023, 12:22:47 - DEBUG - Getting stays 
+28.1.2023, 12:22:47 - INFO - Req was made 
+28.1.2023, 12:22:58 - INFO - Req was made 
+28.1.2023, 12:22:58 - DEBUG - Getting stays 
+28.1.2023, 12:23:02 - INFO - Req was made 
+28.1.2023, 12:23:02 - DEBUG - Getting stays 
+28.1.2023, 12:23:04 - INFO - Req was made 
+28.1.2023, 12:23:04 - DEBUG - Getting stays 
+28.1.2023, 12:23:17 - INFO - Server is running on port: 3030 
+28.1.2023, 12:23:20 - INFO - Req was made 
+28.1.2023, 12:23:20 - DEBUG - Getting stays 
+28.1.2023, 12:24:10 - INFO - Req was made 
+28.1.2023, 12:24:10 - DEBUG - Getting stays 
+28.1.2023, 12:24:52 - INFO - Req was made 
+28.1.2023, 12:24:52 - DEBUG - Getting stays 
+28.1.2023, 12:27:19 - INFO - Req was made 
+28.1.2023, 12:27:19 - DEBUG - Getting stays 
+28.1.2023, 12:31:40 - DEBUG - Getting stays 
+28.1.2023, 12:31:40 - INFO - Req was made 
+28.1.2023, 12:31:48 - INFO - Req was made 
+28.1.2023, 12:31:48 - DEBUG - Getting stays 
+28.1.2023, 12:31:53 - INFO - Req was made 
+28.1.2023, 12:31:53 - DEBUG - Getting stays 
+28.1.2023, 12:31:56 - INFO - Req was made 
+28.1.2023, 12:31:56 - DEBUG - Getting stays 
+28.1.2023, 12:32:08 - INFO - Req was made 
+28.1.2023, 12:32:08 - DEBUG - Getting stays 
+28.1.2023, 12:32:19 - DEBUG - Getting stays 
+28.1.2023, 12:32:19 - INFO - Req was made 
+28.1.2023, 12:32:27 - INFO - Req was made 
+28.1.2023, 12:32:27 - DEBUG - Getting stays 
+28.1.2023, 12:33:54 - INFO - Req was made 
+28.1.2023, 12:33:54 - DEBUG - Getting stays 
+28.1.2023, 12:34:04 - INFO - Req was made 
+28.1.2023, 12:34:04 - DEBUG - Getting stays 
+28.1.2023, 12:34:16 - INFO - Req was made 
+28.1.2023, 12:34:16 - DEBUG - Getting stays 
+28.1.2023, 12:34:21 - DEBUG - Getting stays 
+28.1.2023, 12:34:21 - INFO - Req was made 
+28.1.2023, 12:34:52 - INFO - Req was made 
+28.1.2023, 12:34:52 - DEBUG - Getting stays 
+28.1.2023, 13:14:30 - INFO - Req was made 
+28.1.2023, 13:14:31 - DEBUG - Getting stays 
+28.1.2023, 13:20:51 - INFO - Req was made 
+28.1.2023, 13:20:51 - DEBUG - Getting stays 
+28.1.2023, 16:14:44 - INFO - Req was made 
+28.1.2023, 16:14:44 - DEBUG - Getting stays 
+28.1.2023, 16:39:41 - INFO - Req was made 
+28.1.2023, 16:39:41 - DEBUG - Getting stays 
+28.1.2023, 17:15:17 - INFO - Req was made 
+28.1.2023, 17:15:17 - DEBUG - Getting stays 
+28.1.2023, 17:15:20 - INFO - Req was made 
+28.1.2023, 17:15:20 - DEBUG - Getting stays 
+28.1.2023, 17:15:30 - INFO - Req was made 
+28.1.2023, 17:15:30 - DEBUG - Getting stays 
+28.1.2023, 17:15:40 - DEBUG - Getting stays 
+28.1.2023, 17:15:40 - INFO - Req was made 
+28.1.2023, 17:15:55 - DEBUG - Getting stays 
+28.1.2023, 17:15:55 - INFO - Req was made 
+28.1.2023, 17:15:59 - DEBUG - Getting stays 
+28.1.2023, 17:15:59 - INFO - Req was made 
+28.1.2023, 17:16:03 - INFO - Req was made 
+28.1.2023, 17:16:03 - DEBUG - Getting stays 
+28.1.2023, 17:16:41 - DEBUG - Getting stays 
+28.1.2023, 17:16:41 - INFO - Req was made 
+28.1.2023, 17:47:41 - INFO - Req was made 
+28.1.2023, 17:47:41 - DEBUG - Getting stays 
+28.1.2023, 18:10:24 - INFO - Req was made 
+28.1.2023, 18:10:24 - DEBUG - Getting stays 
+28.1.2023, 18:11:57 - INFO - Req was made 
+28.1.2023, 18:11:57 - DEBUG - Getting stays 
+28.1.2023, 18:12:24 - INFO - Req was made 
+28.1.2023, 18:12:24 - DEBUG - Getting stays 
+28.1.2023, 18:13:01 - INFO - Req was made 
+28.1.2023, 18:13:01 - DEBUG - Getting orders 
+28.1.2023, 18:13:02 - INFO - Req was made 
+28.1.2023, 18:13:02 - DEBUG - Getting stays 
