@@ -20,7 +20,7 @@ async function getStays(req, res) {
     if (+filterBy.maxPrice === 0) filterBy.maxPrice = Infinity
     // const stays = await stayService.query(filterBy)
     const stays = await stayService.query(filterBy)
-    // console.log(stays)
+    console.log(stays)
     res.json(stays)
   } catch (err) {
     logger.error('Failed to get stays', err)
