@@ -2057,8 +2057,122 @@
 =======
 >>>>>>> origin/main
 29.1.2023, 0:04:21 - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
+29.1.2023, 0:04:47 - INFO - Server is running on port: 3030 
+29.1.2023, 0:05:06 - INFO - Req was made 
+29.1.2023, 0:05:06 - DEBUG - Getting stays 
+29.1.2023, 0:05:32 - INFO - Req was made 
+29.1.2023, 0:05:32 - DEBUG - Getting stays 
+29.1.2023, 0:16:03 - INFO - Req was made 
+29.1.2023, 0:16:03 - DEBUG - Getting stays 
+29.1.2023, 0:19:05 - INFO - Req was made 
+29.1.2023, 0:19:05 - DEBUG - Getting orders 
+29.1.2023, 0:19:33 - INFO - Req was made 
+29.1.2023, 0:19:33 - DEBUG - Getting orders 
+29.1.2023, 0:20:12 - INFO - Req was made 
+29.1.2023, 0:20:12 - DEBUG - Getting orders 
+29.1.2023, 0:20:20 - INFO - Req was made 
+29.1.2023, 0:20:20 - DEBUG - Getting stays 
+29.1.2023, 0:20:25 - INFO - Req was made 
+29.1.2023, 0:20:25 - DEBUG - Getting stays 
+29.1.2023, 0:20:32 - INFO - Req was made 
+29.1.2023, 0:20:32 - DEBUG - Getting orders 
+29.1.2023, 0:22:05 - INFO - Req was made 
+29.1.2023, 0:22:05 - DEBUG - Getting stays 
+29.1.2023, 0:27:58 - INFO - Req was made 
+29.1.2023, 0:27:58 - DEBUG - Getting stays 
+29.1.2023, 0:28:29 - DEBUG - auth.service - signup with email: alive2154@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 0:28:29 - DEBUG - auth.route - new account created: {"email":"alive2154@gmail.com","password":"$2b$10$LP3JhlBoAdqhRbTy.9Ajdevx5kSJLKuMZJhCp/HrwGRSg5.zxfwM2","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d5a18d2afcb7c2cd468833"} 
+29.1.2023, 0:28:29 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 0:28:29 - INFO - User login:  | {"_id":"63d5a18d2afcb7c2cd468833","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:28:30 - INFO - Req was made 
+29.1.2023, 0:28:30 - DEBUG - Getting stays 
+29.1.2023, 0:29:00 - INFO - Req was made 
+29.1.2023, 0:29:00 - DEBUG - Getting stays 
+29.1.2023, 0:29:13 - DEBUG - auth.service - signup with email: alive2154@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 0:29:14 - DEBUG - auth.route - new account created: {"email":"alive2154@gmail.com","password":"$2b$10$dt1OaIRoZhPG6a2iGsC3EuXky1B6oQ3W8hvVhUfrOmYndM70x3cka","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d5a1ba2afcb7c2cd468834"} 
+29.1.2023, 0:29:14 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 0:29:14 - INFO - User login:  | {"_id":"63d5a18d2afcb7c2cd468833","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:29:15 - INFO - Req was made 
+29.1.2023, 0:29:15 - DEBUG - Getting stays 
+29.1.2023, 0:29:44 - INFO - Req was made 
+29.1.2023, 0:29:44 - DEBUG - Getting stays 
+29.1.2023, 0:29:47 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 0:29:48 - INFO - User login:  | {"_id":"63d5a18d2afcb7c2cd468833","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:29:50 - INFO - Req was made 
+29.1.2023, 0:29:50 - DEBUG - Getting stays 
+29.1.2023, 0:29:58 - DEBUG - Getting stays 
+29.1.2023, 0:29:58 - INFO - Req was made 
+29.1.2023, 0:30:14 - DEBUG - auth.service - signup with email: alive2154@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 0:30:15 - DEBUG - auth.route - new account created: {"email":"alive2154@gmail.com","password":"$2b$10$eUz9PZaGvQNqAtWV4oefgec/tjwYMIZwoQfVKBuzfoZyLBHanuPDS","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d5a1f62afcb7c2cd468835"} 
+29.1.2023, 0:30:15 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 0:30:15 - INFO - User login:  | {"_id":"63d5a18d2afcb7c2cd468833","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:30:16 - INFO - Req was made 
+29.1.2023, 0:30:16 - DEBUG - Getting stays 
+29.1.2023, 0:31:03 - INFO - Req was made 
+29.1.2023, 0:31:03 - DEBUG - Getting stays 
+29.1.2023, 0:31:15 - DEBUG - auth.service - signup with email: alive2154@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 0:31:15 - DEBUG - auth.route - new account created: {"email":"alive2154@gmail.com","password":"$2b$10$qGHAsE.hy3vTgyL.1XIsouThmY3LeQZ2NvMnF5/vKEUSsH5ry6ClW","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d5a2332afcb7c2cd468836"} 
+29.1.2023, 0:31:15 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 0:31:15 - INFO - User login:  | {"_id":"63d5a18d2afcb7c2cd468833","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:31:16 - INFO - Req was made 
+29.1.2023, 0:31:16 - DEBUG - Getting stays 
+29.1.2023, 0:32:28 - INFO - Req was made 
+29.1.2023, 0:32:28 - DEBUG - Getting stays 
+29.1.2023, 0:32:37 - DEBUG - auth.service - signup with email: alive2154@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 0:32:37 - DEBUG - auth.route - new account created: {"email":"alive2154@gmail.com","password":"$2b$10$1TPYnETOSpS.PD3jb34AyuNB0B9gcfyUzkFxvVurc7kvPhX/nGP4G","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d5a2852afcb7c2cd468837"} 
+29.1.2023, 0:32:37 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 0:32:37 - INFO - User login:  | {"_id":"63d5a18d2afcb7c2cd468833","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:32:38 - INFO - Req was made 
+29.1.2023, 0:32:38 - DEBUG - Getting stays 
+29.1.2023, 0:34:32 - DEBUG - Getting stays 
+29.1.2023, 0:34:32 - INFO - Req was made 
+29.1.2023, 0:34:39 - DEBUG - auth.service - signup with email: alive2154@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 0:34:39 - DEBUG - auth.route - new account created: {"email":"alive2154@gmail.com","password":"$2b$10$9j8rZzYc45lNsZXkd1r.ruJriiKzXDoVjj88BiZpqEvHlbvtP/UVO","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d5a2ff2afcb7c2cd468838"} 
+29.1.2023, 0:34:39 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 0:34:39 - INFO - User login:  | {"_id":"63d5a18d2afcb7c2cd468833","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:34:40 - INFO - Req was made 
+29.1.2023, 0:34:40 - DEBUG - Getting stays 
+29.1.2023, 0:35:04 - INFO - Req was made 
+29.1.2023, 0:35:04 - DEBUG - Getting stays 
+29.1.2023, 0:35:55 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 0:35:55 - INFO - User login:  | {"_id":"63d5a18d2afcb7c2cd468833","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:35:56 - INFO - Req was made 
+29.1.2023, 0:35:56 - DEBUG - Getting stays 
+29.1.2023, 0:36:44 - INFO - Req was made 
+29.1.2023, 0:36:44 - DEBUG - Getting stays 
+29.1.2023, 0:37:38 - DEBUG - Getting stays 
+29.1.2023, 0:37:38 - INFO - Req was made 
+29.1.2023, 0:37:53 - DEBUG - auth.service - signup with email: barsheshetshaked88@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 0:37:53 - DEBUG - auth.route - new account created: {"email":"barsheshetshaked88@gmail.com","password":"$2b$10$546oyNWylPtSJIu8ZvKRxuKD8FhvLbI3Xd2BQTwX//c074tkDYgtq","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d5a3c12afcb7c2cd468839"} 
+29.1.2023, 0:37:53 - DEBUG - auth.service - login with email: barsheshetshaked88@gmail.com 
+29.1.2023, 0:37:53 - INFO - User login:  | {"_id":"63d5a3c12afcb7c2cd468839","email":"barsheshetshaked88@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:37:55 - INFO - Req was made 
+29.1.2023, 0:37:55 - DEBUG - Getting stays 
+29.1.2023, 0:40:38 - DEBUG - Getting stays 
+29.1.2023, 0:40:38 - INFO - Req was made 
+29.1.2023, 0:40:57 - DEBUG - auth.service - signup with email: ShakedBar66t@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 0:40:57 - DEBUG - auth.route - new account created: {"email":"ShakedBar66t@gmail.com","password":"$2b$10$YqHP7Z5YZwa7LKwJNsD/cueh0nXTZab37/oDsMdqB5/g9FQHYKFyy","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d5a4792afcb7c2cd46883a"} 
+29.1.2023, 0:40:57 - DEBUG - auth.service - login with email: ShakedBar66t@gmail.com 
+29.1.2023, 0:40:57 - INFO - User login:  | {"_id":"63d5a4792afcb7c2cd46883a","email":"ShakedBar66t@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 0:40:58 - INFO - Req was made 
+29.1.2023, 0:40:58 - DEBUG - Getting stays 
+29.1.2023, 0:48:21 - INFO - Req was made 
+29.1.2023, 0:48:21 - DEBUG - Getting stays 
+29.1.2023, 0:48:58 - INFO - Req was made 
+29.1.2023, 0:48:58 - DEBUG - Getting stays 
+29.1.2023, 0:49:12 - INFO - Req was made 
+29.1.2023, 0:49:12 - DEBUG - Getting stays 
+29.1.2023, 0:49:16 - INFO - Req was made 
+29.1.2023, 0:49:16 - DEBUG - Getting stays 
+29.1.2023, 0:51:00 - DEBUG - Getting stays 
+29.1.2023, 0:51:00 - INFO - Req was made 
+29.1.2023, 1:00:01 - INFO - Req was made 
+29.1.2023, 1:00:01 - DEBUG - Getting stays 
+=======
 >>>>>>> ffec134e4f658185f3dd75062c58a8bde7362b6e
 29.1.2023, 2:06:17 - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
 29.1.2023, 2:11:42 - INFO - Req was made 
 29.1.2023, 2:11:42 - DEBUG - Getting stays 
 29.1.2023, 2:18:15 - DEBUG - Getting stays 
@@ -2186,3 +2300,7 @@
 29.1.2023, 10:35:21 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: HruQmcMpY4di2lz1AAAP] 
 29.1.2023, 10:35:23 - INFO - New connected socket [id: LT7gCbA-llEKeDXnAAAR] 
 29.1.2023, 10:35:24 - INFO - Setting socket.userId = 63d62ebe0709cc29c526be55 for socket [id: LT7gCbA-llEKeDXnAAAR] 
+=======
+>>>>>>> origin/main
+29.1.2023, 9:46:06 - INFO - Server is running on port: 3030 
+>>>>>>> 25ec372e5ec1bb558c3fc4c059248a745997e691
