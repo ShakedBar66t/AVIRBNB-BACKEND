@@ -102,6 +102,16 @@ async function update(stay) {
         throw err
     }
 }
+// const collection = await dbService.getCollection('stay')
+// addRatingToReviews(collection)
+// function addRatingToReviews(collection) {
+//     collection.find({}).forEach(function (stay) {
+//         stay.reviews.forEach(function (review) {
+//             review.rating = (Math.random() * (5 - 3.8) + 3.8).toFixed(1);
+//         });
+//         collection.save(stay);
+//     });
+// }
 
 async function addStayMsg(stayId, msg) {
     try {
