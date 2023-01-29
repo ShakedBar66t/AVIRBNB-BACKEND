@@ -2059,3 +2059,130 @@
 29.1.2023, 0:04:21 - INFO - Server is running on port: 3030 
 >>>>>>> ffec134e4f658185f3dd75062c58a8bde7362b6e
 29.1.2023, 2:06:17 - INFO - Server is running on port: 3030 
+29.1.2023, 2:11:42 - INFO - Req was made 
+29.1.2023, 2:11:42 - DEBUG - Getting stays 
+29.1.2023, 2:18:15 - DEBUG - Getting stays 
+29.1.2023, 2:18:15 - INFO - Req was made 
+29.1.2023, 2:19:37 - INFO - Req was made 
+29.1.2023, 2:19:37 - DEBUG - Getting stays 
+29.1.2023, 2:21:58 - INFO - Req was made 
+29.1.2023, 2:21:58 - DEBUG - Getting stays 
+29.1.2023, 2:22:02 - INFO - Req was made 
+29.1.2023, 2:22:02 - DEBUG - Getting stays 
+29.1.2023, 2:26:11 - INFO - Req was made 
+29.1.2023, 2:26:11 - DEBUG - Getting stays 
+29.1.2023, 2:26:16 - INFO - Req was made 
+29.1.2023, 2:26:16 - DEBUG - Getting stays 
+29.1.2023, 2:26:20 - INFO - Req was made 
+29.1.2023, 2:26:20 - DEBUG - Getting stays 
+29.1.2023, 2:29:13 - INFO - Req was made 
+29.1.2023, 2:29:13 - DEBUG - Getting stays 
+29.1.2023, 2:39:30 - INFO - Req was made 
+29.1.2023, 2:39:31 - DEBUG - Getting stays 
+29.1.2023, 8:33:38 - INFO - Server is running on port: 3030 
+29.1.2023, 8:34:25 - INFO - Req was made 
+29.1.2023, 8:34:25 - DEBUG - Getting stays 
+29.1.2023, 9:03:14 - DEBUG - auth.service - login with email: itaibe2904@gmail.com 
+29.1.2023, 9:03:14 - INFO - User login:  | {"_id":"63d59683a3741c7226f8cea2","email":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 9:03:17 - INFO - Req was made 
+29.1.2023, 9:03:17 - DEBUG - Getting stays 
+29.1.2023, 9:06:14 - INFO - Req was made 
+29.1.2023, 9:06:14 - DEBUG - Getting stays 
+29.1.2023, 9:09:23 - INFO - Req was made 
+29.1.2023, 9:09:23 - DEBUG - Getting stays 
+29.1.2023, 9:14:35 - INFO - Req was made 
+29.1.2023, 9:14:35 - DEBUG - Getting orders 
+29.1.2023, 9:14:56 - INFO - Req was made 
+29.1.2023, 9:14:56 - DEBUG - Getting orders 
+29.1.2023, 9:16:17 - INFO - Req was made 
+29.1.2023, 9:16:17 - DEBUG - Getting orders 
+29.1.2023, 9:16:26 - INFO - Req was made 
+29.1.2023, 9:16:26 - DEBUG - Getting stays 
+29.1.2023, 9:43:07 - INFO - Server is running on port: 3030 
+29.1.2023, 9:56:19 - INFO - Server is running on port: 3030 
+29.1.2023, 9:57:28 - INFO - Req was made 
+29.1.2023, 9:57:28 - DEBUG - Getting stays 
+29.1.2023, 9:58:52 - INFO - Server is running on port: 3030 
+29.1.2023, 10:00:16 - INFO - Server is running on port: 3030 
+29.1.2023, 10:00:17 - INFO - New connected socket [id: IKXA3p03DlkNLHYEAAAB] 
+29.1.2023, 10:00:17 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: IKXA3p03DlkNLHYEAAAB] 
+29.1.2023, 10:01:04 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:01:07 - INFO - New connected socket [id: NXJhYHGHUoUCqxt7AAAD] 
+29.1.2023, 10:01:07 - INFO - Req was made 
+29.1.2023, 10:01:07 - DEBUG - Getting stays 
+29.1.2023, 10:01:07 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: NXJhYHGHUoUCqxt7AAAD] 
+29.1.2023, 10:02:55 - INFO - Server is running on port: 3030 
+29.1.2023, 10:02:55 - INFO - New connected socket [id: VxqATZXRac1S3NeRAAAB] 
+29.1.2023, 10:03:07 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:03:09 - INFO - New connected socket [id: ZbULED0BNrh6cI0OAAAD] 
+29.1.2023, 10:03:10 - INFO - Req was made 
+29.1.2023, 10:03:10 - DEBUG - Getting stays 
+29.1.2023, 10:03:10 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: ZbULED0BNrh6cI0OAAAD] 
+29.1.2023, 10:03:47 - INFO - Req was made 
+29.1.2023, 10:03:47 - DEBUG - Getting stays 
+29.1.2023, 10:04:03 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:04:07 - INFO - New connected socket [id: w-FAZhWrdgGfk-DgAAAF] 
+29.1.2023, 10:04:08 - INFO - Req was made 
+29.1.2023, 10:04:08 - DEBUG - Getting stays 
+29.1.2023, 10:04:09 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: w-FAZhWrdgGfk-DgAAAF] 
+29.1.2023, 10:04:53 - DEBUG - auth.service - login with email: itaibe2904@gmail.com 
+29.1.2023, 10:04:54 - INFO - User login:  | {"_id":"63d59683a3741c7226f8cea2","email":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isHost":true} 
+29.1.2023, 10:05:02 - INFO - Req was made 
+29.1.2023, 10:05:02 - DEBUG - Getting stays 
+29.1.2023, 10:05:28 - INFO - Server is running on port: 3030 
+29.1.2023, 10:05:29 - INFO - New connected socket [id: Ig4OT6vXQ_0VVnlCAAAB] 
+29.1.2023, 10:13:27 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:13:32 - INFO - New connected socket [id: APBBfqSPWtACjnDDAAAD] 
+29.1.2023, 10:13:33 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: APBBfqSPWtACjnDDAAAD] 
+29.1.2023, 10:13:55 - INFO - Req was made 
+29.1.2023, 10:13:55 - DEBUG - Getting stays 
+29.1.2023, 10:14:06 - INFO - Socket is leaving topic 622f3403e36c59e6164faf93 [id: APBBfqSPWtACjnDDAAAD] 
+29.1.2023, 10:15:29 - INFO - Server is running on port: 3030 
+29.1.2023, 10:15:29 - INFO - New connected socket [id: 3wUUoYplPvAlDV2UAAAB] 
+29.1.2023, 10:16:23 - INFO - Server is running on port: 3030 
+29.1.2023, 10:16:23 - INFO - New connected socket [id: gURJd8KnC70abOxWAAAB] 
+29.1.2023, 10:17:56 - INFO - Server is running on port: 3030 
+29.1.2023, 10:17:57 - INFO - New connected socket [id: AWEsBPjgNwWJ8-wiAAAB] 
+29.1.2023, 10:18:10 - INFO - New connected socket [id: iMftPujTVCVvaq0DAAAD] 
+29.1.2023, 10:18:10 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: iMftPujTVCVvaq0DAAAD] 
+29.1.2023, 10:23:59 - INFO - Server is running on port: 3030 
+29.1.2023, 10:24:00 - INFO - New connected socket [id: EpsjDegknGsXE69vAAAC] 
+29.1.2023, 10:24:00 - INFO - New connected socket [id: pp5EK86qh24qdatNAAAD] 
+29.1.2023, 10:24:14 - INFO - Req was made 
+29.1.2023, 10:24:14 - DEBUG - Getting stays 
+29.1.2023, 10:24:22 - DEBUG - Getting stays 
+29.1.2023, 10:24:22 - INFO - Req was made 
+29.1.2023, 10:24:57 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:24:57 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:25:02 - INFO - New connected socket [id: zDM-jaYtTBaXWOSzAAAF] 
+29.1.2023, 10:25:03 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: zDM-jaYtTBaXWOSzAAAF] 
+29.1.2023, 10:25:28 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:25:31 - INFO - New connected socket [id: o5XU56Uo4scm0BkbAAAH] 
+29.1.2023, 10:25:32 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: o5XU56Uo4scm0BkbAAAH] 
+29.1.2023, 10:26:35 - INFO - New chat notfi from socket [id: o5XU56Uo4scm0BkbAAAH], emitting to topic 63d59683a3741c7226f8cea2 
+29.1.2023, 10:30:25 - INFO - New connected socket [id: DfLNlK35na4StO1jAAAJ] 
+29.1.2023, 10:30:53 - DEBUG - auth.service - signup with email: demo@gmail.com, fullname: demo user 
+29.1.2023, 10:30:54 - DEBUG - auth.route - new account created: {"email":"demo@gmail.com","password":"$2b$10$eJbCM3qVCCXhlne8R4TcJOI6CytbF.Pxvhb.rs1dYw6V8PDYodRKm","fullname":"demo user","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d62ebe0709cc29c526be55"} 
+29.1.2023, 10:30:54 - DEBUG - auth.service - login with email: demo@gmail.com 
+29.1.2023, 10:30:54 - INFO - User login:  | {"_id":"63d62ebe0709cc29c526be55","email":"demo@gmail.com","fullname":"demo user","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 10:30:55 - INFO - Req was made 
+29.1.2023, 10:30:55 - DEBUG - Getting stays 
+29.1.2023, 10:31:16 - INFO - Req was made 
+29.1.2023, 10:31:16 - DEBUG - Getting stays 
+29.1.2023, 10:31:42 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:31:46 - INFO - New connected socket [id: 0IQgmyRqbz7io8ESAAAL] 
+29.1.2023, 10:32:10 - DEBUG - auth.service - login with email: demo@gmail.com 
+29.1.2023, 10:32:10 - INFO - User login:  | {"_id":"63d62ebe0709cc29c526be55","email":"demo@gmail.com","fullname":"demo user","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 10:32:11 - INFO - Req was made 
+29.1.2023, 10:32:11 - DEBUG - Getting stays 
+29.1.2023, 10:32:20 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:32:24 - INFO - New connected socket [id: yOhP-9PA9gP21wh5AAAN] 
+29.1.2023, 10:32:25 - INFO - Setting socket.userId = 63d62ebe0709cc29c526be55 for socket [id: yOhP-9PA9gP21wh5AAAN] 
+29.1.2023, 10:32:35 - INFO - New chat notfi from socket [id: yOhP-9PA9gP21wh5AAAN], emitting to topic 63d59683a3741c7226f8cea2 
+29.1.2023, 10:33:12 - INFO - New chat notfi from socket [id: yOhP-9PA9gP21wh5AAAN], emitting to topic 63d59683a3741c7226f8cea2 
+29.1.2023, 10:35:13 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:35:14 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:35:19 - INFO - New connected socket [id: HruQmcMpY4di2lz1AAAP] 
+29.1.2023, 10:35:21 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: HruQmcMpY4di2lz1AAAP] 
+29.1.2023, 10:35:23 - INFO - New connected socket [id: LT7gCbA-llEKeDXnAAAR] 
+29.1.2023, 10:35:24 - INFO - Setting socket.userId = 63d62ebe0709cc29c526be55 for socket [id: LT7gCbA-llEKeDXnAAAR] 
