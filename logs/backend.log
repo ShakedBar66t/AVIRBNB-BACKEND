@@ -2304,3 +2304,40 @@
 >>>>>>> origin/main
 29.1.2023, 9:46:06 - INFO - Server is running on port: 3030 
 >>>>>>> 25ec372e5ec1bb558c3fc4c059248a745997e691
+29.1.2023, 10:58:45 - INFO - Server is running on port: 3030 
+29.1.2023, 10:58:46 - INFO - New connected socket [id: VrCNaF_sAqeCwqNUAAAB] 
+29.1.2023, 10:58:48 - INFO - New connected socket [id: D8kA0fVZkVqq-Q8RAAAD] 
+29.1.2023, 10:58:48 - INFO - Setting socket.userId = 63d625b8a351a4ecab8b25d8 for socket [id: D8kA0fVZkVqq-Q8RAAAD] 
+29.1.2023, 10:58:50 - INFO - New connected socket [id: BrqCEdZxbFNGK0ckAAAF] 
+29.1.2023, 10:59:04 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:59:05 - INFO - New connected socket [id: MXq1SC3SppvB44PWAAAH] 
+29.1.2023, 10:59:05 - INFO - Req was made 
+29.1.2023, 10:59:05 - DEBUG - Getting stays 
+29.1.2023, 10:59:06 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:59:06 - INFO - New connected socket [id: Z8eo_oolGNmnXo74AAAJ] 
+29.1.2023, 10:59:06 - INFO - Req was made 
+29.1.2023, 10:59:06 - DEBUG - Getting stays 
+29.1.2023, 10:59:15 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:59:16 - INFO - New connected socket [id: uwFGtCNwG3LADezlAAAL] 
+29.1.2023, 10:59:16 - INFO - Req was made 
+29.1.2023, 10:59:16 - DEBUG - Getting stays 
+29.1.2023, 10:59:18 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:59:18 - INFO - New connected socket [id: hw591PX2OpWSFtDFAAAN] 
+29.1.2023, 10:59:18 - DEBUG - Getting stays 
+29.1.2023, 10:59:18 - INFO - Req was made 
+29.1.2023, 10:59:30 - INFO - Server is running on port: 3030 
+29.1.2023, 10:59:30 - INFO - New connected socket [id: qrrR6OXgclRMc50qAAAB] 
+29.1.2023, 10:59:31 - INFO - New connected socket [id: R4uk1caDEwB5pgqXAAAD] 
+29.1.2023, 10:59:32 - INFO - New connected socket [id: 6M63FnVf4iQeODzhAAAF] 
+29.1.2023, 10:59:35 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:59:35 - INFO - New connected socket [id: Si0gn11tUcnVYf8oAAAH] 
+29.1.2023, 10:59:35 - INFO - Req was made 
+29.1.2023, 10:59:35 - DEBUG - Getting stays 
+29.1.2023, 10:59:47 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 10:59:47 - INFO - New connected socket [id: 1DsxpbnKuuoMbikvAAAJ] 
+29.1.2023, 10:59:47 - INFO - Req was made 
+29.1.2023, 10:59:47 - DEBUG - Getting stays 
+29.1.2023, 11:01:36 - INFO - Server is running on port: 3030 
+29.1.2023, 11:01:39 - INFO - New connected socket [id: JL1p6wuFBHYjnpd8AAAD] 
+29.1.2023, 11:01:39 - INFO - New connected socket [id: rxruoFEPR_D9TfQaAAAE] 
+29.1.2023, 11:01:39 - INFO - New connected socket [id: ey6cW8FUml7d1yqiAAAF] 
