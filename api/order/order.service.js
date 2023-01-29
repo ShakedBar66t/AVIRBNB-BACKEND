@@ -111,12 +111,26 @@ async function add(order) {
     }
 }
 
+// async function update(order) {
+//     console.log(order)
+//     try {
+//         const orderToSave = {
+//             name: order.name,
+//             price: order.price
+//         }
+//         const collection = await dbService.getCollection('order')
+//         await collection.updateOne({ _id: ObjectId(order._id) }, { $set: orderToSave })
+//         return order
+//     } catch (err) {
+//         logger.error(`cannot update order ${order._id}`, err)
+//         throw err
+//     }
+// }
+
 async function update(order) {
+    console.log(order._id, 'from order.service')
     try {
-        const orderToSave = {
-            name: order.name,
-            price: order.price
-        }
+        const orderToSave = { ...order, _id: ObjectId(order._id) }
         const collection = await dbService.getCollection('order')
         await collection.updateOne({ _id: ObjectId(order._id) }, { $set: orderToSave })
         return order

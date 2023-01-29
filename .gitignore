@@ -10,7 +10,7 @@
 
 # production
 /build
-
+/backend.log
 # misc
 .DS_Store
 .env.local
