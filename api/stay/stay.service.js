@@ -5,7 +5,6 @@ const ObjectId = require('mongodb').ObjectId
 
 
 async function query(filterBy = { name: '' }) {
-    // console.log(filterBy)
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('stay')
@@ -34,6 +33,9 @@ function _buildCriteria(filterBy) {
             criteria.price = { $lte: +filterBy.maxPrice }
         }
     }
+    if (filterBy.type && filterBy.type !== `'`) {
+        criteria.type = { $eq: filterBy.type }
+    }
     if (filterBy.location !== 'flexible' && filterBy.location !== `I'm flexible`) {
         criteria.$or = [
             { "loc.country": { $regex: filterBy.location, $options: 'i' } },
@@ -41,16 +43,6 @@ function _buildCriteria(filterBy) {
             { "loc.city": { $regex: filterBy.location, $options: 'i' } }
         ]
     }
-
-    // if (filterBy.total && !isNaN(filterBy.total) && filterBy.total > 0) {
-    //     criteria.capacity = { $lte: +filterBy.total }
-    // }
-
-    if (filterBy.type && filterBy.type !== `'`) {
-        criteria.type = { $eq: filterBy.type }
-    }
-
-    // console.log('the crit', criteria)
     return criteria
 }
 

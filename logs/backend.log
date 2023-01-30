@@ -2341,3 +2341,442 @@
 29.1.2023, 11:01:39 - INFO - New connected socket [id: JL1p6wuFBHYjnpd8AAAD] 
 29.1.2023, 11:01:39 - INFO - New connected socket [id: rxruoFEPR_D9TfQaAAAE] 
 29.1.2023, 11:01:39 - INFO - New connected socket [id: ey6cW8FUml7d1yqiAAAF] 
+29.1.2023, 15:51:35 - INFO - Server is running on port: 3030 
+29.1.2023, 15:51:37 - INFO - New connected socket [id: 6N4IM7UjYC960TbnAAAB] 
+29.1.2023, 15:51:40 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:51:40 - INFO - New connected socket [id: EPQ4KZrt7kUc4AlVAAAD] 
+29.1.2023, 15:51:40 - INFO - Req was made 
+29.1.2023, 15:51:40 - DEBUG - Getting stays 
+29.1.2023, 15:51:58 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:51:59 - INFO - New connected socket [id: X7AOnZ_axzhBikyDAAAF] 
+29.1.2023, 15:51:59 - DEBUG - Getting stays 
+29.1.2023, 15:51:59 - INFO - Req was made 
+29.1.2023, 15:52:53 - INFO - Server is running on port: 3030 
+29.1.2023, 15:52:54 - INFO - New connected socket [id: jnZe41GHJBPboa_nAAAB] 
+29.1.2023, 15:52:56 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:52:57 - INFO - New connected socket [id: KQx1I-f9ZNpyohvYAAAD] 
+29.1.2023, 15:52:57 - INFO - Req was made 
+29.1.2023, 15:52:57 - DEBUG - Getting stays 
+29.1.2023, 15:53:40 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:53:41 - INFO - New connected socket [id: gD52iidydzj1q-IJAAAF] 
+29.1.2023, 15:53:47 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:53:48 - INFO - New connected socket [id: 1qO4-w1egX6prCEqAAAH] 
+29.1.2023, 15:54:05 - DEBUG - auth.service - login with email: affiliateshaked@gmail.com 
+29.1.2023, 15:54:05 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 15:54:16 - DEBUG - auth.service - signup with email: affiliateshaked@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 15:54:16 - DEBUG - auth.route - new account created: {"email":"affiliateshaked@gmail.com","password":"$2b$10$n7ZEy8giYQRGZPZsHXGTbOrwVv4HMtYGjadV0fdBMvkKmuTwRYLLy","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d67a8841bc645362a13725"} 
+29.1.2023, 15:54:16 - DEBUG - auth.service - login with email: affiliateshaked@gmail.com 
+29.1.2023, 15:54:16 - INFO - User login:  | {"_id":"63d67a8841bc645362a13725","email":"affiliateshaked@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 15:54:17 - INFO - Req was made 
+29.1.2023, 15:54:17 - DEBUG - Getting stays 
+29.1.2023, 15:54:43 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:54:44 - INFO - New connected socket [id: b8--jJtQJ4EmHe4VAAAJ] 
+29.1.2023, 15:54:44 - INFO - Setting socket.userId = null for socket [id: b8--jJtQJ4EmHe4VAAAJ] 
+29.1.2023, 15:55:43 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:55:44 - INFO - New connected socket [id: 8nnjGoQ5h_V5W_lqAAAL] 
+29.1.2023, 15:55:44 - DEBUG - Getting stays 
+29.1.2023, 15:55:44 - INFO - Req was made 
+29.1.2023, 15:55:45 - INFO - Setting socket.userId = null for socket [id: 8nnjGoQ5h_V5W_lqAAAL] 
+29.1.2023, 15:57:48 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:57:50 - INFO - New connected socket [id: bm_4hsP03Z8JkiaBAAAN] 
+29.1.2023, 15:57:50 - INFO - Req was made 
+29.1.2023, 15:57:50 - DEBUG - Getting stays 
+29.1.2023, 15:57:50 - INFO - Setting socket.userId = null for socket [id: bm_4hsP03Z8JkiaBAAAN] 
+29.1.2023, 15:58:34 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:58:35 - INFO - New connected socket [id: BBAIgvgD6m6giRiFAAAP] 
+29.1.2023, 15:58:35 - INFO - Req was made 
+29.1.2023, 15:58:35 - DEBUG - Getting stays 
+29.1.2023, 15:58:36 - INFO - Setting socket.userId = null for socket [id: BBAIgvgD6m6giRiFAAAP] 
+29.1.2023, 15:59:57 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:59:59 - INFO - New connected socket [id: eQ4yDtnOcfsiugdfAAAR] 
+29.1.2023, 15:59:59 - DEBUG - Getting stays 
+29.1.2023, 15:59:59 - INFO - Req was made 
+29.1.2023, 15:59:59 - INFO - Setting socket.userId = null for socket [id: eQ4yDtnOcfsiugdfAAAR] 
+29.1.2023, 16:01:03 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:01:05 - INFO - New connected socket [id: udgCcb9WvZ8BXJRkAAAT] 
+29.1.2023, 16:01:05 - DEBUG - Getting stays 
+29.1.2023, 16:01:05 - INFO - Req was made 
+29.1.2023, 16:01:05 - INFO - Setting socket.userId = null for socket [id: udgCcb9WvZ8BXJRkAAAT] 
+29.1.2023, 16:02:00 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:02:01 - INFO - New connected socket [id: CmCR-SgdmqeXaH1_AAAV] 
+29.1.2023, 16:02:01 - INFO - Req was made 
+29.1.2023, 16:02:01 - DEBUG - Getting stays 
+29.1.2023, 16:02:02 - INFO - Setting socket.userId = null for socket [id: CmCR-SgdmqeXaH1_AAAV] 
+29.1.2023, 16:10:26 - DEBUG - Getting stays 
+29.1.2023, 16:10:26 - INFO - Req was made 
+29.1.2023, 16:15:42 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:15:42 - INFO - New connected socket [id: 9v5SsINJaKa3WcT1AAAX] 
+29.1.2023, 16:15:42 - INFO - Req was made 
+29.1.2023, 16:15:42 - DEBUG - Getting stays 
+29.1.2023, 16:17:04 - DEBUG - auth.service - signup with email: Shkood@gmail.com, fullname: Shkood 
+29.1.2023, 16:17:04 - DEBUG - auth.route - new account created: {"email":"Shkood@gmail.com","password":"$2b$10$/aWHE6t6X8QaRCcJkYhZTuaaTY0YPmMBFrC3gYrvReHOCm.eghugy","fullname":"Shkood","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d67fe041bc645362a13726"} 
+29.1.2023, 16:17:04 - DEBUG - auth.service - login with email: Shkood@gmail.com 
+29.1.2023, 16:17:04 - INFO - User login:  | {"_id":"63d67fe041bc645362a13726","email":"Shkood@gmail.com","fullname":"Shkood","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 16:17:06 - INFO - Req was made 
+29.1.2023, 16:17:06 - DEBUG - Getting stays 
+29.1.2023, 16:17:34 - INFO - Req was made 
+29.1.2023, 16:17:34 - DEBUG - Getting stays 
+29.1.2023, 16:17:44 - INFO - Req was made 
+29.1.2023, 16:17:44 - DEBUG - Getting stays 
+29.1.2023, 16:18:10 - INFO - Req was made 
+29.1.2023, 16:18:10 - DEBUG - Getting stays 
+29.1.2023, 16:19:48 - INFO - Req was made 
+29.1.2023, 16:19:48 - DEBUG - Getting orders 
+29.1.2023, 16:19:56 - INFO - Req was made 
+29.1.2023, 16:19:56 - DEBUG - Getting stays 
+29.1.2023, 16:20:32 - INFO - Req was made 
+29.1.2023, 16:20:32 - DEBUG - Getting stays 
+29.1.2023, 16:22:42 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:22:43 - INFO - New connected socket [id: 9ssLVK8j1FTEiaC6AAAZ] 
+29.1.2023, 16:22:43 - INFO - Setting socket.userId = null for socket [id: 9ssLVK8j1FTEiaC6AAAZ] 
+29.1.2023, 16:24:46 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:24:48 - INFO - New connected socket [id: pKxjLef7KJ9wKtraAAAb] 
+29.1.2023, 16:24:48 - INFO - Req was made 
+29.1.2023, 16:24:48 - DEBUG - Getting stays 
+29.1.2023, 16:24:59 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:24:59 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:01 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:01 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:05 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:05 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:07 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:07 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:08 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:08 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:08 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:08 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:08 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:08 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:08 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:08 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:08 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:08 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:08 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:08 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:08 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:09 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:09 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:09 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:09 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:09 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:09 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:09 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:09 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:09 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:09 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:09 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:09 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:09 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:13 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:13 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:25:41 - DEBUG - auth.service - signup with email: shkood@gmail.com, fullname: Shaked 
+29.1.2023, 16:25:41 - DEBUG - auth.route - new account created: {"email":"shkood@gmail.com","password":"$2b$10$oux6eFuyelmdvYaFsiglrevFUXTE4XIuojglHzGgZusQg/cPjAEEm","fullname":"Shaked","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d681e541bc645362a13727"} 
+29.1.2023, 16:25:41 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:25:41 - INFO - User login:  | {"_id":"63d681e541bc645362a13727","email":"shkood@gmail.com","fullname":"Shaked","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 16:25:42 - INFO - Req was made 
+29.1.2023, 16:25:42 - DEBUG - Getting stays 
+29.1.2023, 16:26:04 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:26:04 - INFO - New connected socket [id: woul3V388RwMDAcUAAAd] 
+29.1.2023, 16:26:04 - DEBUG - Getting stays 
+29.1.2023, 16:26:04 - INFO - Req was made 
+29.1.2023, 16:26:13 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:26:13 - INFO - User login:  | {"_id":"63d681e541bc645362a13727","email":"shkood@gmail.com","fullname":"Shaked","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 16:26:14 - INFO - Req was made 
+29.1.2023, 16:26:14 - DEBUG - Getting stays 
+29.1.2023, 16:26:26 - INFO - Req was made 
+29.1.2023, 16:26:26 - DEBUG - Getting stays 
+29.1.2023, 16:27:51 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:27:53 - INFO - New connected socket [id: Ne7CautHWtd63g-PAAAf] 
+29.1.2023, 16:27:53 - INFO - Setting socket.userId = 63d681e541bc645362a13727 for socket [id: Ne7CautHWtd63g-PAAAf] 
+29.1.2023, 16:27:57 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:27:58 - INFO - New connected socket [id: 6D4A1fUxU2MoVTyPAAAh] 
+29.1.2023, 16:27:58 - INFO - Req was made 
+29.1.2023, 16:27:58 - DEBUG - Getting stays 
+29.1.2023, 16:28:08 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:08 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:11 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:11 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:13 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:13 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:13 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:14 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:14 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:15 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:15 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:15 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:16 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:16 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:16 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:16 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:23 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:23 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:24 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:24 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:24 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:24 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:24 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:24 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:24 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:25 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:25 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:25 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:25 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:25 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:25 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:25 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:25 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:25 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:25 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:25 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:25 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:25 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:25 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:26 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:26 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:26 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:26 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:26 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:26 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:26 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:26 - DEBUG - auth.service - login with email: shkood@gmail.com 
+29.1.2023, 16:28:26 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 16:28:48 - DEBUG - auth.service - signup with email: alive2154@gmail.com, fullname: Shaked Barsheshet 
+29.1.2023, 16:28:48 - DEBUG - auth.route - new account created: {"email":"alive2154@gmail.com","password":"$2b$10$E/lSkFmHrFHVi49BpIizz.0FBFZxR7c7awN0o9gEmbgUgspPU9yT.","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"63d682a041bc645362a13728"} 
+29.1.2023, 16:28:48 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 16:28:48 - INFO - User login:  | {"_id":"63d682a041bc645362a13728","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 16:28:49 - INFO - Req was made 
+29.1.2023, 16:28:49 - DEBUG - Getting stays 
+29.1.2023, 16:29:03 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 16:29:03 - INFO - User login:  | {"_id":"63d682a041bc645362a13728","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 16:29:04 - INFO - Req was made 
+29.1.2023, 16:29:04 - DEBUG - Getting stays 
+29.1.2023, 16:29:29 - INFO - Req was made 
+29.1.2023, 16:29:29 - DEBUG - Getting stays 
+29.1.2023, 16:29:38 - INFO - Req was made 
+29.1.2023, 16:29:38 - DEBUG - Getting stays 
+29.1.2023, 16:39:42 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:39:43 - INFO - New connected socket [id: ZAg46C05pJ51ZjkDAAAj] 
+29.1.2023, 16:39:43 - INFO - Req was made 
+29.1.2023, 16:39:43 - DEBUG - Getting stays 
+29.1.2023, 16:39:44 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: ZAg46C05pJ51ZjkDAAAj] 
+29.1.2023, 16:41:13 - INFO - Req was made 
+29.1.2023, 16:41:13 - DEBUG - Getting stays 
+29.1.2023, 16:41:20 - INFO - Req was made 
+29.1.2023, 16:41:20 - DEBUG - Getting orders 
+29.1.2023, 16:44:30 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:44:33 - INFO - New connected socket [id: 8w2SQfnFgqBD2r4NAAAl] 
+29.1.2023, 17:42:01 - INFO - Server is running on port: 3030 
+29.1.2023, 17:42:02 - INFO - New connected socket [id: uTvmrCAhLq912hKyAAAB] 
+29.1.2023, 17:42:10 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 17:42:11 - INFO - New connected socket [id: DGLf8pvUpqiE3JmoAAAD] 
+29.1.2023, 17:42:17 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 17:43:36 - INFO - New connected socket [id: Gy8XBZRwwkkXToI8AAAF] 
+29.1.2023, 17:43:40 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 17:43:55 - INFO - New connected socket [id: RerdKTR7TYUmIvMkAAAH] 
+29.1.2023, 17:44:20 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 17:44:21 - INFO - New connected socket [id: 7z40djkeXFNBqwS6AAAJ] 
+29.1.2023, 17:44:47 - INFO - Server is running on port: 3030 
+29.1.2023, 17:44:53 - INFO - New connected socket [id: LDNU9nWjU883TXVwAAAC] 
+29.1.2023, 17:46:20 - INFO - Req was made 
+29.1.2023, 17:46:20 - DEBUG - Getting stays 
+29.1.2023, 17:46:20 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 17:46:22 - INFO - New connected socket [id: 5VQvhVkS3J4vZKglAAAE] 
+29.1.2023, 17:46:22 - DEBUG - Getting stays 
+29.1.2023, 17:46:22 - INFO - Req was made 
+29.1.2023, 17:46:58 - DEBUG - Getting stays 
+29.1.2023, 17:46:58 - INFO - Req was made 
+29.1.2023, 17:47:02 - DEBUG - auth.service - login with email: barsheshetshaked88@gmail.com 
+29.1.2023, 17:47:02 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 17:47:04 - DEBUG - auth.service - login with email: barsheshetshaked88@gmail.com 
+29.1.2023, 17:47:04 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 17:47:05 - DEBUG - auth.service - login with email: barsheshetshaked88@gmail.com 
+29.1.2023, 17:47:05 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 17:47:05 - DEBUG - auth.service - login with email: barsheshetshaked88@gmail.com 
+29.1.2023, 17:47:05 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 17:47:08 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 17:47:08 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 17:47:08 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 17:47:08 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 17:47:12 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 17:47:12 - ERROR - Failed to Login Invalid email or password 
+29.1.2023, 17:47:16 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 17:47:17 - INFO - User login:  | {"_id":"63d682a041bc645362a13728","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+29.1.2023, 17:47:18 - INFO - Req was made 
+29.1.2023, 17:47:18 - DEBUG - Getting stays 
+29.1.2023, 17:47:34 - INFO - Req was made 
+29.1.2023, 17:47:34 - DEBUG - Getting orders 
+29.1.2023, 17:47:41 - INFO - Req was made 
+29.1.2023, 17:47:41 - DEBUG - Getting stays 
+29.1.2023, 17:47:42 - INFO - Req was made 
+29.1.2023, 17:47:42 - DEBUG - Getting orders 
+29.1.2023, 17:47:46 - INFO - Req was made 
+29.1.2023, 17:47:46 - DEBUG - Getting orders 
+29.1.2023, 17:47:50 - INFO - Req was made 
+29.1.2023, 17:47:50 - DEBUG - Getting stays 
+29.1.2023, 17:47:51 - INFO - Req was made 
+29.1.2023, 17:47:51 - DEBUG - Getting orders 
+29.1.2023, 17:48:21 - INFO - Req was made 
+29.1.2023, 17:48:21 - DEBUG - Getting orders 
+29.1.2023, 17:51:04 - INFO - Req was made 
+29.1.2023, 17:51:04 - DEBUG - Getting orders 
+29.1.2023, 17:51:06 - INFO - Req was made 
+29.1.2023, 17:51:06 - DEBUG - Getting stays 
+29.1.2023, 17:51:20 - INFO - Req was made 
+29.1.2023, 17:51:20 - DEBUG - Getting orders 
+29.1.2023, 17:55:40 - INFO - Req was made 
+29.1.2023, 17:55:40 - DEBUG - Getting orders 
+29.1.2023, 17:55:43 - INFO - Req was made 
+29.1.2023, 17:55:43 - DEBUG - Getting stays 
+29.1.2023, 17:56:00 - INFO - Req was made 
+29.1.2023, 17:56:00 - DEBUG - Getting stays 
+29.1.2023, 17:56:00 - INFO - Req was made 
+29.1.2023, 17:56:00 - DEBUG - Getting orders 
+29.1.2023, 17:56:37 - INFO - Req was made 
+29.1.2023, 17:56:37 - DEBUG - Getting orders 
+29.1.2023, 17:58:28 - INFO - Req was made 
+29.1.2023, 17:58:28 - DEBUG - Getting orders 
+29.1.2023, 17:58:35 - INFO - Req was made 
+29.1.2023, 17:58:35 - DEBUG - Getting stays 
+29.1.2023, 17:58:57 - INFO - Req was made 
+29.1.2023, 17:58:57 - DEBUG - Getting orders 
+29.1.2023, 17:58:59 - INFO - Req was made 
+29.1.2023, 17:58:59 - DEBUG - Getting stays 
+29.1.2023, 17:59:00 - INFO - Req was made 
+29.1.2023, 17:59:00 - DEBUG - Getting orders 
+29.1.2023, 18:04:07 - INFO - Req was made 
+29.1.2023, 18:04:07 - DEBUG - Getting orders 
+29.1.2023, 18:04:32 - INFO - Req was made 
+29.1.2023, 18:04:32 - DEBUG - Getting orders 
+29.1.2023, 18:05:05 - INFO - Req was made 
+29.1.2023, 18:05:05 - DEBUG - Getting orders 
+29.1.2023, 18:05:09 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 18:05:10 - INFO - New connected socket [id: L0VgqVPO3qFAds6cAAAG] 
+29.1.2023, 18:05:10 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: L0VgqVPO3qFAds6cAAAG] 
+29.1.2023, 18:05:12 - DEBUG - Getting orders 
+29.1.2023, 18:05:12 - INFO - Req was made 
+29.1.2023, 18:05:15 - INFO - Req was made 
+29.1.2023, 18:05:15 - DEBUG - Getting stays 
+29.1.2023, 18:06:15 - INFO - Req was made 
+29.1.2023, 18:06:15 - DEBUG - Getting stays 
+29.1.2023, 18:06:16 - INFO - Req was made 
+29.1.2023, 18:06:16 - DEBUG - Getting orders 
+29.1.2023, 18:07:04 - INFO - Req was made 
+29.1.2023, 18:07:04 - DEBUG - Getting orders 
+29.1.2023, 18:07:58 - INFO - Req was made 
+29.1.2023, 18:07:58 - DEBUG - Getting stays 
+29.1.2023, 18:08:25 - INFO - Req was made 
+29.1.2023, 18:08:25 - DEBUG - Getting orders 
+29.1.2023, 18:08:27 - DEBUG - Getting stays 
+29.1.2023, 18:08:27 - INFO - Req was made 
+29.1.2023, 18:08:29 - INFO - Req was made 
+29.1.2023, 18:08:29 - DEBUG - Getting orders 
+29.1.2023, 18:08:46 - INFO - Req was made 
+29.1.2023, 18:08:46 - DEBUG - Getting stays 
+29.1.2023, 18:10:00 - DEBUG - Getting orders 
+29.1.2023, 18:10:00 - INFO - Req was made 
+29.1.2023, 18:10:11 - INFO - Req was made 
+29.1.2023, 18:10:11 - DEBUG - Getting stays 
+29.1.2023, 18:10:11 - INFO - Req was made 
+29.1.2023, 18:10:11 - DEBUG - Getting orders 
+29.1.2023, 18:12:00 - INFO - Req was made 
+29.1.2023, 18:12:00 - DEBUG - Getting orders 
+29.1.2023, 18:12:02 - INFO - Req was made 
+29.1.2023, 18:12:02 - DEBUG - Getting stays 
+29.1.2023, 18:32:08 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 18:32:09 - INFO - New connected socket [id: tBJ3Xmf4FFwKFVYaAAAI] 
+29.1.2023, 18:32:10 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: tBJ3Xmf4FFwKFVYaAAAI] 
+29.1.2023, 18:32:36 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 18:32:37 - INFO - New connected socket [id: 4K-3SDdrHS_HC4k2AAAK] 
+29.1.2023, 18:32:37 - INFO - Req was made 
+29.1.2023, 18:32:37 - DEBUG - Getting stays 
+29.1.2023, 18:32:37 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: 4K-3SDdrHS_HC4k2AAAK] 
+29.1.2023, 18:34:23 - INFO - Req was made 
+29.1.2023, 18:34:23 - DEBUG - Getting stays 
+29.1.2023, 18:34:37 - INFO - Req was made 
+29.1.2023, 18:34:37 - DEBUG - Getting orders 
+29.1.2023, 18:34:58 - INFO - Req was made 
+29.1.2023, 18:34:58 - DEBUG - Getting stays 
+29.1.2023, 18:35:01 - INFO - Req was made 
+29.1.2023, 18:35:01 - DEBUG - Getting orders 
+29.1.2023, 18:39:01 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 18:39:03 - INFO - New connected socket [id: AJIdJ8Y_r9RAwY75AAAM] 
+29.1.2023, 18:39:03 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: AJIdJ8Y_r9RAwY75AAAM] 
+29.1.2023, 18:40:51 - INFO - Req was made 
+29.1.2023, 18:40:51 - DEBUG - Getting stays 
+29.1.2023, 18:40:54 - INFO - Req was made 
+29.1.2023, 18:40:54 - DEBUG - Getting orders 
+29.1.2023, 18:56:05 - INFO - Req was made 
+29.1.2023, 18:56:05 - DEBUG - Getting stays 
+29.1.2023, 18:56:35 - DEBUG - Getting stays 
+29.1.2023, 18:56:35 - INFO - Req was made 
+29.1.2023, 18:56:51 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 18:56:52 - INFO - New connected socket [id: Rbfvj_-M3iV1D26wAAAO] 
+29.1.2023, 18:57:00 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 18:57:01 - INFO - New connected socket [id: ccSGnSwBUGPfNcsXAAAQ] 
+29.1.2023, 18:57:37 - INFO - Req was made 
+29.1.2023, 18:57:37 - DEBUG - Getting stays 
+29.1.2023, 18:57:51 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+29.1.2023, 18:57:52 - INFO - User login:  | {"_id":"63d682a041bc645362a13728","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"data:image/png;base64,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"} 
+29.1.2023, 18:57:53 - INFO - Req was made 
+29.1.2023, 18:57:53 - DEBUG - Getting stays 
+29.1.2023, 19:01:47 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 19:01:48 - INFO - New connected socket [id: Zc3ckvxLGup7UWanAAAS] 
+29.1.2023, 19:01:48 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: Zc3ckvxLGup7UWanAAAS] 
+29.1.2023, 19:02:54 - INFO - Req was made 
+29.1.2023, 19:02:54 - DEBUG - Getting stays 
+29.1.2023, 19:03:13 - INFO - Req was made 
+29.1.2023, 19:03:13 - DEBUG - Getting stays 
+29.1.2023, 19:04:52 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 19:04:53 - INFO - New connected socket [id: 6ElySnfPVASzEUy5AAAU] 
+29.1.2023, 19:04:54 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: 6ElySnfPVASzEUy5AAAU] 
+29.1.2023, 19:05:09 - INFO - Req was made 
+29.1.2023, 19:05:09 - DEBUG - Getting stays 
+29.1.2023, 19:05:24 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 19:05:25 - INFO - New connected socket [id: ksi395lNLqhfIxAOAAAW] 
+29.1.2023, 19:05:26 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: ksi395lNLqhfIxAOAAAW] 
+29.1.2023, 19:05:27 - INFO - Req was made 
+29.1.2023, 19:05:27 - DEBUG - Getting stays 
+29.1.2023, 19:06:30 - INFO - Req was made 
+29.1.2023, 19:06:30 - DEBUG - Getting stays 
+29.1.2023, 19:06:34 - INFO - Req was made 
+29.1.2023, 19:06:34 - DEBUG - Getting stays 
+29.1.2023, 19:13:29 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 19:13:30 - INFO - New connected socket [id: xX0vgIA9NdxS5xWvAAAY] 
+29.1.2023, 19:13:30 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: xX0vgIA9NdxS5xWvAAAY] 
+29.1.2023, 20:30:27 - INFO - Req was made 
+29.1.2023, 20:30:27 - DEBUG - Getting stays 
+29.1.2023, 20:32:21 - INFO - Req was made 
+29.1.2023, 20:32:21 - DEBUG - Getting stays 
+29.1.2023, 21:51:04 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 21:51:05 - INFO - New connected socket [id: Xucq8v-AloYjUN8LAAAa] 
+30.1.2023, 0:45:18 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 0:45:20 - INFO - New connected socket [id: K90pz25sU2k_uaM4AAAc] 
+30.1.2023, 9:43:37 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 9:43:38 - INFO - New connected socket [id: cK9_25JZGcBWDr3eAAAe] 
+30.1.2023, 10:08:05 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 10:08:07 - INFO - New connected socket [id: Dov4JboFRUrLShWeAAAg] 
+30.1.2023, 11:12:54 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 11:12:55 - INFO - New connected socket [id: 9Kn56bWeeP6jstumAAAi] 
+30.1.2023, 11:12:55 - INFO - Req was made 
+30.1.2023, 11:12:55 - DEBUG - Getting stays 
+30.1.2023, 11:12:56 - INFO - Setting socket.userId = 63d682a041bc645362a13728 for socket [id: 9Kn56bWeeP6jstumAAAi] 
+30.1.2023, 11:15:04 - INFO - Req was made 
+30.1.2023, 11:15:04 - DEBUG - Getting orders 
