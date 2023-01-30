@@ -11,7 +11,7 @@ function setupSocketAPI(http) {
     gIo.on('connection', socket => {
         socket.on('disconnect', socket => {
         })
-        socket.on('chat-register-users-to-channel', topic => {       
+        socket.on('chat-register-users-to-channel', topic => {
 
             if (socket.myTopic === topic) return
             if (socket.myTopic) {
@@ -27,15 +27,15 @@ function setupSocketAPI(http) {
 
             socket.join(rooms)
             socket.myTopics = rooms
-         
+
         })
-        socket.on('chat-sent-host-notification', notif => {
-            socket.broadcast.to(socket.myTopics).emit('chat-add-notif', notif)
+        socket.on('send-host-notification', notif => {
+            socket.broadcast.to(socket.myTopics).emit('host-add-notification', notif)
         })
-        socket.on('status-updates', order => {
+        socket.on('send-user-notification', order => {
             socket.broadcast.to(order.buyer._id).emit('update-order-status', order)
         })
-       
+
     })
 }
 
