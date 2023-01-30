@@ -2,8 +2,6 @@ const logger = require('./logger.service')
 
 var gIo = null
 
-
-
 function setupSocketAPI(http) {
     gIo = require('socket.io')(http, {
         cors: {
@@ -11,50 +9,36 @@ function setupSocketAPI(http) {
         }
     })
     gIo.on('connection', socket => {
-        logger.info(`New connected socket [id: ${socket.id}]`)
         socket.on('disconnect', socket => {
-            logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('chat-register-users-to-channel', topic => {
-            console.log(socket.myTopic === topic, "topiccc check");
+        socket.on('chat-register-users-to-channel', topic => {        ///first load of index
+
             if (socket.myTopic === topic) return
-            console.log('this is host', socket.myTopic)
-            if (socket.myTopic) { ////// not gettin in
-                // console.log('inside the sec check still in host')
+            if (socket.myTopic) {
                 socket.leave(socket.myTopic)
-                logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
             }
             socket.join(topic)
-            // console.log('getting topic ........................ to myTopic')
             socket.myTopic = topic
-            // console.log(socket.myTopic)
-            console.log('register-host done', topic)
+        })
+        socket.on('test', data => {
+            const { userId, hostId } = data
+            const rooms = [userId, hostId]
+            socket.leave(socket.myTopics, '....... left')
+
+            socket.join(rooms)
+            socket.myTopics = rooms
+            console.log(socket.myTopics);
         })
         socket.on('chat-sent-host-notification', notif => {
-            console.log(socket.myTopic)
-            logger.info(`New chat notfi from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            // emits to all sockets:
-            // gIo.emit('chat-add-notif', notif)
-            // emits only to sockets in the same room
-            // gIo.to(socket.myTopic).emit('chat-add-notif', notif)
-            // emits only to sockets in the same room except the sender
-            // console.log('..............', socket.myTopic, '..............')
-            socket.broadcast.to(socket.myTopic).emit('chat-add-notif', notif)
+            socket.broadcast.to(socket.myTopics).emit('chat-add-notif', notif)
         })
-        // socket.on('user-watch', userId => {
-        //     logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
-        //     socket.join('watching:' + userId)
+        socket.on('status-updates', order => {
+            socket.broadcast.to(order.buyer._id).emit('update-order-status', order)
+        })
+        socket.on('testa', user => {
+            console.log(socket.myTopics, "log katan`");
 
-        // })
-        // socket.on('set-user-socket', userId => {
-        //     logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
-        //     socket.userId = userId
-        // })
-        // socket.on('unset-user-socket', () => {
-        //     logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
-        //     delete socket.userId
-        // })
-
+        })
     })
 }
 

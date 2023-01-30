@@ -128,7 +128,7 @@ async function add(order) {
 // }
 
 async function update(order) {
-    console.log(order._id, 'from order.service')
+    // console.log(order._id, 'from order.service')
     try {
         const orderToSave = { ...order, _id: ObjectId(order._id) }
         const collection = await dbService.getCollection('order')
