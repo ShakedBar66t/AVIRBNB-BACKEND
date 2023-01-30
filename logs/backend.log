@@ -2304,6 +2304,263 @@
 >>>>>>> origin/main
 29.1.2023, 9:46:06 - INFO - Server is running on port: 3030 
 >>>>>>> 25ec372e5ec1bb558c3fc4c059248a745997e691
+29.1.2023, 10:38:42 - INFO - Req was made 
+29.1.2023, 10:38:42 - DEBUG - Getting stays 
+29.1.2023, 11:00:02 - INFO - Req was made 
+29.1.2023, 11:00:02 - DEBUG - Getting stays 
+29.1.2023, 11:00:39 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 11:00:42 - INFO - New connected socket [id: MDp0x4opK_cLzPqdAAAT] 
+29.1.2023, 11:00:43 - INFO - Setting socket.userId = 63d62ebe0709cc29c526be55 for socket [id: MDp0x4opK_cLzPqdAAAT] 
+29.1.2023, 11:00:49 - INFO - Req was made 
+29.1.2023, 11:00:49 - DEBUG - Getting stays 
+29.1.2023, 11:02:44 - INFO - Req was made 
+29.1.2023, 11:02:44 - DEBUG - Getting stays 
+29.1.2023, 11:03:16 - INFO - Req was made 
+29.1.2023, 11:03:16 - DEBUG - Getting stays 
+29.1.2023, 11:07:10 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 11:07:13 - INFO - New connected socket [id: iQF7DzpDRLrXCcmxAAAV] 
+29.1.2023, 11:07:14 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: iQF7DzpDRLrXCcmxAAAV] 
+29.1.2023, 11:07:45 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 11:07:47 - INFO - New connected socket [id: GNuIkXVO45lkmP_WAAAX] 
+29.1.2023, 11:07:47 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: GNuIkXVO45lkmP_WAAAX] 
+29.1.2023, 11:07:56 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 11:07:57 - INFO - New connected socket [id: MDwmDkf_e8QGGjLKAAAZ] 
+29.1.2023, 11:07:58 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: MDwmDkf_e8QGGjLKAAAZ] 
+29.1.2023, 11:08:00 - INFO - Req was made 
+29.1.2023, 11:08:00 - DEBUG - Getting stays 
+29.1.2023, 11:08:09 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 11:08:10 - INFO - New connected socket [id: n6QAthPcC71PbzvmAAAb] 
+29.1.2023, 11:08:10 - INFO - Req was made 
+29.1.2023, 11:08:10 - DEBUG - Getting stays 
+29.1.2023, 11:09:24 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 11:09:28 - INFO - New connected socket [id: Wz0tzXErKSZrR7ziAAAd] 
+29.1.2023, 11:09:28 - INFO - Req was made 
+29.1.2023, 11:09:28 - DEBUG - Getting stays 
+29.1.2023, 11:09:49 - DEBUG - auth.service - login with email: itaibe2904@gmail.com 
+29.1.2023, 11:09:49 - INFO - User login:  | {"_id":"63d59683a3741c7226f8cea2","email":"itaibe2904@gmail.com","fullname":"itai","imgUrl":"https://i.pravatar.cc/300","isHost":true} 
+29.1.2023, 11:09:51 - INFO - Req was made 
+29.1.2023, 11:09:51 - DEBUG - Getting stays 
+29.1.2023, 11:09:57 - INFO - Req was made 
+29.1.2023, 11:09:57 - DEBUG - Getting orders 
+29.1.2023, 11:11:37 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 11:11:39 - INFO - New connected socket [id: FaO82yP6pZUD8dNaAAAf] 
+29.1.2023, 11:11:39 - INFO - Req was made 
+29.1.2023, 11:11:39 - DEBUG - Getting orders 
+29.1.2023, 11:11:40 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: FaO82yP6pZUD8dNaAAAf] 
+29.1.2023, 11:13:09 - INFO - Req was made 
+29.1.2023, 11:13:09 - DEBUG - Getting stays 
+29.1.2023, 11:13:11 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 11:13:13 - INFO - New connected socket [id: NNAhcARp33MmBw6JAAAh] 
+29.1.2023, 11:13:14 - INFO - Req was made 
+29.1.2023, 11:13:14 - DEBUG - Getting stays 
+29.1.2023, 11:13:14 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: NNAhcARp33MmBw6JAAAh] 
+29.1.2023, 11:13:30 - DEBUG - Getting stays 
+29.1.2023, 11:13:30 - INFO - Req was made 
+29.1.2023, 11:13:50 - DEBUG - Getting stays 
+29.1.2023, 11:13:50 - INFO - Req was made 
+29.1.2023, 11:17:01 - INFO - Req was made 
+29.1.2023, 11:17:01 - DEBUG - Getting stays 
+29.1.2023, 11:25:42 - INFO - Req was made 
+29.1.2023, 11:25:42 - DEBUG - Getting stays 
+29.1.2023, 11:27:49 - INFO - Server is running on port: 3030 
+29.1.2023, 11:27:50 - INFO - New connected socket [id: r-YuOiDrs8oMby-0AAAB] 
+29.1.2023, 11:27:52 - INFO - New connected socket [id: lgMBAJihkGaE1h2uAAAD] 
+29.1.2023, 11:27:59 - INFO - Req was made 
+29.1.2023, 11:27:59 - DEBUG - Getting stays 
+29.1.2023, 12:29:21 - INFO - Req was made 
+29.1.2023, 12:29:21 - DEBUG - Getting orders 
+29.1.2023, 13:28:21 - DEBUG - Getting stays 
+29.1.2023, 13:28:21 - INFO - Req was made 
+29.1.2023, 13:30:22 - INFO - Socket is leaving topic 622f3405e36c59e6164fb893 [id: r-YuOiDrs8oMby-0AAAB] 
+29.1.2023, 13:32:22 - INFO - Server is running on port: 3030 
+29.1.2023, 13:32:22 - INFO - New connected socket [id: KKbaZNKKNeu0RwwYAAAC] 
+29.1.2023, 13:32:22 - INFO - New connected socket [id: K9bTMc7kl73DSksBAAAD] 
+29.1.2023, 14:02:13 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:02:17 - INFO - New connected socket [id: s1Kt1NdhtvhS_XR7AAAF] 
+29.1.2023, 14:02:18 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: s1Kt1NdhtvhS_XR7AAAF] 
+29.1.2023, 14:05:18 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:05:21 - INFO - New connected socket [id: y3KEyNzLTc0S4w5jAAAH] 
+29.1.2023, 14:05:21 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: y3KEyNzLTc0S4w5jAAAH] 
+29.1.2023, 14:06:12 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:06:14 - INFO - New connected socket [id: 0pUt5yll2kf1ll0tAAAJ] 
+29.1.2023, 14:06:14 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: 0pUt5yll2kf1ll0tAAAJ] 
+29.1.2023, 14:07:20 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:07:26 - INFO - New connected socket [id: nFvmOU2Yzq0JFPjWAAAL] 
+29.1.2023, 14:07:26 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: nFvmOU2Yzq0JFPjWAAAL] 
+29.1.2023, 14:12:26 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:12:29 - INFO - New connected socket [id: leGk5xpkNBnC-bnyAAAN] 
+29.1.2023, 14:12:29 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: leGk5xpkNBnC-bnyAAAN] 
+29.1.2023, 14:13:59 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:14:02 - INFO - New connected socket [id: GpOFfHLmHY3WsZCbAAAP] 
+29.1.2023, 14:14:04 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: GpOFfHLmHY3WsZCbAAAP] 
+29.1.2023, 14:14:06 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:14:14 - INFO - New connected socket [id: Usw-cwid3gXtiYlbAAAR] 
+29.1.2023, 14:14:14 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: Usw-cwid3gXtiYlbAAAR] 
+29.1.2023, 14:15:05 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:15:11 - INFO - New connected socket [id: aAemconS0ucFp1LdAAAT] 
+29.1.2023, 14:15:12 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: aAemconS0ucFp1LdAAAT] 
+29.1.2023, 14:21:41 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:21:55 - INFO - New connected socket [id: rzCEijl2_9XKdNfeAAAV] 
+29.1.2023, 14:21:56 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: rzCEijl2_9XKdNfeAAAV] 
+29.1.2023, 14:22:21 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:22:27 - INFO - New connected socket [id: rrWauon6ttJYQ4TwAAAX] 
+29.1.2023, 14:22:29 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: rrWauon6ttJYQ4TwAAAX] 
+29.1.2023, 14:25:26 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:25:31 - INFO - New connected socket [id: TCd8nukR5ui9i0ryAAAZ] 
+29.1.2023, 14:25:31 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: TCd8nukR5ui9i0ryAAAZ] 
+29.1.2023, 14:27:21 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:27:37 - INFO - New connected socket [id: 0Mj9WR2raDgSh7HrAAAb] 
+29.1.2023, 14:27:38 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: 0Mj9WR2raDgSh7HrAAAb] 
+29.1.2023, 14:29:39 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:29:47 - INFO - New connected socket [id: b2ysI0UyEAnOVehwAAAd] 
+29.1.2023, 14:29:47 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: b2ysI0UyEAnOVehwAAAd] 
+29.1.2023, 14:30:21 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:30:27 - INFO - New connected socket [id: U7ZtM6rZBmWR8vKbAAAf] 
+29.1.2023, 14:30:27 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: U7ZtM6rZBmWR8vKbAAAf] 
+29.1.2023, 14:30:50 - INFO - Req was made 
+29.1.2023, 14:30:50 - DEBUG - Getting stays 
+29.1.2023, 14:31:00 - INFO - Req was made 
+29.1.2023, 14:31:00 - DEBUG - Getting stays 
+29.1.2023, 14:31:12 - INFO - Socket is leaving topic 622f3403e36c59e6164faf93 [id: U7ZtM6rZBmWR8vKbAAAf] 
+29.1.2023, 14:32:45 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:33:11 - INFO - New connected socket [id: RDegPd6FmkTk0_f9AAAh] 
+29.1.2023, 14:33:12 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: RDegPd6FmkTk0_f9AAAh] 
+29.1.2023, 14:33:34 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:33:49 - INFO - New connected socket [id: tW9fGSWSO9I8l3UoAAAj] 
+29.1.2023, 14:33:50 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: tW9fGSWSO9I8l3UoAAAj] 
+29.1.2023, 14:35:56 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:36:08 - INFO - New connected socket [id: 87oUquRlNg-AAXBHAAAl] 
+29.1.2023, 14:36:08 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: 87oUquRlNg-AAXBHAAAl] 
+29.1.2023, 14:36:26 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:36:38 - INFO - New connected socket [id: hZ9ajNu61E8SmL1xAAAn] 
+29.1.2023, 14:36:41 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:36:43 - INFO - New connected socket [id: x0Wk0oTwjjmu-iWcAAAp] 
+29.1.2023, 14:36:43 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: x0Wk0oTwjjmu-iWcAAAp] 
+29.1.2023, 14:37:22 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:38:01 - INFO - New connected socket [id: SfnR_ScupwZe4g-OAAAr] 
+29.1.2023, 14:38:02 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: SfnR_ScupwZe4g-OAAAr] 
+29.1.2023, 14:40:10 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:40:19 - INFO - New connected socket [id: M2RGhyutY3UrimJwAAAt] 
+29.1.2023, 14:40:20 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: M2RGhyutY3UrimJwAAAt] 
+29.1.2023, 14:41:20 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:42:15 - INFO - New connected socket [id: i9XUJ4H1HMF0VwHIAAAw] 
+29.1.2023, 14:42:17 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: i9XUJ4H1HMF0VwHIAAAw] 
+29.1.2023, 14:44:31 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:44:34 - INFO - New connected socket [id: xlb9CgctIaix9wWUAAAy] 
+29.1.2023, 14:44:34 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: xlb9CgctIaix9wWUAAAy] 
+29.1.2023, 14:45:50 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:45:53 - INFO - New connected socket [id: 3Mxug3M7FGBYEwwsAAA0] 
+29.1.2023, 14:45:53 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: 3Mxug3M7FGBYEwwsAAA0] 
+29.1.2023, 14:46:46 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:46:56 - INFO - New connected socket [id: AG_SY3SwdbBq57C2AAA2] 
+29.1.2023, 14:46:57 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: AG_SY3SwdbBq57C2AAA2] 
+29.1.2023, 14:47:29 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:47:32 - INFO - New connected socket [id: zC4qfX-lfqeo6JwhAAA4] 
+29.1.2023, 14:47:33 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: zC4qfX-lfqeo6JwhAAA4] 
+29.1.2023, 14:54:19 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:54:23 - INFO - New connected socket [id: XrJ7gTjPB8C8myg3AAA6] 
+29.1.2023, 14:54:24 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: XrJ7gTjPB8C8myg3AAA6] 
+29.1.2023, 14:56:17 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 14:56:20 - INFO - New connected socket [id: tGNXCPI7O5mlizMSAAA8] 
+29.1.2023, 14:56:21 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: tGNXCPI7O5mlizMSAAA8] 
+29.1.2023, 14:59:28 - INFO - Req was made 
+29.1.2023, 14:59:28 - DEBUG - Getting stays 
+29.1.2023, 15:00:11 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:00:14 - INFO - New connected socket [id: uzHNK7Iuf5z7O0euAAA-] 
+29.1.2023, 15:00:14 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: uzHNK7Iuf5z7O0euAAA-] 
+29.1.2023, 15:00:38 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:00:41 - INFO - New connected socket [id: Q9J4p2ZV7IAipzf8AABA] 
+29.1.2023, 15:00:42 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: Q9J4p2ZV7IAipzf8AABA] 
+29.1.2023, 15:01:00 - INFO - Req was made 
+29.1.2023, 15:01:00 - DEBUG - Getting stays 
+29.1.2023, 15:23:24 - INFO - Req was made 
+29.1.2023, 15:23:25 - DEBUG - Getting stays 
+29.1.2023, 15:23:32 - INFO - Socket is leaving topic 622f3401e36c59e6164fab5c [id: Q9J4p2ZV7IAipzf8AABA] 
+29.1.2023, 15:23:42 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:23:47 - INFO - New connected socket [id: NMRgEihpczQyiUy3AABC] 
+29.1.2023, 15:23:47 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: NMRgEihpczQyiUy3AABC] 
+29.1.2023, 15:25:46 - INFO - Req was made 
+29.1.2023, 15:25:46 - DEBUG - Getting stays 
+29.1.2023, 15:25:57 - INFO - Socket is leaving topic 622f3401e36c59e6164fabab [id: NMRgEihpczQyiUy3AABC] 
+29.1.2023, 15:34:41 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:34:48 - INFO - New connected socket [id: MohkMAyne062WqEeAABE] 
+29.1.2023, 15:34:49 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: MohkMAyne062WqEeAABE] 
+29.1.2023, 15:35:35 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:35:39 - INFO - New connected socket [id: N4WSwiVr6v6MsrXEAABG] 
+29.1.2023, 15:35:40 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: N4WSwiVr6v6MsrXEAABG] 
+29.1.2023, 15:43:50 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:43:59 - INFO - New connected socket [id: 0RT2oHBMGmGiapixAABI] 
+29.1.2023, 15:44:00 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: 0RT2oHBMGmGiapixAABI] 
+29.1.2023, 15:45:52 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:46:34 - INFO - New connected socket [id: 3enrT0tajaE4MiJ8AABL] 
+29.1.2023, 15:46:36 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: 3enrT0tajaE4MiJ8AABL] 
+29.1.2023, 15:47:14 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:47:21 - INFO - New connected socket [id: ZZuawx1CRvEoi6dzAABN] 
+29.1.2023, 15:47:22 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: ZZuawx1CRvEoi6dzAABN] 
+29.1.2023, 15:52:47 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:52:52 - INFO - New connected socket [id: QB9RyMs7NF5eIRePAABP] 
+29.1.2023, 15:52:52 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: QB9RyMs7NF5eIRePAABP] 
+29.1.2023, 15:55:25 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:55:29 - INFO - New connected socket [id: j8fs1vNwJ1SbW-1jAABR] 
+29.1.2023, 15:55:30 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: j8fs1vNwJ1SbW-1jAABR] 
+29.1.2023, 15:56:49 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 15:56:51 - INFO - New connected socket [id: la5AiYpkXJ-KmeElAABT] 
+29.1.2023, 15:56:51 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: la5AiYpkXJ-KmeElAABT] 
+29.1.2023, 16:00:23 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:00:25 - INFO - New connected socket [id: JI_5pTdDLnpnmkeRAABV] 
+29.1.2023, 16:00:26 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: JI_5pTdDLnpnmkeRAABV] 
+29.1.2023, 16:01:23 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:01:24 - INFO - New connected socket [id: 9Ave_WhkEgsRRjAPAABX] 
+29.1.2023, 16:01:25 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: 9Ave_WhkEgsRRjAPAABX] 
+29.1.2023, 16:05:03 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:05:07 - INFO - New connected socket [id: mG2Py0ywJyYfOCVIAABZ] 
+29.1.2023, 16:05:07 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: mG2Py0ywJyYfOCVIAABZ] 
+29.1.2023, 16:12:08 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:12:16 - INFO - New connected socket [id: a_--zdHxnFDyVsORAABb] 
+29.1.2023, 16:12:16 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: a_--zdHxnFDyVsORAABb] 
+29.1.2023, 16:17:41 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:17:49 - INFO - New connected socket [id: eWyj3Zat7c8Gc5sqAABd] 
+29.1.2023, 16:17:50 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: eWyj3Zat7c8Gc5sqAABd] 
+29.1.2023, 16:18:11 - DEBUG - Getting stays 
+29.1.2023, 16:18:11 - INFO - Req was made 
+29.1.2023, 16:19:55 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:20:00 - INFO - New connected socket [id: tkp-GvjMmBlQoqMHAABf] 
+29.1.2023, 16:20:00 - DEBUG - Getting stays 
+29.1.2023, 16:20:00 - INFO - Req was made 
+29.1.2023, 16:20:00 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: tkp-GvjMmBlQoqMHAABf] 
+29.1.2023, 16:31:30 - INFO - Req was made 
+29.1.2023, 16:31:30 - DEBUG - Getting stays 
+29.1.2023, 16:31:54 - INFO - Req was made 
+29.1.2023, 16:31:54 - DEBUG - Getting stays 
+29.1.2023, 16:31:56 - INFO - Socket is leaving topic 622f3401e36c59e6164fabab [id: tkp-GvjMmBlQoqMHAABf] 
+29.1.2023, 16:34:56 - INFO - Req was made 
+29.1.2023, 16:34:56 - DEBUG - Getting stays 
+29.1.2023, 16:36:22 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:36:37 - INFO - Req was made 
+29.1.2023, 16:36:37 - DEBUG - Getting stays 
+29.1.2023, 16:36:37 - INFO - New connected socket [id: feFSxOdjW-DNOCkWAABh] 
+29.1.2023, 16:36:43 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: feFSxOdjW-DNOCkWAABh] 
+29.1.2023, 16:45:00 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:45:07 - INFO - New connected socket [id: d9NcWojfG5jtE2GPAABj] 
+29.1.2023, 16:45:08 - INFO - Req was made 
+29.1.2023, 16:45:08 - DEBUG - Getting stays 
+29.1.2023, 16:45:09 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: d9NcWojfG5jtE2GPAABj] 
+29.1.2023, 16:46:53 - INFO - Socket disconnected [id: undefined] 
+29.1.2023, 16:46:56 - INFO - New connected socket [id: mNR8V9bJVyRBfGiVAABl] 
+29.1.2023, 16:46:57 - INFO - Req was made 
+29.1.2023, 16:46:57 - DEBUG - Getting stays 
+29.1.2023, 16:46:57 - INFO - Setting socket.userId = 63d59683a3741c7226f8cea2 for socket [id: mNR8V9bJVyRBfGiVAABl] 
+29.1.2023, 16:50:30 - INFO - Req was made 
+29.1.2023, 16:50:30 - DEBUG - Getting stays 
+29.1.2023, 16:50:35 - INFO - Req was made 
+29.1.2023, 16:50:35 - DEBUG - Getting orders 
+29.1.2023, 16:50:50 - DEBUG - Getting stays 
+29.1.2023, 16:50:50 - INFO - Req was made 
+29.1.2023, 16:53:14 - INFO - New chat notfi from socket [id: mNR8V9bJVyRBfGiVAABl], emitting to topic null 
+29.1.2023, 16:54:01 - INFO - Req was made 
+29.1.2023, 16:54:01 - DEBUG - Getting stays 
+29.1.2023, 17:13:24 - INFO - Req was made 
+29.1.2023, 17:13:24 - DEBUG - Getting stays 
 29.1.2023, 10:58:45 - INFO - Server is running on port: 3030 
 29.1.2023, 10:58:46 - INFO - New connected socket [id: VrCNaF_sAqeCwqNUAAAB] 
 29.1.2023, 10:58:48 - INFO - New connected socket [id: D8kA0fVZkVqq-Q8RAAAD] 

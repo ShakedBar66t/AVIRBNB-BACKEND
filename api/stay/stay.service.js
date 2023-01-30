@@ -38,8 +38,8 @@ function _buildCriteria(filterBy) {
     }
     if (filterBy.location !== 'flexible' && filterBy.location !== `I'm flexible`) {
         criteria.$or = [
-            { "loc.country": { $regex: filterBy.location, $options: 'i' } },
             { "loc.state": { $regex: filterBy.location, $options: 'i' } },
+            { "loc.country": { $regex: filterBy.location, $options: 'i' } },
             { "loc.city": { $regex: filterBy.location, $options: 'i' } }
         ]
     }
