@@ -51,7 +51,7 @@ async function getById(stayId) {
         // console.log(stayId, ' STAY SERVICE')
         const collection = await dbService.getCollection('stay')
         const stay = collection.findOne({ _id: ObjectId(stayId) })
-        console.log(stay)
+        // console.log(stay)
         return stay
     } catch (err) {
         logger.error(`while finding stay ${stayId}`, err)
@@ -61,7 +61,7 @@ async function getById(stayId) {
 
 async function remove(stayId) {
     try {
-        console.log(stayId, ' from backend')
+        // console.log(stayId, ' from backend')
         const collection = await dbService.getCollection('stay')
         await collection.deleteOne({ _id: ObjectId(stayId) })
         return stayId
@@ -84,7 +84,7 @@ async function add(stay) {
 
 
 async function update(stay) {
-    console.log(stay._id, 'from stay.service')
+    // console.log(stay._id, 'from stay.service')
     try {
         const stayToSave = { ...stay, _id: ObjectId(stay._id) }
         const collection = await dbService.getCollection('stay')

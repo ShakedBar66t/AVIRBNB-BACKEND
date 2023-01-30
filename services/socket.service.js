@@ -15,40 +15,45 @@ function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('chat-register-host-to-room', topic => {
-            console.log(topic, "topiccc");
+        socket.on('chat-register-users-to-channel', topic => {
+            console.log(socket.myTopic === topic, "topiccc check");
             if (socket.myTopic === topic) return
-            if (socket.myTopic) {
+            console.log('this is host', socket.myTopic)
+            if (socket.myTopic) { ////// not gettin in
+                // console.log('inside the sec check still in host')
                 socket.leave(socket.myTopic)
                 logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
             }
             socket.join(topic)
+            // console.log('getting topic ........................ to myTopic')
             socket.myTopic = topic
+            // console.log(socket.myTopic)
             console.log('register-host done', topic)
         })
         socket.on('chat-sent-host-notification', notif => {
+            console.log(socket.myTopic)
             logger.info(`New chat notfi from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
             // emits to all sockets:
             // gIo.emit('chat-add-notif', notif)
             // emits only to sockets in the same room
             // gIo.to(socket.myTopic).emit('chat-add-notif', notif)
             // emits only to sockets in the same room except the sender
-            console.log('..............', notif)
+            // console.log('..............', socket.myTopic, '..............')
             socket.broadcast.to(socket.myTopic).emit('chat-add-notif', notif)
         })
-        socket.on('user-watch', userId => {
-            logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
-            socket.join('watching:' + userId)
+        // socket.on('user-watch', userId => {
+        //     logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
+        //     socket.join('watching:' + userId)
 
-        })
-        socket.on('set-user-socket', userId => {
-            logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
-            socket.userId = userId
-        })
-        socket.on('unset-user-socket', () => {
-            logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
-            delete socket.userId
-        })
+        // })
+        // socket.on('set-user-socket', userId => {
+        //     logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+        //     socket.userId = userId
+        // })
+        // socket.on('unset-user-socket', () => {
+        //     logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
+        //     delete socket.userId
+        // })
 
     })
 }
