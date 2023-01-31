@@ -4107,3 +4107,275 @@
 30.1.2023, 11:48:57 - INFO - New chat notfi from socket [id: ONSKUP2hZjEXZE2IAAAF], emitting to topic 63d59683a3741c7226f8cea2 
 30.1.2023, 11:51:05 - INFO - New chat notfi from socket [id: ONSKUP2hZjEXZE2IAAAF], emitting to topic 63d59683a3741c7226f8cea2 
 >>>>>>> origin/main
+30.1.2023, 12:02:03 - INFO - Server is running on port: 3030 
+30.1.2023, 12:02:04 - INFO - New connected socket [id: 3iLp5dzSvEjBe5FmAAAB] 
+30.1.2023, 12:02:04 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 12:02:05 - INFO - New connected socket [id: lqGZGwvVoc0KI3yiAAAD] 
+30.1.2023, 12:02:05 - INFO - Req was made 
+30.1.2023, 12:02:05 - DEBUG - Getting stays 
+30.1.2023, 12:02:09 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 12:02:09 - INFO - New connected socket [id: zQu-ass3Fe9M2m0NAAAF] 
+30.1.2023, 12:02:09 - DEBUG - Getting stays 
+30.1.2023, 12:02:09 - INFO - Req was made 
+30.1.2023, 12:04:01 - INFO - Req was made 
+30.1.2023, 12:04:01 - DEBUG - Getting stays 
+30.1.2023, 12:04:25 - INFO - Req was made 
+30.1.2023, 12:04:25 - DEBUG - Getting stays 
+30.1.2023, 12:08:43 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 12:08:44 - INFO - New connected socket [id: lqjbpKH4ULSIY9-dAAAH] 
+30.1.2023, 12:09:31 - INFO - Req was made 
+30.1.2023, 12:09:31 - DEBUG - Getting stays 
+30.1.2023, 12:09:57 - INFO - Req was made 
+30.1.2023, 12:09:57 - DEBUG - Getting stays 
+30.1.2023, 12:11:10 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 12:11:11 - INFO - New connected socket [id: 8aC8Gvbvvm31_v2LAAAJ] 
+30.1.2023, 12:11:22 - INFO - Req was made 
+30.1.2023, 12:11:22 - DEBUG - Getting stays 
+30.1.2023, 12:12:32 - INFO - Req was made 
+30.1.2023, 12:12:32 - DEBUG - Getting stays 
+30.1.2023, 12:13:28 - INFO - Req was made 
+30.1.2023, 12:13:28 - DEBUG - Getting orders 
+30.1.2023, 12:13:41 - INFO - Req was made 
+30.1.2023, 12:13:41 - DEBUG - Getting stays 
+30.1.2023, 12:13:48 - INFO - Req was made 
+30.1.2023, 12:13:48 - DEBUG - Getting stays 
+30.1.2023, 12:15:51 - INFO - Req was made 
+30.1.2023, 12:15:51 - DEBUG - Getting stays 
+30.1.2023, 12:18:14 - INFO - Req was made 
+30.1.2023, 12:18:14 - DEBUG - Getting stays 
+30.1.2023, 12:18:18 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 12:18:19 - INFO - New connected socket [id: luuMEFKACjN8csTWAAAL] 
+30.1.2023, 12:18:19 - INFO - Req was made 
+30.1.2023, 12:18:19 - DEBUG - Getting stays 
+30.1.2023, 12:18:44 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 12:18:44 - INFO - New connected socket [id: OIPJkRhuXX1edGeJAAAN] 
+30.1.2023, 12:21:31 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 12:21:32 - INFO - New connected socket [id: -VmbAsI3c2cD-x6ZAAAP] 
+30.1.2023, 12:21:36 - INFO - Req was made 
+30.1.2023, 12:21:36 - DEBUG - Getting stays 
+30.1.2023, 12:29:43 - DEBUG - Getting stays 
+30.1.2023, 12:29:43 - INFO - Req was made 
+30.1.2023, 12:35:35 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 12:35:37 - INFO - New connected socket [id: 9lNc64K0STi87f5TAAAR] 
+30.1.2023, 13:06:56 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:06:57 - INFO - New connected socket [id: hwEhU3VJ_Tlucd5pAAAT] 
+30.1.2023, 13:08:29 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:08:30 - INFO - New connected socket [id: 9FibROsB-SlhGm8WAAAV] 
+30.1.2023, 13:09:38 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:09:40 - INFO - New connected socket [id: G-XSjKKs1c61KkiQAAAX] 
+30.1.2023, 13:15:21 - DEBUG - Getting stays 
+30.1.2023, 13:15:21 - INFO - Req was made 
+30.1.2023, 13:15:30 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:15:31 - INFO - New connected socket [id: nQdun-2OmXrrFypPAAAZ] 
+30.1.2023, 13:15:50 - INFO - Req was made 
+30.1.2023, 13:15:50 - DEBUG - Getting stays 
+30.1.2023, 13:15:53 - INFO - Req was made 
+30.1.2023, 13:15:53 - DEBUG - Getting orders 
+30.1.2023, 13:15:55 - INFO - Req was made 
+30.1.2023, 13:15:55 - DEBUG - Getting stays 
+30.1.2023, 13:16:39 - INFO - Req was made 
+30.1.2023, 13:16:39 - DEBUG - Getting stays 
+30.1.2023, 13:16:41 - INFO - Req was made 
+30.1.2023, 13:16:41 - DEBUG - Getting orders 
+30.1.2023, 13:27:02 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:27:04 - INFO - New connected socket [id: AV7wYYtICq7Geq7-AAAb] 
+30.1.2023, 13:42:11 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:42:12 - INFO - New connected socket [id: 3YAuVE4P88UkgMRHAAAd] 
+30.1.2023, 13:42:17 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:42:18 - INFO - New connected socket [id: Xol-L1mpym5h0aLdAAAf] 
+30.1.2023, 13:51:39 - INFO - Req was made 
+30.1.2023, 13:51:39 - DEBUG - Getting stays 
+30.1.2023, 13:52:16 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:52:17 - INFO - New connected socket [id: vQix64x0iiQpod99AAAh] 
+30.1.2023, 13:53:07 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:53:08 - INFO - New connected socket [id: Qt0YgbZiwQjeBCvvAAAj] 
+30.1.2023, 13:53:23 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 13:53:26 - INFO - New connected socket [id: 9fJixPsEsYL2Lh4WAAAl] 
+30.1.2023, 13:53:26 - INFO - Req was made 
+30.1.2023, 13:53:26 - DEBUG - Getting stays 
+30.1.2023, 13:53:34 - DEBUG - auth.service - login with email: alive2154@gmail.com 
+30.1.2023, 13:53:34 - INFO - User login:  | {"_id":"63d682a041bc645362a13728","email":"alive2154@gmail.com","fullname":"Shaked Barsheshet","imgUrl":"data:image/png;base64,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"} 
+30.1.2023, 13:53:35 - INFO - Req was made 
+30.1.2023, 13:53:35 - DEBUG - Getting stays 
+30.1.2023, 14:04:14 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:04:15 - INFO - New connected socket [id: JWAsGiIborQtWCDNAAAn] 
+30.1.2023, 14:04:55 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:04:57 - INFO - New connected socket [id: tSzOKTixGj1XAY7_AAAp] 
+30.1.2023, 14:05:05 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:05:06 - INFO - New connected socket [id: sBiYDLLr-mlqiX8AAAAr] 
+30.1.2023, 14:05:10 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:05:10 - INFO - New connected socket [id: 88RZclIfl0xYZmXmAAAt] 
+30.1.2023, 14:05:22 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:05:23 - INFO - New connected socket [id: i4JrezmjVEC8FZ9yAAAv] 
+30.1.2023, 14:05:58 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:06:00 - INFO - New connected socket [id: gnBatYgzgrmzjaSlAAAx] 
+30.1.2023, 14:06:05 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:06:05 - INFO - New connected socket [id: iUjA1hdD1iWTciTsAAAz] 
+30.1.2023, 14:06:13 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:06:14 - INFO - New connected socket [id: PLc6yQXUqkC7PbQgAAA1] 
+30.1.2023, 14:06:19 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:06:20 - INFO - New connected socket [id: hT6ofklNOAut-x90AAA3] 
+30.1.2023, 14:06:32 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:06:34 - INFO - New connected socket [id: kNVu5zY1G2POUyeHAAA5] 
+30.1.2023, 14:10:06 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:10:08 - INFO - New connected socket [id: iCkjmZchask52edqAAA7] 
+30.1.2023, 14:10:33 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:10:34 - INFO - New connected socket [id: k4d-FJ3pzD5253aXAAA9] 
+30.1.2023, 14:14:32 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:14:33 - INFO - New connected socket [id: 8WljDbFa_grenWegAAA_] 
+30.1.2023, 14:18:01 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:18:02 - INFO - New connected socket [id: RguFH8KcHHEv1j-vAABB] 
+30.1.2023, 14:18:31 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:18:33 - INFO - New connected socket [id: BPzDdnNDQkh2b2yxAABD] 
+30.1.2023, 14:19:28 - DEBUG - Getting stays 
+30.1.2023, 14:19:28 - INFO - Req was made 
+30.1.2023, 14:20:14 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:20:15 - INFO - New connected socket [id: Opp2bbMQM1ZUws8IAABF] 
+30.1.2023, 14:34:05 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:34:06 - INFO - New connected socket [id: IoyyHLPJMkDQM2hEAABH] 
+30.1.2023, 14:34:18 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:34:19 - INFO - New connected socket [id: KEou9_sudqfZAeINAABJ] 
+30.1.2023, 14:38:14 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:38:15 - INFO - New connected socket [id: UKUD4b2xUTmoJ8kfAABL] 
+30.1.2023, 14:38:28 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:38:30 - INFO - New connected socket [id: 5uDjBHkcBo7CsNpJAABN] 
+30.1.2023, 14:39:16 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:39:17 - INFO - New connected socket [id: YDgpoZZWES7znHsFAABP] 
+30.1.2023, 14:39:21 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:39:22 - INFO - New connected socket [id: 6X4HxPrCN7Vj4eBEAABR] 
+30.1.2023, 14:40:27 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:40:28 - INFO - New connected socket [id: NYFdfRNzxkakLAxxAABT] 
+30.1.2023, 14:42:03 - INFO - Req was made 
+30.1.2023, 14:42:03 - DEBUG - Getting stays 
+30.1.2023, 14:43:59 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:44:00 - INFO - New connected socket [id: qwcSR7dHOcYQdYHoAABV] 
+30.1.2023, 14:44:45 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:44:46 - INFO - New connected socket [id: nNnINV5pQwYt_IgsAABX] 
+30.1.2023, 14:47:34 - INFO - Req was made 
+30.1.2023, 14:47:34 - DEBUG - Getting stays 
+30.1.2023, 14:47:39 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:47:39 - INFO - New connected socket [id: NgWRfpcNG5IorJlXAABZ] 
+30.1.2023, 14:47:56 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:47:57 - INFO - New connected socket [id: iGIV1w21HnCxHWtkAABb] 
+30.1.2023, 14:50:47 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:50:48 - INFO - New connected socket [id: x5lwIHYZBKBikHgKAABd] 
+30.1.2023, 14:52:12 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:52:13 - INFO - New connected socket [id: 6-thQ8_rfP8giMlqAABf] 
+30.1.2023, 14:55:30 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:55:31 - INFO - New connected socket [id: EXmRMChM0eqznz7vAABh] 
+30.1.2023, 14:58:59 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 14:59:00 - INFO - New connected socket [id: a3cvDejsVuJ8qmK4AABj] 
+30.1.2023, 15:01:06 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 15:01:07 - INFO - New connected socket [id: Gjkptz98J-F0VMpnAABl] 
+30.1.2023, 15:08:52 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 15:08:54 - INFO - New connected socket [id: QO5wiKkc3DKZRODwAABn] 
+30.1.2023, 15:09:16 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 15:09:17 - INFO - New connected socket [id: djT7o9YGTzl8rYItAABp] 
+30.1.2023, 15:10:38 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 15:10:39 - INFO - New connected socket [id: wozCVHIXPTjAHBwkAABr] 
+30.1.2023, 15:12:45 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 15:12:46 - INFO - New connected socket [id: xlgijRz7rKrHpvxTAABt] 
+30.1.2023, 15:18:40 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 15:18:40 - INFO - New connected socket [id: CjgpdNub3QsbmZRJAABv] 
+30.1.2023, 15:19:01 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 15:19:02 - INFO - New connected socket [id: mHAOt2il7v8nycjZAABx] 
+30.1.2023, 15:19:53 - DEBUG - Getting stays 
+30.1.2023, 15:19:53 - INFO - Req was made 
+30.1.2023, 15:25:50 - INFO - Req was made 
+30.1.2023, 15:25:50 - DEBUG - Getting stays 
+30.1.2023, 16:08:17 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 17:01:30 - INFO - New connected socket [id: kmLgYT3tHyWry2ihAABz] 
+30.1.2023, 17:01:30 - DEBUG - Getting stays 
+30.1.2023, 17:01:30 - INFO - Req was made 
+30.1.2023, 17:01:43 - INFO - Req was made 
+30.1.2023, 17:01:43 - DEBUG - Getting stays 
+30.1.2023, 17:01:50 - INFO - Socket is leaving topic 622f3402e36c59e6164fac46 [id: kmLgYT3tHyWry2ihAABz] 
+30.1.2023, 17:22:05 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 20:26:39 - INFO - New connected socket [id: 9JjtaJ8RnhObGY4sAAB1] 
+30.1.2023, 20:26:40 - INFO - Req was made 
+30.1.2023, 20:26:40 - DEBUG - Getting stays 
+30.1.2023, 20:26:56 - INFO - Req was made 
+30.1.2023, 20:26:56 - DEBUG - Getting stays 
+30.1.2023, 20:30:03 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 20:30:04 - INFO - New connected socket [id: gD3dEa7LhAEt3DWDAAB3] 
+30.1.2023, 20:48:01 - INFO - Req was made 
+30.1.2023, 20:48:01 - DEBUG - Getting stays 
+30.1.2023, 20:48:22 - INFO - Socket is leaving topic 622f3405e36c59e6164fb718 [id: gD3dEa7LhAEt3DWDAAB3] 
+30.1.2023, 21:11:14 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:28:51 - INFO - New connected socket [id: VFsEtpbsuUB8pG4ZAAB5] 
+30.1.2023, 21:28:51 - INFO - Req was made 
+30.1.2023, 21:28:51 - DEBUG - Getting stays 
+30.1.2023, 21:29:03 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:29:03 - INFO - New connected socket [id: oQflI8_z0MotNqtQAAB7] 
+30.1.2023, 21:29:15 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:29:16 - INFO - New connected socket [id: pEKtEKRl8f9jcOLjAAB9] 
+30.1.2023, 21:29:45 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:29:45 - INFO - New connected socket [id: XGH1Qip9Rr7jN8hVAAB_] 
+30.1.2023, 21:29:47 - INFO - Req was made 
+30.1.2023, 21:29:47 - DEBUG - Getting stays 
+30.1.2023, 21:29:56 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:29:57 - INFO - New connected socket [id: a1lSIdbz-isK49U8AACB] 
+30.1.2023, 21:29:59 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:30:45 - INFO - New connected socket [id: nPB4JwONA7fPQHP0AACD] 
+30.1.2023, 21:30:45 - INFO - Req was made 
+30.1.2023, 21:30:45 - DEBUG - Getting stays 
+30.1.2023, 21:30:54 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:30:55 - INFO - New connected socket [id: g5hpH3mftlL0FhItAACF] 
+30.1.2023, 21:31:18 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:31:18 - INFO - New connected socket [id: VKAb09Mt7A1WY8VAAACH] 
+30.1.2023, 21:31:18 - DEBUG - Getting stays 
+30.1.2023, 21:31:18 - INFO - Req was made 
+30.1.2023, 21:31:34 - INFO - Req was made 
+30.1.2023, 21:31:34 - DEBUG - Getting stays 
+30.1.2023, 21:34:11 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:34:12 - INFO - New connected socket [id: sU4GMeyYBmY8hdtpAACJ] 
+30.1.2023, 21:35:19 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:35:20 - INFO - New connected socket [id: DYPdFAUb1URmSATKAACL] 
+30.1.2023, 21:35:20 - DEBUG - Getting stays 
+30.1.2023, 21:35:20 - INFO - Req was made 
+30.1.2023, 21:35:33 - INFO - Req was made 
+30.1.2023, 21:35:33 - DEBUG - Getting stays 
+30.1.2023, 21:35:35 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:35:36 - INFO - New connected socket [id: ZWorAurdklFavDcQAACN] 
+30.1.2023, 21:35:47 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:35:48 - INFO - New connected socket [id: TMZyRQVfEM44bgnDAACP] 
+30.1.2023, 21:35:49 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:35:49 - INFO - New connected socket [id: 0gGz4JncMfNod2JNAACR] 
+30.1.2023, 21:35:54 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:35:54 - INFO - New connected socket [id: T38BGAlOgOjmEk_6AACT] 
+30.1.2023, 21:36:39 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:36:40 - INFO - New connected socket [id: o2JdQ9qckjhotzVtAACV] 
+30.1.2023, 21:37:13 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:37:14 - INFO - New connected socket [id: eTFUta7JgTx_0uJmAACX] 
+30.1.2023, 21:38:07 - INFO - New connected socket [id: 1HXJwtlxDMgBxo4WAACZ] 
+30.1.2023, 21:38:07 - INFO - Req was made 
+30.1.2023, 21:38:07 - DEBUG - Getting stays 
+30.1.2023, 21:38:25 - INFO - Req was made 
+30.1.2023, 21:38:25 - DEBUG - Getting stays 
+30.1.2023, 21:38:26 - INFO - Socket is leaving topic 622f3401e36c59e6164fabab [id: 1HXJwtlxDMgBxo4WAACZ] 
+30.1.2023, 21:39:11 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:39:12 - INFO - New connected socket [id: 1Rcu39QDgNSpZL2nAACb] 
+30.1.2023, 21:41:34 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:41:36 - INFO - New connected socket [id: -P99eVT9wI-IYkvcAACd] 
+30.1.2023, 21:42:32 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:42:33 - INFO - New connected socket [id: Klrzki6dDUdu9HRYAACf] 
+30.1.2023, 21:43:02 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:43:03 - INFO - New connected socket [id: uHSSs2m_R_uXT1AhAACh] 
+30.1.2023, 21:43:39 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:43:39 - INFO - New connected socket [id: mKSA2z1LVDiQxkvmAACj] 
+30.1.2023, 21:44:05 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 21:44:06 - INFO - New connected socket [id: kIlrFY-fCcZTUbNxAACl] 
+30.1.2023, 22:02:14 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 22:02:15 - INFO - New connected socket [id: RxhMsdM-bVpccmp_AACn] 
+30.1.2023, 22:19:57 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 22:19:58 - INFO - New connected socket [id: ndmeVuF9q7YalijHAACp] 
+30.1.2023, 22:21:33 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 22:21:33 - INFO - New connected socket [id: dkirJV908LhP05HlAACr] 
+30.1.2023, 22:22:00 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 22:22:01 - INFO - New connected socket [id: z_4STSsTlwyMOsifAACt] 
+30.1.2023, 22:22:19 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 22:22:20 - INFO - New connected socket [id: naw_HhUB8hc2tQ69AACv] 
+30.1.2023, 22:23:04 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 22:23:04 - INFO - New connected socket [id: t3__gyDemMxPVILmAACx] 
+30.1.2023, 22:26:49 - INFO - Socket disconnected [id: undefined] 
+30.1.2023, 22:26:52 - INFO - Socket disconnected [id: undefined] 
