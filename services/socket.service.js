@@ -9,6 +9,7 @@ function setupSocketAPI(http) {
         }
     })
     gIo.on('connection', socket => {
+        console.log('log', socket)
         socket.on('disconnect', socket => {
         })
         socket.on('chat-register-users-to-channel', topic => {
